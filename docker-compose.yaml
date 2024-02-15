@@ -1,0 +1,18 @@
+version: '3.4'
+
+services:
+  hugo-blist:
+    platform: linux/amd64
+    image: hugo-blist:latest
+    build: .
+    volumes:
+      - ../Wallpaper:/home/app
+    environment:
+      - TZ=Asia/Shanghai
+      - http_proxy=http://192.168.1.105:20171
+      - https_proxy=http://192.168.1.105:20171
+      - ALL_PROXY=socks5://192.168.1.105:20170
+    ports:
+      - 1313:1313
+    stdin_open: true
+    tty: true

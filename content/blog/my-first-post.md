@@ -15,3 +15,4 @@ Visit the [Hugo](https://gohugo.io) website!
 hello, i am alisonjoe
 
 ![Placeholder](/featured-placeholder.jpg)
+
