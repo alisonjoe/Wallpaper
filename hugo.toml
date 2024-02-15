@@ -1,31 +1,31 @@
-baseurl = "https://alisonjoe.github.io/Wallpaper/"
+baseurl = "https://alisonjoe.github.io/alisonjoe/"
 metaDataFormat = "yaml"
 title = "Blist Multilingual Theme"
 theme = "blist"
 
-DefaultContentLanguage = "zh"
+DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
 [languages]
-  [languages.zh]
+  [languages.en]
     contentDir = "content/" #English
     weight = 1
-    languageName = "中文"
-    [languages.zh.params]
+    languageName = "English"
+    [languages.en.params]
       introTitle = "Hey! I'm Alison Lai"
       introSubtitle = "壁纸网站"
-      introPhoto = "/picture.jpg"
+      introPhoto = "/static/picture.jpg"
       logo = "/blist-logo.png"
-    [[languages.zh.menu.main]]
+    [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
         weight = 1
 
-    [[languages.zh.menu.main]]
+    [[languages.en.menu.main]]
         name = "About"
         url = "page/about/"
         weight = 2
 
-    [[languages.zh.menu.main]]
+    [[languages.en.menu.main]]
         name = "Tags"
         url = "tags"
         weight = 3
