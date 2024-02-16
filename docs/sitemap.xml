@@ -2,16 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alisonjoe.github.io/blog.bak/</loc>
-    <lastmod>2024-02-15T11:03:32+08:00</lastmod>
-  </url><url>
     <loc>https://alisonjoe.github.io/blog/</loc>
     <lastmod>2024-02-15T11:03:32+08:00</lastmod>
   </url><url>
     <loc>https://alisonjoe.github.io/tags/emoji/</loc>
-    <lastmod>2024-02-15T11:03:32+08:00</lastmod>
-  </url><url>
-    <loc>https://alisonjoe.github.io/blog.bak/my-first-post/</loc>
     <lastmod>2024-02-15T11:03:32+08:00</lastmod>
   </url><url>
     <loc>https://alisonjoe.github.io/blog/my-first-post/</loc>
@@ -26,44 +20,11 @@
     <loc>https://alisonjoe.github.io/page/about/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alisonjoe.github.io/blog.bak/emoji-support/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://alisonjoe.github.io/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alisonjoe.github.io/page/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alisonjoe.github.io/tags/css/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alisonjoe.github.io/tags/html/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alisonjoe.github.io/tags/markdown/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alisonjoe.github.io/blog.bak/markdown-syntax/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alisonjoe.github.io/blog.bak/math-typesetting/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alisonjoe.github.io/blog.bak/placeholder-text/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alisonjoe.github.io/tags/privacy/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alisonjoe.github.io/blog.bak/rich-content/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alisonjoe.github.io/tags/shortcodes/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alisonjoe.github.io/tags/text/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alisonjoe.github.io/categories/</loc>
   </url>
