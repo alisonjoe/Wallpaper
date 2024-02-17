@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Blist Multilingual Theme</title>
+    <link>https://alisonjoe.github.io/en/tags/</link>
+    <description>Recent content in Tags on Blist Multilingual Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 17 Feb 2024 23:08:57 +0800</lastBuildDate>
+    <atom:link href="https://alisonjoe.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A natural wonder</title>
+      <link>https://alisonjoe.github.io/en/tags/a-natural-wonder/</link>
+      <pubDate>Sat, 17 Feb 2024 23:08:57 +0800</pubDate>
+      <guid>https://alisonjoe.github.io/en/tags/a-natural-wonder/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>自然奇景</title>
+      <link>https://alisonjoe.github.io/en/tags/%E8%87%AA%E7%84%B6%E5%A5%87%E6%99%AF/</link>
+      <pubDate>Sat, 17 Feb 2024 23:06:56 +0800</pubDate>
+      <guid>https://alisonjoe.github.io/en/tags/%E8%87%AA%E7%84%B6%E5%A5%87%E6%99%AF/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>emoji</title>
+      <link>https://alisonjoe.github.io/en/tags/emoji/</link>
+      <pubDate>Thu, 15 Feb 2024 11:03:32 +0800</pubDate>
+      <guid>https://alisonjoe.github.io/en/tags/emoji/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

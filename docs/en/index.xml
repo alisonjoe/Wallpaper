@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home of Katheryn Fox on Blist Multilingual Theme</title>
+    <link>https://alisonjoe.github.io/en/</link>
+    <description>Recent content in Home of Katheryn Fox on Blist Multilingual Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 17 Feb 2024 23:08:57 +0800</lastBuildDate>
+    <atom:link href="https://alisonjoe.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Pragser Wildsee in the Dolomites, South Tyrol, Italy</title>
+      <link>https://alisonjoe.github.io/en/blog/1708182537171_hpquiz_20240217_lakedolomites/</link>
+      <pubDate>Sat, 17 Feb 2024 23:08:57 +0800</pubDate>
+      <guid>https://alisonjoe.github.io/en/blog/1708182537171_hpquiz_20240217_lakedolomites/</guid>
+      <description>The Pragser Wildsee, set among the majestic Dolomites, is an Alpine jewel also known as Lake Braies. Its crystal waters reflect the impressive peaks of the Dolomites, surrounded by green forests. Accessible via a scenic trail, the lake attracts visitors for hikes and walks during the mild seasons. In summer, it turns into a destination for relaxing boat rides, while in winter the landscape takes on unique magic. The Pragser Wildsee is a mix of natural beauty, history, and culture, with the little church of St.</description>
+    </item>
+    <item>
+      <title>多洛米蒂山的布莱耶斯湖，南蒂罗尔，意大利</title>
+      <link>https://alisonjoe.github.io/en/blog/1708182416340_hpquiz_20240217_lakedolomites/</link>
+      <pubDate>Sat, 17 Feb 2024 23:06:56 +0800</pubDate>
+      <guid>https://alisonjoe.github.io/en/blog/1708182416340_hpquiz_20240217_lakedolomites/</guid>
+      <description>普拉格斯湖坐落在雄伟的多洛米蒂山脉中，是阿尔卑斯山的一颗明珠，也被称为布莱耶斯湖。湖水清澈见底，倒映着多洛米蒂山壮丽伟岸的白云岩，四周环绕着郁郁葱葱的森林。湖边有一条风景优美的小径，在气候温和的时节吸引着众多游客前来远足和散步。夏季，这里是乘船休闲的好去处；冬季，湖光山色成了一幅浓郁的瑰画散发着魅力。普拉格斯湖把自然美景、历史与文化完美融合，矗立一旁的圣维特小教堂见证了它的过去。这个“拥有世上最美的高山景观”的迷人地方将为你带来难忘的体验。</description>
+    </item>
+    <item>
+      <title>The Pragser Wildsee in the Dolomites, South Tyrol, Italy</title>
+      <link>https://alisonjoe.github.io/en/blog/1708182406120_hpquiz_20240217_lakedolomites/</link>
+      <pubDate>Sat, 17 Feb 2024 23:06:46 +0800</pubDate>
+      <guid>https://alisonjoe.github.io/en/blog/1708182406120_hpquiz_20240217_lakedolomites/</guid>
+      <description>The Pragser Wildsee, set among the majestic Dolomites, is an Alpine jewel also known as Lake Braies. Its crystal waters reflect the impressive peaks of the Dolomites, surrounded by green forests. Accessible via a scenic trail, the lake attracts visitors for hikes and walks during the mild seasons. In summer, it turns into a destination for relaxing boat rides, while in winter the landscape takes on unique magic. The Pragser Wildsee is a mix of natural beauty, history, and culture, with the little church of St.</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>https://alisonjoe.github.io/en/blog/my-first-post/</link>
+      <pubDate>Thu, 15 Feb 2024 11:03:32 +0800</pubDate>
+      <guid>https://alisonjoe.github.io/en/blog/my-first-post/</guid>
+      <description>This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!&#xA;hello, i am alisonjoe</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>https://alisonjoe.github.io/en/about/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://alisonjoe.github.io/en/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&#xA;Hugo makes use of a variety of open source projects including:&#xA;https://github.com/yuin/goldmark https://github.</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>https://alisonjoe.github.io/en/page/about/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://alisonjoe.github.io/en/page/about/</guid>
+      <description>壁纸自助网站&#xA;Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&#xA;Hugo makes use of a variety of open source projects including:</description>
+    </item>
+  </channel>
+</rss>
