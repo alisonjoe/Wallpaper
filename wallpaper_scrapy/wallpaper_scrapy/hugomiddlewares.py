@@ -2,6 +2,7 @@ import os
 import subprocess
 from scrapy import signals
 from scrapy.utils.project import get_project_settings
+from jinja2 import Template
 
 
 class HugoMiddleware:
@@ -18,24 +19,39 @@ class HugoMiddleware:
     def hugo_gen_html(self, item, spider):
         settings = get_project_settings()
         working_directory = settings.get('WALLPAPER_BASE')
-        subprocess.run(["rm", "-rf", "docs"], cwd=working_directory)
-        subprocess.run(["hugo", "--gc", "-d", "docs"], cwd=working_directory)
-        subprocess.run(["git", "add", "."], cwd=working_directory)
-        subprocess.run(["git", "commit", "-m", "auto add wallpaper"], cwd=working_directory)
-        subprocess.run(["git", "push", "origin"], cwd=working_directory)
 
+        self.hugo_gen_toml(item, working_directory)
+        #self.hugo_gen(working_directory)
+        #self.push_github(working_directory)
 
+    def hugo_gen_toml(self, item, cwd_path):
+        # 读取 TOML 模板文件
+        with open(f"{cwd_path}/tpl/hugo.tpl", "r") as f:
+            template_str = f.read()
 
+        # 创建 Jinja2 模板对象
+        template = Template(template_str)
 
+        # 定义填充模板所需的数据
+        data = {
+            "last_title": f"{item['title']}",
+            "last_desc": f"{item['desc']}",
+            "last_wallpaper": f"/{item['platform']}/{item['trivia_id']}.jpg",
+        }
 
-# 添加文件到暂存区
-def git_add(file_path):
-    subprocess.run(["git", "add", file_path])
+        # 填充模板并生成 TOML 内容
+        toml_content = template.render(**data)
 
-# 提交暂存区的更改
-def git_commit(message):
-    subprocess.run(["git", "commit", "-m", message])
+        # 将生成的 TOML 内容写入文件
+        with open(f"{cwd_path}/hugo.toml", "w") as f:
+            f.write(toml_content)
 
-# 推送更改到远程仓库
-def git_push():
-    subprocess.run(["git", "push"])
+    def hugo_gen(self, cwd_path):
+        subprocess.run(["rm", "-rf", "docs"], cwd=cwd_path)
+        subprocess.run(["hugo", "--gc", "-d", "docs"], cwd=cwd_path)
+
+    def push_github(self, cwd_path):
+        subprocess.run(["git", "add", "."], cwd=cwd_path)
+        subprocess.run(["git", "commit", "-m", "auto add wallpaper"], cwd=cwd_path)
+        subprocess.run(["git", "push", "origin"], cwd=cwd_path)
+
