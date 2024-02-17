@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Hey! I'm Alison Lai"
-      introSubtitle = "壁纸网站"
-      introPhoto = "/picture.jpg"
+      introTitle = "The Pragser Wildsee in the Dolomites, South Tyrol, Italy"
+      introSubtitle = "The Pragser Wildsee, set among the majestic Dolomites, is an Alpine jewel also known as Lake Braies. Its crystal waters reflect the impressive peaks of the Dolomites, surrounded by green forests. Accessible via a scenic trail, the lake attracts visitors for hikes and walks during the mild seasons. In summer, it turns into a destination for relaxing boat rides, while in winter the landscape takes on unique magic. The Pragser Wildsee is a mix of natural beauty, history, and culture, with the little church of St. Vitus bearing witness to its past. An enchanting place that offers an unforgettable experience in an extraordinary alpine setting."
+      introPhoto = "/bing/HPQuiz_20240217_LakeDolomites.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
@@ -98,70 +98,6 @@ DefaultContentLanguageInSubdir = true
   inputposition = ""
   theme = ""
 
-  # Options for utterances, exclude hyphens
-  # repo = ""
-  # issueterm = ""
-  # theme = ""
-
-#[params.homepage.social]
-#  # Global params common for both languages
-#  title = "Follow me"
-#  description = "I work on everything coding and tweet developer memes"
-#
-#  [[params.homepage.social.icons]]
-#    website = "twitter"
-#    url = "https://twitter.com/"
-#  [[params.homepage.social.icons]]
-#    website = "linkedin"
-#    url = "https://linkedin.com/in/"
-#  [[params.homepage.social.icons]]
-#    website = "xing"
-#    url = "https://www.xing.com/profile/"
-#  [[params.homepage.social.icons]]
-#    website = "telegram"
-#    url = "https://t.me/"
-#  [[params.homepage.social.icons]]
-#    website = "github"
-#    url = "https://github.com/"
-#  [[params.homepage.social.icons]]
-#    website = "buymeacoffee"
-#    url = "https://www.buymeacoffee.com/"
-#  [[params.homepage.social.icons]]
-#    website = "medium"
-#    url = "https://medium.com/"
-#  [[params.homepage.social.icons]]
-#    website = "reddit"
-#    url = "https://reddit.com/"
-#  [[params.homepage.social.icons]]
-#    website = "dribbble"
-#    url = "https://dribbble.com/"
-#  [[params.homepage.social.icons]]
-#    website = "stackoverflow"
-#    url = "https://stackoverflow.com/"
-#  [[params.homepage.social.icons]]
-#    website = "xda"
-#    url = "https://forum.xda-developers.com/"
-#  [[params.homepage.social.icons]]
-#    website = "tiktok"
-#    url = "https://tiktok.com"
-#  [[params.homepage.social.icons]]
-#    website = "googlescholar"
-#    url = "https://scholar.google.com/"
-#  [[params.homepage.social.icons]]
-#    website = "mastodon"
-#    url = "https://joinmastodon.org"
-#  [[params.homepage.social.icons]]
-#    website = "youtube"
-#    url = "https://youtube.com"
-#  [[params.homepage.social.icons]]
-#    website = "instagram"
-#    url = "https://instagram.com"
-#  [[params.homepage.social.icons]]
-#    website = "facebook"
-#    url = "https://facebook.com"
-#  [[params.homepage.social.icons]]
-#    website = "behance"
-#    url = "https://behance.net"
 
 [[menu.main]]
   name = "About"
