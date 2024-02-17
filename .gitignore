@@ -1,4 +1,7 @@
 node_modules/
+*.log
+hugo_stats.json
 resources/
 public/
 .DS_Store
+*eaDir
