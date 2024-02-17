@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "The Pragser Wildsee in the Dolomites, South Tyrol, Italy"
-      introSubtitle = "The Pragser Wildsee, set among the majestic Dolomites, is an Alpine jewel also known as Lake Braies. Its crystal waters reflect the impressive peaks of the Dolomites, surrounded by green forests. Accessible via a scenic trail, the lake attracts visitors for hikes and walks during the mild seasons. In summer, it turns into a destination for relaxing boat rides, while in winter the landscape takes on unique magic. The Pragser Wildsee is a mix of natural beauty, history, and culture, with the little church of St. Vitus bearing witness to its past. An enchanting place that offers an unforgettable experience in an extraordinary alpine setting."
-      introPhoto = "/bing/HPQuiz_20240217_LakeDolomites.jpg"
+      introTitle = " Meteor over the Bay of Naples "
+      introSubtitle = "  A cosmic dust grain plowing throughthe upper atmosphere much faster thancreated this brilliant.In a serendipitous moment, the sublime night sky view wascaptured from the resort island of Capri, in the Bay of Naples,on the evening of February 8.Looking across the bay, the camera faces northeast towardthe lights of Naples and surrounding cities.Pointing toward the horizon, theby chance ends above the silhouette of Mount Vesuvius.One of planet Earth's most famous volcanos, an eruption ofdestroyed the city of Pompeii. "
+      introPhoto = "/nasa/Eyes_at_Night.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
