@@ -61,12 +61,12 @@ ITEM_PIPELINES = {
     'wallpaper_scrapy.pipelines.WallpaperImgDownloadPipeline': 300
 }
 
-#IMAGES_STORE="/app/wallpaper/static"
-#BLOG_STORE="/app/wallpaper/content/blog"
-#WALLPAPER_BASE="/app/wallpaper"
-WALLPAPER_BASE="/Users/alison/WorkSpace/Wallpaper/"
-IMAGES_STORE="/Users/alison/WorkSpace/Wallpaper/static"
-BLOG_STORE="/Users/alison/WorkSpace/Wallpaper/content/blog"
+WALLPAPER_BASE="/app/Wallpaper"
+IMAGES_STORE="/app/Wallpaper/static"
+BLOG_STORE="/app/Wallpaper/content/blog"
+#WALLPAPER_BASE="/Users/alison/WorkSpace/Wallpaper/"
+#IMAGES_STORE="/Users/alison/WorkSpace/Wallpaper/static"
+#BLOG_STORE="/Users/alison/WorkSpace/Wallpaper/content/blog"
 
 # Set settings whose default value is deprecated to a future-proof value
 REQUEST_FINGERPRINTER_IMPLEMENTATION = "2.7"

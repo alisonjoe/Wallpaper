@@ -21,8 +21,8 @@ class HugoMiddleware:
         working_directory = settings.get('WALLPAPER_BASE')
 
         self.hugo_gen_toml(item, working_directory)
-        #self.hugo_gen(working_directory)
-        #self.push_github(working_directory)
+        self.hugo_gen(working_directory)
+        self.push_github(working_directory)
 
     def hugo_gen_toml(self, item, cwd_path):
         # 读取 TOML 模板文件

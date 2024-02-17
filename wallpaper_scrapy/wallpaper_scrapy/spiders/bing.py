@@ -19,7 +19,8 @@ class WallpaperBingSpider(scrapy.Spider):
 
     def start_requests(self):
         for url in self.start_urls:
-            yield SplashRequest(url=url, callback=self.parse)
+            #yield SplashRequest(url=url, callback=self.parse, args={'wait': 6, 'timeout':60})
+            yield Request(url=url, callback=self.parse)
 
 
     def parse(self, response):
