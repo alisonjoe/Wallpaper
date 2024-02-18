@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = " Hoag's Object: A Nearly Perfect Ring Galaxy "
-      introSubtitle = "  Is this one galaxy or two?  This question came to light in 1950 when astronomerchanced upon this unusual extragalactic object.  On the outside is a dominated by bright blue stars,while near the center lies a ball of much redder starsthat are likely much older.  Between the two is a that appears almost completely dark.  How  formed, including its nearly  of stars and gas, remains unknown. Genesis hypotheses include abillions of years ago and the gravitational effect of a that has.The  was taken by theand reprocessed using an . Observations in  indicate that  has  accreted a smaller galaxy in the past billion years.  spans about 100,000 and lies about 600 million  away toward the  of the Snake().  Many galaxies far in the distance are visible toward the right, while , visible in the gap at about seven o'clock, is another but more distant ."
-      introPhoto = "/nasa/ESA.jpg"
+      introTitle = "Sperm whale pod surfacing, Dominica"
+      introSubtitle = "Ahoy there, giants of the sea! World Whale Day is surfacing yet again, along with these sperm whales off the coast of the Caribbean island of Dominica. Established in 1980 in Maui, the day originally aimed to celebrate the humpback whales in Hawaiian waters and has evolved into a global event advocating for the conservation of all whale species."
+      introPhoto = "/bing/HPQuiz_20240218_DominicaWhales.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
