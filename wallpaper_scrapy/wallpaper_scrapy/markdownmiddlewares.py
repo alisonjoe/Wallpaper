@@ -4,18 +4,20 @@ from scrapy import signals
 from datetime import datetime, timezone, timedelta
 from scrapy.utils.project import get_project_settings
 
+
 class MarkdownMiddleware:
+
     @classmethod
     def from_crawler(cls, crawler):
         middleware = cls()
         crawler.signals.connect(middleware.files_downloaded, signal=signals.item_scraped)
-        return middleware   
+        return middleware
 
     def files_downloaded(self, item, response, spider):
         # 在每次下载完成后触发
-        self.create_md(item, spider)  
+        self.create_md(item, spider)
 
-    
+
     def create_md(self, item, spider):
 
         # 获取当前时间

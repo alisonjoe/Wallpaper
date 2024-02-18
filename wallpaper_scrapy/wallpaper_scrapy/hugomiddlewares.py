@@ -1,7 +1,9 @@
 import os
+import pymysql
 import subprocess
 from scrapy import signals
 from scrapy.utils.project import get_project_settings
+from wallpaper_scrapy.mariadb import DBConnectionPool
 from jinja2 import Template
 
 
@@ -10,11 +12,11 @@ class HugoMiddleware:
     def from_crawler(cls, crawler):
         middleware = cls()
         crawler.signals.connect(middleware.files_downloaded, signal=signals.item_scraped)
-        return middleware   
+        return middleware
 
     def files_downloaded(self, item, response, spider):
         # 在每次下载完成后触发
-        self.hugo_gen_html(item, spider)  
+        self.hugo_gen_html(item, spider)
 
     def hugo_gen_html(self, item, spider):
         settings = get_project_settings()
@@ -23,6 +25,13 @@ class HugoMiddleware:
         self.hugo_gen_toml(item, working_directory)
         self.hugo_gen(working_directory)
         self.push_github(working_directory)
+        try:
+            db_pool = DBConnectionPool()
+            db_pool.insert_wallpaper(item['trivia_id'], item['image_urls'],
+                                     item['mkt'], item['platform'])
+        except pymysql.Error as e:
+            # 打印异常信息或者记录日志
+            spider.logger.error(f"Error: {e}")
 
     def hugo_gen_toml(self, item, cwd_path):
         # 读取 TOML 模板文件
@@ -54,4 +63,3 @@ class HugoMiddleware:
         subprocess.run(["git", "add", "."], cwd=cwd_path)
         subprocess.run(["git", "commit", "-m", "auto add wallpaper"], cwd=cwd_path)
         subprocess.run(["git", "push", "origin"], cwd=cwd_path)
-

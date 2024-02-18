@@ -17,3 +17,4 @@ class BingScrapyItem(scrapy.Item):
     image_paths = scrapy.Field()
     md_path = scrapy.Field()
     trivia_id = scrapy.Field()
+    mkt = scrapy.Field()
