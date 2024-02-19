@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "傘花"
-      introSubtitle = "季風時節，綿綿細雨之中出現一把繽紛的傘，像是地上開出一朵小花。攝於印度的克勒格布爾。"
-      introPhoto = "/netgeomedia/Photograph_by_Vidhu_Pillai_2022012664176357.jpg"
+      introTitle = "轉綠"
+      introSubtitle = "我在密西西比州一個叫做馬吉的小鎮上經過花店，發現了這些花。這張照片是在我買下花兒的兩週之後拍的，它們剛開始凋謝，拍起來別有一番美感。"
+      introPhoto = "/netgeomedia/_Lisa_Runnels_2022012663843457.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
