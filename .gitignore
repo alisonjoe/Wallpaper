@@ -1,5 +1,6 @@
 node_modules/
 *.log
+*.pyc
 hugo_stats.json
 resources/
 public/

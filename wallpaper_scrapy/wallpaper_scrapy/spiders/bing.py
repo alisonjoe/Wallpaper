@@ -50,7 +50,9 @@ class WallpaperBingSpider(scrapy.Spider):
                 self.tag = item.get('ImageContent', '').get('Headline', '')
                 self.copyright = item.get('ImageContent', '').get('Copyright', '')
                 self.title = item.get('ImageContent', '').get('Title', '')
-                self.triviaId = item.get('ImageContent', '').get('TriviaId', '')
+                triviaId = item.get('ImageContent', '').get('TriviaId', '').split("_")
+                #HPQuiz_20240218_DominicaWhales
+                self.triviaId = triviaId[2]
                 image_url = 'https://bing.com' + item.get('ImageContent', '').get('Image', '').get('Wallpaper', '')
                 # 删掉rf=xxx
                 new_url = re.sub(r"&rf=[^&]+", "", image_url)

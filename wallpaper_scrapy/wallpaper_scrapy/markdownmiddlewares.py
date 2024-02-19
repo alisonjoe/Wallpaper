@@ -25,8 +25,7 @@ class MarkdownMiddleware:
         # 格式化时间为指定格式
         formatted_time = current_time.strftime("%Y-%m-%dT%H:%M:%S%z")
         settings = get_project_settings()
-        unix_timestamp = int(time.time() * 1000)
-        md_filename = os.path.join(settings.get('BLOG_STORE'), f"{unix_timestamp}_{item['trivia_id']}.md")
+        md_filename = os.path.join(settings.get('BLOG_STORE'), f"{item['trivia_id']}.md")
         markdown_content = f"""---
 author: "AlisonLai"
 title: "{item['title']}"
