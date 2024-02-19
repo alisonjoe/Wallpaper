@@ -24,7 +24,8 @@ class HugoMiddleware:
 
         self.hugo_gen_toml(item, working_directory)
         self.hugo_gen(working_directory)
-        self.push_github(working_directory)
+        msg = f"auto add {item['platform']} {item['title']}"
+        self.push_github(msg, working_directory)
         if item['trivia_id'] == "":
             return
         try:
@@ -61,7 +62,7 @@ class HugoMiddleware:
         subprocess.run(["rm", "-rf", "docs"], cwd=cwd_path)
         subprocess.run(["hugo", "--gc", "-d", "docs"], cwd=cwd_path)
 
-    def push_github(self, cwd_path):
+    def push_github(self, msg, cwd_path):
         subprocess.run(["git", "add", "."], cwd=cwd_path)
-        subprocess.run(["git", "commit", "-m", "auto add wallpaper"], cwd=cwd_path)
+        subprocess.run(["git", "commit", "-m", msg], cwd=cwd_path)
         subprocess.run(["git", "push", "origin"], cwd=cwd_path)
