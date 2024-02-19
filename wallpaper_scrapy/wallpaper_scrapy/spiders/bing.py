@@ -60,13 +60,14 @@ class WallpaperBingSpider(scrapy.Spider):
                 self.image_urls = [new_url.replace("_1920x1200.jpg", "_UHD.jpg")]
 
         else:
-            print("No match found.")
+            print("===========================No match found.")
+            return
 
         # 判断数据库中是否有 triviaId 数据
         db_pool = DBConnectionPool()
-        count = db_pool.is_exists(triviaId)
+        count = db_pool.is_exists(self.triviaId)
         if count == 1:
-            print(f"{triviaId} is exists")
+            print(f"{self.triviaId} is exists")
             return
 
         item_data = {
