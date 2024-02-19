@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "深夜嬌客"
-      introSubtitle = "這張照片是7月時在我們位於賓夕法尼亞州科茨維爾的住家後院拍到的。"
-      introPhoto = "/netgeomedia/Sammy_Love_2022033162203073.jpg"
+      introTitle = "藍色瓦拉那西"
+      introSubtitle = "街頭遇見的小男孩，攝於印度北方邦（Uttar Pradesh）的瓦拉那西（Varanasi）。"
+      introPhoto = "/netgeomedia/Anton_Jankovoy_2021050749696857.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
