@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "邂逅優雅猛獸"
-      introSubtitle = "攝於斯里蘭卡的雅拉國家公園深處。我們在叢林中紮營時，偶然看到這頭豹從長草叢中走出來，穿過空地。牠毛色光亮、神情謹慎，十分戒備地經過我們附近。當時夕陽西斜，光線很棒，實在是令人難以忘懷的畫面。"
-      introPhoto = "/netgeomedia/Photograph_by_Lucia_Griggi_2022012663738157.jpg"
+      introTitle = "傘花"
+      introSubtitle = "季風時節，綿綿細雨之中出現一把繽紛的傘，像是地上開出一朵小花。攝於印度的克勒格布爾。"
+      introPhoto = "/netgeomedia/Photograph_by_Vidhu_Pillai_2022012664176357.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
