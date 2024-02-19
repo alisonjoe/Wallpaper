@@ -27,17 +27,38 @@ class WallpaperBingAPISpider(scrapy.Spider):
         pic_url = response.xpath(path).extract_first()
         author_values = response.xpath('/html/body/header/div/a/p/text()[2]').get()
         self.author_value = author_values.split("：")[-1]
+        # 选择 <header> 元素
+        header_element = response.css('header.index-kv')
+        # 从 style 属性中提取 background 属性的值
+        style_value = header_element.xpath('./@style').get()
+        # 提取背景图片的 URL
+        background_url = self.extract_background_url(style_value)
+        self.logger.info("Background URL: %s", background_url)
+        self.image_url = background_url
 
         yield Request(url=pic_url, callback=self.parse_detail)
 
+    def extract_background_url(self, style_value):
+        # 从 style 属性中提取 background 属性的值
+        # 示例中假设 background 属性总是在第一个分号之前
+        background_index = style_value.find('background')
+        semicolon_index = style_value.find(';')
+        background_value = style_value[background_index:semicolon_index]
+
+        # 提取 URL
+        print("background_value: ", background_value)
+        url_start_index = background_value.find('url(')
+        url_end_index = background_value.find(')')
+        background_url = background_value[url_start_index + 4:url_end_index]
+
+        return background_url
 
     def parse_detail(self, response):
         title_values = response.xpath('//meta[@property="og:title"]/@content').getall()
         title_value = title_values[0]
         desc_values = response.xpath('//meta[@property="og:description"]/@content').getall()
         desc_value = desc_values[0]
-        image_values = response.xpath('//meta[@property="og:image"]/@content').getall()
-        image_value = image_values[0]
+        image_value = self.image_url
         tag_values = response.xpath('//meta[@name="keywords"]/@content').getall()
         tag_value = tag_values[0]
         triviaId = self.author_value + "_" + image_value.split("/")[-1].split(".")[0]
