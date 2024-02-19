@@ -25,6 +25,8 @@ class HugoMiddleware:
         self.hugo_gen_toml(item, working_directory)
         self.hugo_gen(working_directory)
         self.push_github(working_directory)
+        if item['trivia_id'] == "":
+            return
         try:
             db_pool = DBConnectionPool()
             db_pool.insert_wallpaper(item['trivia_id'], item['image_urls'],
