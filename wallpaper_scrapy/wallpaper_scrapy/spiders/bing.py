@@ -6,6 +6,7 @@ from scrapy.http import Request, Response
 from wallpaper_scrapy.items import BingScrapyItem
 from fake_useragent import UserAgent
 from scrapy_splash import SplashRequest
+from wallpaper_scrapy.mariadb import DBConnectionPool
 
 
 class WallpaperBingSpider(scrapy.Spider):
@@ -60,6 +61,13 @@ class WallpaperBingSpider(scrapy.Spider):
 
         else:
             print("No match found.")
+
+        # 判断数据库中是否有 triviaId 数据
+        db_pool = DBConnectionPool()
+        count = db_pool.is_exists(triviaId)
+        if count == 1:
+            print(f"{triviaId} is exists")
+            return
 
         item_data = {
             'platform': 'bing',
