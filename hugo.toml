@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "轉綠"
-      introSubtitle = "我在密西西比州一個叫做馬吉的小鎮上經過花店，發現了這些花。這張照片是在我買下花兒的兩週之後拍的，它們剛開始凋謝，拍起來別有一番美感。"
-      introPhoto = "/netgeomedia/_Lisa_Runnels_2022012663843457.jpg"
+      introTitle = "深夜嬌客"
+      introSubtitle = "這張照片是7月時在我們位於賓夕法尼亞州科茨維爾的住家後院拍到的。"
+      introPhoto = "/netgeomedia/Sammy_Love_2022033162203073.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
