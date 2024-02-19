@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "餵我餵我！"
-      introSubtitle = "攝於美國蒙大拿州的冰河國家公園。一隻河烏幼鳥正在向媽媽討食物，這種鳥類棲息在水流快速的山間溪流附近，會潛入水面下捕食水生昆蟲。為了養育幼鳥，母鳥孜孜不倦地在湍急的溪流中覓食，但是經常空手而回。"
-      introPhoto = "/netgeomedia/JK_Putnam_2022010465556593.jpg"
+      introTitle = "公車上"
+      introSubtitle = "這張照片攝於臺北，是我的系列攝影作品之一。我想記錄臺灣的生活風景，藉由聚焦於各種日常中普羅大眾各種異乎尋常、率直自然的有趣行為，呈現出一種復古、神祕而有如夢境般的感覺。"
+      introPhoto = "/netgeomedia/Photograph_by_Ryan_Harding_2022012670543945.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
