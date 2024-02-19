@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Toledo, Spain (© Carlos Fernandez/Getty Images)"
-      introSubtitle = "Toledo, a city situated in the Castilla-La Mancha region of Spain, is known for its unique geography. Positioned on a raised mass of land, the city is embraced by the Tagus River on three sides. This splendid city was called 'The City of Three Cultures' during the Middle Ages, where Christian, Muslim and Jewish communities coexisted harmoniously. Toledo has been a UNESCO World Heritage Site since 1986, and its historical core is packed with mosques, synagogues and an impressive Gothic cathedral. The city has a strong Moorish cultural influence, left over from their arrival around the eighth century. The city was once home to the painter El Greco in the 16th century. He had an impact on Toledo, creating some of his most significant works, like the Assumption of the Virgin, which is considered one of his greatest masterpieces. Before the 16th century, Toledo's sword-making industry was known as one of Europe's finest."
-      introPhoto = "/bing/TajoRiver.jpg"
+      introTitle = "追尋極光"
+      introSubtitle = "這張照片攝於挪威的阿爾塔市（Norway Alta City）。我從拉脫維亞一路開車過來，這是我第一次看到極光。我一輩子也忘不了這樣的美景。照片中是我本人。"
+      introPhoto = "/netgeomedia/Peter_Ribalchenko_2021042152962473.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
