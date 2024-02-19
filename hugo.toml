@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "公車上"
-      introSubtitle = "這張照片攝於臺北，是我的系列攝影作品之一。我想記錄臺灣的生活風景，藉由聚焦於各種日常中普羅大眾各種異乎尋常、率直自然的有趣行為，呈現出一種復古、神祕而有如夢境般的感覺。"
-      introPhoto = "/netgeomedia/Photograph_by_Ryan_Harding_2022012670543945.jpg"
+      introTitle = "有志者事竟成"
+      introSubtitle = "納森．米德（Nathan Meader）在尼克．布羅德（Nick Broeder）的繫繩協助之下，完成了這趟攀岩，他從中繼固定點垂降下來，然後兩人在此休息過夜。在我開始曝光攝影前，有另一個攀岩隊成功登頂然後回到地面，可以看出他們移動的路線。"
+      introPhoto = "/netgeomedia/Jason_Kaplan_2021050749497733.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
