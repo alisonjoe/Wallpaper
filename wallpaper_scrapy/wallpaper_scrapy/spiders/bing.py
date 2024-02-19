@@ -65,6 +65,7 @@ class WallpaperBingSpider(scrapy.Spider):
             'platform': 'bing',
             'title': self.title,
             'tag': self.tag,
+            'mkt':'bing-cn',
             'desc': self.description,
             'copyright': self.copyright,
             'image_urls': self.image_urls,
