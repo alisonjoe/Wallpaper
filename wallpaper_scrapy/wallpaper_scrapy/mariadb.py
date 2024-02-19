@@ -31,9 +31,9 @@ class DBConnectionPool:
             setsession=[],  # 每次连接时执行的 SQL 语句
             ping=0,  # 检查连接是否有效
             host='192.168.1.105',
-            port=33006,  # 你的自定义端口号
+            port=3306,  # 你的自定义端口号
             user='root',
-            password='*****',
+            password='***',
             database='scrapy_manga',
             charset='utf8mb4'
         )
@@ -65,7 +65,7 @@ class DBConnectionPool:
         """
         with self.connection.cursor() as cursor:
             sql = """
-            INSERT INTO wallpaper(trivia_id, wallpaper_url, mkt, platform) VALUES (%s, %s, %s, %s)
+            INSERT INTO wallpaper(trivia_id, wallpaper_url, mkt, platform) VALUES (%s, %s, %s, %s) ON DUPLICATE KEY UPDATE update_time = CURRENT_TIMESTAMP();
             """
             cursor.execute(sql, (triviaId, wallpaper_url, mkt, platform))
         self.connection.commit()
