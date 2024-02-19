@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Lincoln Memorial, Washington, DC (© Steve Whiston/Fallen Log Photography/Getty Images)"
-      introSubtitle = "The United States of America has had 46 commanders in chief, and today, the third Monday of February, we commemorate their legacies. Initially established to honor George Washington's birthday, Presidents Day has evolved into a celebration of all presidents. Revered among them is Abraham Lincoln, a towering figure in American history, who guided the country through the Civil War and abolished slavery in America. The Lincoln Memorial, seen in today's image, overlooks the Reflecting Pool at the west end of the National Mall in Washington, DC. Designed in a neoclassical style, the memorial is a poignant destination for those seeking to connect with American history during Presidents Day, and beyond."
-      introPhoto = "/bing/LincolnSunset.jpg"
+      introTitle = "Toledo, Spain (© Carlos Fernandez/Getty Images)"
+      introSubtitle = "Toledo, a city situated in the Castilla-La Mancha region of Spain, is known for its unique geography. Positioned on a raised mass of land, the city is embraced by the Tagus River on three sides. This splendid city was called 'The City of Three Cultures' during the Middle Ages, where Christian, Muslim and Jewish communities coexisted harmoniously. Toledo has been a UNESCO World Heritage Site since 1986, and its historical core is packed with mosques, synagogues and an impressive Gothic cathedral. The city has a strong Moorish cultural influence, left over from their arrival around the eighth century. The city was once home to the painter El Greco in the 16th century. He had an impact on Toledo, creating some of his most significant works, like the Assumption of the Virgin, which is considered one of his greatest masterpieces. Before the 16th century, Toledo's sword-making industry was known as one of Europe's finest."
+      introPhoto = "/bing/TajoRiver.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
