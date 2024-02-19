@@ -35,6 +35,7 @@ tags: ["{item['tag']}"]
 copyright: {item['copyright']}
 thumbnail: /{item['platform']}/{item['trivia_id']}.jpg
 ---
+图文来源自：{item['platform']}  copyright: {item['copyright']}
 
 {item['desc']}
 
