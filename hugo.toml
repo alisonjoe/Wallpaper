@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "有志者事竟成"
-      introSubtitle = "納森．米德（Nathan Meader）在尼克．布羅德（Nick Broeder）的繫繩協助之下，完成了這趟攀岩，他從中繼固定點垂降下來，然後兩人在此休息過夜。在我開始曝光攝影前，有另一個攀岩隊成功登頂然後回到地面，可以看出他們移動的路線。"
-      introPhoto = "/netgeomedia/Jason_Kaplan_2021050749497733.jpg"
+      introTitle = "Kinder Scout，峰区国家公园，英国"
+      introSubtitle = "在英国峰区国家公园那片广阔的土地上，坐落着金德·斯科特自然保护区，它是英国历史上一次重要的人民运动的发生地。金德·斯科特海拔约2087英尺，是峰区的最高点，崎岖的荒野和狂风呼啸的高原吸引着世世代代的冒险家和自然爱好者前来探险。1932年，这里发生了历史性的大规模非法闯入事件，数百名民众徒步抗议要求公众可以自由进入这片领域，这一公民抗命运动促使了英国国家公园立法的通过。峰区国家公园的建立使得这里的丘陵和山谷得到保护，成为生态资源，供后人享受，同时也标志着对大众通行权以及自然资源的保护工作取得了重大胜利。"
+      introPhoto = "/bing/PeakDistrictNP.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
