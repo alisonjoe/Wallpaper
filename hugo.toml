@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "公車上"
-      introSubtitle = "這張照片攝於臺北，是我的系列攝影作品之一。我想記錄臺灣的生活風景，藉由聚焦於各種日常中普羅大眾各種異乎尋常、率直自然的有趣行為，呈現出一種復古、神祕而有如夢境般的感覺。"
-      introPhoto = "/netgeomedia/Photograph_by_Ryan_Harding_2022012670543945.jpg"
+      introTitle = "河畔草原上的鬣狗"
+      introSubtitle = "我在2011年5月造訪維拉瓦達國家公園（Velavadar National Park），這趟旅程基本上非常慘烈，因為夏天實在是太熱了。不過在離開前一天的傍晚，我很幸運地拍到這張照片。在夕陽餘暉照耀之下，這隻鬣狗在金黃色的草原中享受吹拂而過的微風，幾乎和周圍融為一體。"
+      introPhoto = "/netgeomedia/Yashodhan_Bhatia_2021050750270745.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
