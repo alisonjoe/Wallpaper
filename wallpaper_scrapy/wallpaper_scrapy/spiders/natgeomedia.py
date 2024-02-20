@@ -61,8 +61,7 @@ class WallpaperBingAPISpider(scrapy.Spider):
         desc_values = response.xpath('//meta[@property="og:description"]/@content').getall()
         desc_value = desc_values[0]
         image_value = self.image_url
-        tag_values = response.xpath('//meta[@name="keywords"]/@content').getall()
-        tag_value = tag_values[0]
+        tag_value = "natgeomedia"
         triviaId = self.author_value + "_" + image_value.split("/")[-1].split(".")[0]
         triviaId = triviaId.replace(" ", "_")
 
