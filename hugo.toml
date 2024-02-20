@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "河畔草原上的鬣狗"
-      introSubtitle = "我在2011年5月造訪維拉瓦達國家公園（Velavadar National Park），這趟旅程基本上非常慘烈，因為夏天實在是太熱了。不過在離開前一天的傍晚，我很幸運地拍到這張照片。在夕陽餘暉照耀之下，這隻鬣狗在金黃色的草原中享受吹拂而過的微風，幾乎和周圍融為一體。"
-      introPhoto = "/netgeomedia/Yashodhan_Bhatia_2021050750270745.jpg"
+      introTitle = "歲月流逝"
+      introSubtitle = "黛拉是我救援回來的馬，雖然牠得了青光眼，一眼全盲、另一眼視力微弱，但牠的聽力非常好。牠聽到我在穀倉工作的聲音，就停下腳步細聽我的動靜，因為牠知道只要找到我，我就會給牠一根胡蘿蔔（而牠總是找得到我）。這是我從穀倉裡面往窗外拍到的黛拉和農場。"
+      introPhoto = "/netgeomedia/Photograph_by_Anne_Marcom_2022033161590053.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
