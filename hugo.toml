@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "歲月流逝"
-      introSubtitle = "黛拉是我救援回來的馬，雖然牠得了青光眼，一眼全盲、另一眼視力微弱，但牠的聽力非常好。牠聽到我在穀倉工作的聲音，就停下腳步細聽我的動靜，因為牠知道只要找到我，我就會給牠一根胡蘿蔔（而牠總是找得到我）。這是我從穀倉裡面往窗外拍到的黛拉和農場。"
-      introPhoto = "/netgeomedia/Photograph_by_Anne_Marcom_2022033161590053.jpg"
+      introTitle = "傘花"
+      introSubtitle = "季風時節，綿綿細雨之中出現一把繽紛的傘，像是地上開出一朵小花。攝於印度的克勒格布爾。"
+      introPhoto = "/netgeomedia/Photograph_by_Vidhu_Pillai_2022012664176357.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
