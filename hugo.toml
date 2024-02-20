@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "吃檸檬皮的羊群"
-      introSubtitle = "從空中拍攝在黑色荒漠土上吃檸檬皮的羊群，攝於西班牙南部的塔韋爾納斯。"
-      introPhoto = "/netgeomedia/Steve_Brockett_2022012670382825.jpg"
+      introTitle = "休息時光"
+      introSubtitle = "我在義大利的「五漁村」捕捉到這一大一小在海邊放鬆的愉快時光。"
+      introPhoto = "/netgeomedia/Jaclyn_Kessel_2022033161779885.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
