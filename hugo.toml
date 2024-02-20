@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "綠洲裡的老婦人"
-      introSubtitle = "我在曼谷著名的紅燈區牛仔街發現了這個地方。這條街十分熱鬧，滿街都是鋼管酒吧、妓女和脫衣舞孃。我經過一家吵吵嚷嚷的酒吧，看到一個個眼中毫無光彩的落寞女子，為了吸引男性顧客而擠出笑容、賣力舞動。相較之下，這間小店裡的老婦人彷彿處於沙漠中的綠洲。"
-      introPhoto = "/netgeomedia/Viola_Macakova_2022012670653961.jpg"
+      introTitle = "公車上"
+      introSubtitle = "這張照片攝於臺北，是我的系列攝影作品之一。我想記錄臺灣的生活風景，藉由聚焦於各種日常中普羅大眾各種異乎尋常、率直自然的有趣行為，呈現出一種復古、神祕而有如夢境般的感覺。"
+      introPhoto = "/netgeomedia/Photograph_by_Ryan_Harding_2022012670543945.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
