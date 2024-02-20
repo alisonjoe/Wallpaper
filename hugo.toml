@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "冬季抽象畫"
-      introSubtitle = "這張美麗的照片攝於明尼蘇達州，是我在這年第一場雪下完後，在一株黃背櫟（swamp oak）下抬頭看到的畫面。"
-      introPhoto = "/netgeomedia/Daniel_Jeffery_2022012669680745.jpg"
+      introTitle = "玩耍的小北極狐"
+      introSubtitle = "夏日暖陽下，兩隻小北極狐在阿爾克霍恩（位於斯瓦爾巴群島）的岩岸上玩得不亦樂乎；牠們的母親外出狩獵去了，不在身邊。看著牠們在野外自由自在的樣子，實在令人開心！"
+      introPhoto = "/netgeomedia/Irit_Abramovich_2022033161064541.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
