@@ -44,7 +44,7 @@ DOWNLOADER_MIDDLEWARES = {
     'scrapy_splash.SplashMiddleware': 725,
     'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware': 810,
     'wallpaper_scrapy.markdownmiddlewares.MarkdownMiddleware': 888,  # Adjust the priority as needed
-    'wallpaper_scrapy.hugomiddlewares.HugoMiddleware': 889, 
+    'wallpaper_scrapy.hugomiddlewares.HugoMiddleware': 889,
 
 
     #设置不参与scrapy的自动重试的动作
@@ -64,9 +64,9 @@ ITEM_PIPELINES = {
 WALLPAPER_BASE="/app/Wallpaper"
 IMAGES_STORE="/app/Wallpaper/static"
 BLOG_STORE="/app/Wallpaper/content/blog"
-#WALLPAPER_BASE="/Users/alison/WorkSpace/Wallpaper/"
-#IMAGES_STORE="/Users/alison/WorkSpace/Wallpaper/static"
-#BLOG_STORE="/Users/alison/WorkSpace/Wallpaper/content/blog"
+#WALLPAPER_BASE="../"
+#IMAGES_STORE="../static"
+#BLOG_STORE="../content/blog"
 
 # Set settings whose default value is deprecated to a future-proof value
 REQUEST_FINGERPRINTER_IMPLEMENTATION = "2.7"

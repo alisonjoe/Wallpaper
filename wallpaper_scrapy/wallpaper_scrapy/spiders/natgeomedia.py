@@ -25,8 +25,10 @@ class WallpaperBingAPISpider(scrapy.Spider):
     def parse_home(self, response):
         path = '/html/body/header/div/a/@href'
         pic_url = response.xpath(path).extract_first()
-        author_values = response.xpath('/html/body/header/div/a/p/text()[2]').get()
-        self.author_value = author_values.split("：")[-1]
+        author_value = response.xpath('/html/body/header/div/a/p/text()[2]').get()
+        # 删除最前面的空格
+        author_value = author_value.lstrip()
+        self.author_value = author_value.split("：")[-1]
         # 选择 <header> 元素
         header_element = response.css('header.index-kv')
         # 从 style 属性中提取 background 属性的值
