@@ -63,6 +63,7 @@ class HugoMiddleware:
         subprocess.run(["hugo", "--gc", "-d", "docs"], cwd=cwd_path)
 
     def push_github(self, msg, cwd_path):
+        subprocess.run(["git", "pull", "origin"], cwd=cwd_path)
         subprocess.run(["git", "add", "."], cwd=cwd_path)
         subprocess.run(["git", "commit", "-m", msg], cwd=cwd_path)
         subprocess.run(["git", "push", "origin"], cwd=cwd_path)
