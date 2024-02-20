@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "蛻皮"
-      introSubtitle = "我偶然發現正在蛻皮的昆蟲，便將這個自然現象的過程記錄下來。其中一隻已經完成蛻變，另一隻正進行到一半。這張照片是使用Nikon D90拍攝，搭配Tamron SP AF 90mm 微距鏡頭，放大倍率1:1，採手持攝影，光源為自然光。"
-      introPhoto = "/netgeomedia/_Donald_Jusa_2022033160575221.jpg"
+      introTitle = "紅尾彗星蜂鳥"
+      introSubtitle = "攝影：Damilice Mansur， 國家地理〈你的觀點〉 一隻紅尾彗星蜂鳥 （red-tailed com"
+      introPhoto = "/netgeomedia/Damilice_Mansur,_National_Geographic_Your_Shot_2019031264093769.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
