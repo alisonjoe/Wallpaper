@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "紅尾彗星蜂鳥"
-      introSubtitle = "攝影：Damilice Mansur， 國家地理〈你的觀點〉 一隻紅尾彗星蜂鳥 （red-tailed com"
-      introPhoto = "/netgeomedia/Damilice_Mansur,_National_Geographic_Your_Shot_2019031264093769.jpg"
+      introTitle = "往上看"
+      introSubtitle = "有時候抬頭往上面看看，會見識到不同的景致，尤其是在季節交替、大自然色彩繽紛的時候！"
+      introPhoto = "/netgeomedia/Francis_Audet_2022033161233965.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
