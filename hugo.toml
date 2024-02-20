@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "河畔草原上的鬣狗"
-      introSubtitle = "我在2011年5月造訪維拉瓦達國家公園（Velavadar National Park），這趟旅程基本上非常慘烈，因為夏天實在是太熱了。不過在離開前一天的傍晚，我很幸運地拍到這張照片。在夕陽餘暉照耀之下，這隻鬣狗在金黃色的草原中享受吹拂而過的微風，幾乎和周圍融為一體。"
-      introPhoto = "/netgeomedia/Yashodhan_Bhatia_2021050750270745.jpg"
+      introTitle = "復活節島的騎野馬比賽"
+      introSubtitle = "這是復活節島在2012年塔帕蒂文化節時舉辦的騎野馬比賽，兩位參賽者正在競逐冠軍。"
+      introPhoto = "/netgeomedia/Agustin_Rodriguez_Garcia_2021111262777037.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
