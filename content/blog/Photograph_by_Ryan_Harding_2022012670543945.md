@@ -3,7 +3,7 @@ author: "AlisonLai"
 title: "公車上"
 date: 2024-02-20T08:40:12+0800
 description: ""
-tags: ["公車上"]
+tags: ["natgeomedia"]
 copyright: Photograph by Ryan Harding
 thumbnail: /netgeomedia/Photograph_by_Ryan_Harding_2022012670543945.jpg
 ---

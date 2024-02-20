@@ -3,7 +3,7 @@ author: "AlisonLai"
 title: "傘花"
 date: 2024-02-20T05:10:14+0800
 description: ""
-tags: ["傘花"]
+tags: ["natgeomedia"]
 copyright: Photograph by Vidhu Pillai
 thumbnail: /netgeomedia/Photograph_by_Vidhu_Pillai_2022012664176357.jpg
 ---

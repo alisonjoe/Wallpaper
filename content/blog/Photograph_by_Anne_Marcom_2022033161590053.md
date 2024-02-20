@@ -3,7 +3,7 @@ author: "AlisonLai"
 title: "歲月流逝"
 date: 2024-02-20T08:50:06+0800
 description: ""
-tags: ["歲月流逝"]
+tags: ["natgeomedia"]
 copyright: Photograph by Anne Marcom
 thumbnail: /netgeomedia/Photograph_by_Anne_Marcom_2022033161590053.jpg
 ---

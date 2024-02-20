@@ -3,7 +3,7 @@ author: "AlisonLai"
 title: "邂逅優雅猛獸"
 date: 2024-02-20T05:00:22+0800
 description: ""
-tags: ["邂逅優雅猛獸"]
+tags: ["natgeomedia"]
 copyright: Photograph by Lucia Griggi
 thumbnail: /netgeomedia/Photograph_by_Lucia_Griggi_2022012663738157.jpg
 ---

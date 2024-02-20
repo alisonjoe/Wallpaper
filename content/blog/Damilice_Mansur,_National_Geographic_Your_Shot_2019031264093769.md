@@ -3,7 +3,7 @@ author: "AlisonLai"
 title: "紅尾彗星蜂鳥"
 date: 2024-02-20T09:40:10+0800
 description: ""
-tags: ["每日一圖, post"]
+tags: ["natgeomedia"]
 copyright: Damilice Mansur, National Geographic Your Shot
 thumbnail: /netgeomedia/Damilice_Mansur,_National_Geographic_Your_Shot_2019031264093769.jpg
 ---

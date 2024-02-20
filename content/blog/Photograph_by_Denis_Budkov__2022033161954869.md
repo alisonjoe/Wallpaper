@@ -3,7 +3,7 @@ author: "AlisonLai"
 title: "黑暗王國中的一線光芒"
 date: 2024-02-20T10:00:15+0800
 description: ""
-tags: ["黑暗王國中的一線光芒"]
+tags: ["natgeomedia"]
 copyright: Photograph by Denis Budkov 
 thumbnail: /netgeomedia/Photograph_by_Denis_Budkov__2022033161954869.jpg
 ---
