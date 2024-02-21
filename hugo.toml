@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "歲月流逝"
-      introSubtitle = "黛拉是我救援回來的馬，雖然牠得了青光眼，一眼全盲、另一眼視力微弱，但牠的聽力非常好。牠聽到我在穀倉工作的聲音，就停下腳步細聽我的動靜，因為牠知道只要找到我，我就會給牠一根胡蘿蔔（而牠總是找得到我）。這是我從穀倉裡面往窗外拍到的黛拉和農場。"
-      introPhoto = "/netgeomedia/Photograph_by_Anne_Marcom_2022033161590053.jpg"
+      introTitle = "邂逅優雅猛獸"
+      introSubtitle = "攝於斯里蘭卡的雅拉國家公園深處。我們在叢林中紮營時，偶然看到這頭豹從長草叢中走出來，穿過空地。牠毛色光亮、神情謹慎，十分戒備地經過我們附近。當時夕陽西斜，光線很棒，實在是令人難以忘懷的畫面。"
+      introPhoto = "/netgeomedia/Photograph_by_Lucia_Griggi_2022012663738157.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
