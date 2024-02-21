@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = " AM1054: Stars Form as Galaxies Collide "
-      introSubtitle = "  When galaxies collide, how many stars are born? For AM1054-325,  in a recently released image by the , the answer is millions.Instead of stars  as galaxy AM1054-325 and a nearby galaxy , their gravity and motion has . Star formation occurs rapidly in the gaseous debris stretching from ’s yellowish body due to the other galaxy’s gravitational pull. Hydrogen gas surrounding newborn .  Bright infant  and cluster together in compact nurseries of thousands to .AM1054-325 possesses over 100 of these intense-blue, , some appearing like a   . Analyzing  helped determine that most of these stars are less than 10 million years old: . Many of these nurseries may grow up to be , while the bundle of young stars at the bottom tip may even ."
-      introPhoto = "/nasa/ESA.jpg"
+      introTitle = "邂逅優雅猛獸"
+      introSubtitle = "攝於斯里蘭卡的雅拉國家公園深處。我們在叢林中紮營時，偶然看到這頭豹從長草叢中走出來，穿過空地。牠毛色光亮、神情謹慎，十分戒備地經過我們附近。當時夕陽西斜，光線很棒，實在是令人難以忘懷的畫面。"
+      introPhoto = "/netgeomedia/Photograph_by_Lucia_Griggi_2022012663738157.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
