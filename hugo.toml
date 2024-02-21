@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "復活節島的騎野馬比賽"
-      introSubtitle = "這是復活節島在2012年塔帕蒂文化節時舉辦的騎野馬比賽，兩位參賽者正在競逐冠軍。"
-      introPhoto = "/netgeomedia/Agustin_Rodriguez_Garcia_2021111262777037.jpg"
+      introTitle = "黑暗王國中的一線光芒"
+      introSubtitle = "攝於堪察加半島的穆特洛夫斯基火山。冬天時很多溪流上頭都積滿了雪，幾乎都沒有完全融化過，於是冰雪之下就形成了像這樣的冰洞隧道。這裡的雪在日積月累之下，厚度可達6公尺。"
+      introPhoto = "/netgeomedia/Photograph_by_Denis_Budkov__2022033161954869.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
