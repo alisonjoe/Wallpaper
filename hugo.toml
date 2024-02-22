@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "紅尾彗星蜂鳥"
-      introSubtitle = "攝影：Damilice Mansur， 國家地理〈你的觀點〉 一隻紅尾彗星蜂鳥 （red-tailed com"
-      introPhoto = "/netgeomedia/Damilice_Mansur,_National_Geographic_Your_Shot_2019031264093769.jpg"
+      introTitle = "口渴的蝴蝶"
+      introSubtitle = "2011年2月攝於伊瓜蘇瀑布（Iguazu Falls）。"
+      introPhoto = "/netgeomedia/Babak_Moayedoddin_2021050749832877.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
