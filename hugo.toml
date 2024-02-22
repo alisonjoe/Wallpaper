@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "口渴的蝴蝶"
-      introSubtitle = "2011年2月攝於伊瓜蘇瀑布（Iguazu Falls）。"
-      introPhoto = "/netgeomedia/Babak_Moayedoddin_2021050749832877.jpg"
+      introTitle = "傘花"
+      introSubtitle = "季風時節，綿綿細雨之中出現一把繽紛的傘，像是地上開出一朵小花。攝於印度的克勒格布爾。"
+      introPhoto = "/netgeomedia/Photograph_by_Vidhu_Pillai_2022012664176357.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
