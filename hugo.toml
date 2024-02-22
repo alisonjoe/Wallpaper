@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "傘花"
-      introSubtitle = "季風時節，綿綿細雨之中出現一把繽紛的傘，像是地上開出一朵小花。攝於印度的克勒格布爾。"
-      introPhoto = "/netgeomedia/Photograph_by_Vidhu_Pillai_2022012664176357.jpg"
+      introTitle = "復活節島的騎野馬比賽"
+      introSubtitle = "這是復活節島在2012年塔帕蒂文化節時舉辦的騎野馬比賽，兩位參賽者正在競逐冠軍。"
+      introPhoto = "/netgeomedia/Agustin_Rodriguez_Garcia_2021111262777037.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
