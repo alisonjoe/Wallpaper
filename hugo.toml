@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "黑暗王國中的一線光芒"
-      introSubtitle = "攝於堪察加半島的穆特洛夫斯基火山。冬天時很多溪流上頭都積滿了雪，幾乎都沒有完全融化過，於是冰雪之下就形成了像這樣的冰洞隧道。這裡的雪在日積月累之下，厚度可達6公尺。"
-      introPhoto = "/netgeomedia/Photograph_by_Denis_Budkov__2022033161954869.jpg"
+      introTitle = "紅尾彗星蜂鳥"
+      introSubtitle = "攝影：Damilice Mansur， 國家地理〈你的觀點〉 一隻紅尾彗星蜂鳥 （red-tailed com"
+      introPhoto = "/netgeomedia/Damilice_Mansur,_National_Geographic_Your_Shot_2019031264093769.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
