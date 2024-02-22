@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "歲月流逝"
-      introSubtitle = "黛拉是我救援回來的馬，雖然牠得了青光眼，一眼全盲、另一眼視力微弱，但牠的聽力非常好。牠聽到我在穀倉工作的聲音，就停下腳步細聽我的動靜，因為牠知道只要找到我，我就會給牠一根胡蘿蔔（而牠總是找得到我）。這是我從穀倉裡面往窗外拍到的黛拉和農場。"
-      introPhoto = "/netgeomedia/Photograph_by_Anne_Marcom_2022033161590053.jpg"
+      introTitle = "Haghartsin修道院，迪利扬国家公园，亚美尼亚"
+      introSubtitle = "Haghartsin 修道院隐藏在亚美尼亚北部的森林之中，被迪利扬国家公园郁郁葱葱的风景所环绕，是亚美尼亚中世纪建筑的瑰宝。修道院的建筑群由几座华丽的建筑组成，包括圣母教堂、圣格雷戈里教堂和圣斯特帕诺斯教堂。这些建筑的历史可以追溯到10世纪，上面装饰着精雕细琢的石碑、十字拱门以及其他装饰物，展现了那个时代的精湛工艺。修道院的名字“Haghartsin”的意思是“鹰之舞”，它为那些想要感受亚美尼亚悠久历史的人提供了一个宁静的去处。当你漫步在幽静的庭院中，探索周围的森林时，一种永恒的感觉油然而生。"
+      introPhoto = "/bing/HaghartsinMonastery.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"

@@ -1,0 +1,14 @@
+---
+author: "AlisonLai"
+title: "Haghartsin修道院，迪利扬国家公园，亚美尼亚"
+date: 2024-02-23T02:00:31+0800
+description: ""
+tags: ["老鹰起舞的地方"]
+copyright: © Alexey Kharitonov/Shutterstock
+thumbnail: /bing/HaghartsinMonastery.jpg
+---
+图文来源自：bing.  copyright: © Alexey Kharitonov/Shutterstock
+
+Haghartsin 修道院隐藏在亚美尼亚北部的森林之中，被迪利扬国家公园郁郁葱葱的风景所环绕，是亚美尼亚中世纪建筑的瑰宝。修道院的建筑群由几座华丽的建筑组成，包括圣母教堂、圣格雷戈里教堂和圣斯特帕诺斯教堂。这些建筑的历史可以追溯到10世纪，上面装饰着精雕细琢的石碑、十字拱门以及其他装饰物，展现了那个时代的精湛工艺。修道院的名字“Haghartsin”的意思是“鹰之舞”，它为那些想要感受亚美尼亚悠久历史的人提供了一个宁静的去处。当你漫步在幽静的庭院中，探索周围的森林时，一种永恒的感觉油然而生。
+
+![HaghartsinMonastery](/bing/HaghartsinMonastery.jpg)
