@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "口渴的蝴蝶"
-      introSubtitle = "2011年2月攝於伊瓜蘇瀑布（Iguazu Falls）。"
-      introPhoto = "/netgeomedia/Babak_Moayedoddin_2021050749832877.jpg"
+      introTitle = "追尋極光"
+      introSubtitle = "這張照片攝於挪威的阿爾塔市（Norway Alta City）。我從拉脫維亞一路開車過來，這是我第一次看到極光。我一輩子也忘不了這樣的美景。照片中是我本人。"
+      introPhoto = "/netgeomedia/Peter_Ribalchenko_2021050749944017.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
