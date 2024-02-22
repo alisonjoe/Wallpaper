@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "口渴的蝴蝶"
-      introSubtitle = "2011年2月攝於伊瓜蘇瀑布（Iguazu Falls）。"
-      introPhoto = "/netgeomedia/Babak_Moayedoddin_2021050749832877.jpg"
+      introTitle = "復活節島的騎野馬比賽"
+      introSubtitle = "這是復活節島在2012年塔帕蒂文化節時舉辦的騎野馬比賽，兩位參賽者正在競逐冠軍。"
+      introPhoto = "/netgeomedia/Agustin_Rodriguez_Garcia_2021111262777037.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
