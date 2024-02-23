@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "锦里街上悬挂的红色中国灯笼，成都，中国四川省"
-      introSubtitle = "正月是农历的元月，古人称“夜”为“宵”，正月十五是一年中第一个月圆之夜，所以称正月十五为“元宵节”。元宵节习俗自古以来就以热烈喜庆的观灯习俗为主。"
-      introPhoto = "/bing/LaternFestival2024.jpg"
+      introTitle = "黑暗王國中的一線光芒"
+      introSubtitle = "攝於堪察加半島的穆特洛夫斯基火山。冬天時很多溪流上頭都積滿了雪，幾乎都沒有完全融化過，於是冰雪之下就形成了像這樣的冰洞隧道。這裡的雪在日積月累之下，厚度可達6公尺。"
+      introPhoto = "/netgeomedia/Photograph_by_Denis_Budkov__2022033161954869.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
