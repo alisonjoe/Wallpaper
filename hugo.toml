@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "アーモンド畑, 米国 カリフォルニア州 (© Jeffrey Lewis/Tandem Stills + Motion)"
-      introSubtitle = "ここは米国カリフォルニア州、夏は暑くて乾燥し、冬は冷涼で雨が多いという、アーモンドの栽培に理想的な気候条件を備えています。世界のアーモンドの約 80%、米国のアーモンドのすべてがこの州で栽培されています…"
-      introPhoto = "/bing/AlmondBloom.jpg"
+      introTitle = "紅尾彗星蜂鳥"
+      introSubtitle = "攝影：Damilice Mansur， 國家地理〈你的觀點〉 一隻紅尾彗星蜂鳥 （red-tailed com"
+      introPhoto = "/netgeomedia/Damilice_Mansur,_National_Geographic_Your_Shot_2019031264093769.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
