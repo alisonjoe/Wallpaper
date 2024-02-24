@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "追尋極光"
-      introSubtitle = "這張照片攝於挪威的阿爾塔市（Norway Alta City）。我從拉脫維亞一路開車過來，這是我第一次看到極光。我一輩子也忘不了這樣的美景。照片中是我本人。"
-      introPhoto = "/netgeomedia/Peter_Ribalchenko_2021050749944017.jpg"
+      introTitle = "傘花"
+      introSubtitle = "季風時節，綿綿細雨之中出現一把繽紛的傘，像是地上開出一朵小花。攝於印度的克勒格布爾。"
+      introPhoto = "/netgeomedia/Photograph_by_Vidhu_Pillai_2022012664176357.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
