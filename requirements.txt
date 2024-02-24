@@ -1,4 +1,6 @@
-azure_storage==0.37.0
+azure-core-credentials
+azure-ai-textanalytics
+azure-cognitiveservices-vision-computervision
 baidu_translate_api==1.0.0
 DBUtils==3.0.3
 fake_useragent==1.4.0
