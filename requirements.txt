@@ -1,4 +1,4 @@
-azure-core-credentials
+azure-core
 azure-ai-textanalytics
 azure-cognitiveservices-vision-computervision
 baidu_translate_api==1.0.0
