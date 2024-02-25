@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "紅尾彗星蜂鳥"
-      introSubtitle = "攝影：Damilice Mansur， 國家地理〈你的觀點〉 一隻紅尾彗星蜂鳥 （red-tailed com"
-      introPhoto = "/netgeomedia/Damilice_Mansur,_National_Geographic_Your_Shot_2019031264093769.jpg"
+      introTitle = "Mist in the Cowichan Valley on Vancouver Island, British Columbia, Canada"
+      introSubtitle = "Welcome to the Cowichan Valley on Vancouver Island in British Columbia. Located on the southern part of the island, this valley has art and history that echo through its green mountains, like Mount Prevost. The region is home to the band government of the Cowichan Tribes, the largest First Nations band in British Columbia. The city of Duncan has an impressive collection of indigenous art, including intricate carvings and paintings. While here, you must visit the collection of totem poles, which stand as towering symbols of indigenous history as they depict ancestral legends and clan symbols."
+      introPhoto = "/bing/MtPrevostDuncan.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
