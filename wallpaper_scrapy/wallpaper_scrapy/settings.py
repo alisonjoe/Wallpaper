@@ -45,6 +45,7 @@ DOWNLOADER_MIDDLEWARES = {
     'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware': 810,
     'wallpaper_scrapy.markdownmiddlewares.MarkdownMiddleware': 888,  # Adjust the priority as needed
     'wallpaper_scrapy.hugomiddlewares.HugoMiddleware': 889,
+    'wallpaper_scrapy.messagemiddlewares.WeworkMiddleware': 900,
 
 
     #设置不参与scrapy的自动重试的动作
