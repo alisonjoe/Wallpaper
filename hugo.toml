@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Grand Canyon National Park, Arizona"
-      introSubtitle = "Happy birthday to Grand Canyon National Park! Today marks a milestone for Arizona's famed gorge that was carved by the Colorado River: 105 years have passed since President Woodrow Wilson signed the designation of the national park in 1919. The origin of the Grand Canyon—an exceptional landscape formed by the river, wind, and landslides—dates back between 5 and 6 million years ago. The canyon holds the stories of Native Americans, European and American pioneers, and travelers, along with geological wonders including steep valleys and colorful rock formations. All of these areas are supervised by the National Park Service. In addition to tourist adventures such as cruising on the Colorado River, joining the Trail of Time walking tour, or climbing up to the Desert View Watchtower, the park is also a UNESCO World Heritage Site and a registered International Dark Sky Park for crystal-clear stargazing."
-      introPhoto = "/bing/GrandCanyonWinter.jpg"
+      introTitle = "玩耍的北极熊幼崽，卡克托维克，阿拉斯加州，美国"
+      introSubtitle = "今天是国际北极熊日，我们在欣赏这些“冰雪萌主”之际，也呼吁大家关注世界上最大的熊类所面临的挑战。国际北极熊日是由国际北极熊组织设立的，该组织致力于保护这些哺乳动物及其栖息地。选择这个日期是为了配合北极熊幼崽在洞穴中受到母亲保护的时间，因为这是北极熊一生中最脆弱的时期。"
+      introPhoto = "/bing/PolarBearCubs.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
