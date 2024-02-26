@@ -1,9 +1,13 @@
 import os
 import time
+import asyncio
 from scrapy import signals
 from datetime import datetime, timezone, timedelta
 from scrapy.utils.project import get_project_settings
 import baidu_translate as fanyi
+from twisted.internet.defer import inlineCallbacks
+from twisted.internet.defer import Deferred
+from twisted.internet import reactor
 from wallpaper_scrapy.aitagmiddlewares import AitagMiddlewares
 
 
@@ -15,30 +19,34 @@ class MarkdownMiddleware:
         crawler.signals.connect(middleware.files_downloaded, signal=signals.item_scraped)
         return middleware
 
+
     def files_downloaded(self, item, response, spider):
         # 在每次下载完成后触发
-        self.create_md(item, spider)
+        d = Deferred()
+        reactor.callFromThread(self.create_md, item, spider, d)
+        d.addCallback(self.on_md_created)
+        d.addErrback(self.on_error)
 
 
-    def create_md(self, item, spider):
-        # 获取当前时间
-        aitag = AitagMiddlewares(
-            computer_key="",
-            computer_endpoint="",
-            text_analytics_key="",
-            text_analytics_endpoint=""
-        )
+    def create_md(self, item, spider, d):
+        try:
+            aitag = AitagMiddlewares(
+                'xxxxx',
+                'xxxxx',
+                'xxxxx',
+                'xxxxx',
+            )
 
-        tags = aitag.extract_key_phrases(item['desc'])
-        print(tags)
-        current_time = datetime.now(timezone(timedelta(hours=8)))  # 东八区时区
-        # 格式化时间为指定格式
-        formatted_time = current_time.strftime("%Y-%m-%dT%H:%M:%S%z")
-        settings = get_project_settings()
-        md_filename = os.path.join(settings.get('BLOG_STORE'), f"{item['trivia_id']}.md")
-        title =  fanyi.translate_text({item['title']}, to=fanyi.Lang.ZH)
-        desc = fanyi.translate_text({item['desc']}, to=fanyi.Lang.ZH)
-        markdown_content = f"""---
+            tags = aitag.extract_key_phrases(item['desc'])
+            print(tags)
+            current_time = datetime.now(timezone(timedelta(hours=8)))  # 东八区时区
+            # 格式化时间为指定格式
+            formatted_time = current_time.strftime("%Y-%m-%dT%H:%M:%S%z")
+            settings = get_project_settings()
+            md_filename = os.path.join(settings.get('BLOG_STORE'), f"{item['trivia_id']}.md")
+            title = yield fanyi.translate_text({item['title']}, to=fanyi.Lang.ZH)
+            desc = yield fanyi.translate_text({item['desc']}, to=fanyi.Lang.ZH)
+            markdown_content = f"""---
 author: "AlisonLai"
 title: {title}
 date: {formatted_time}
@@ -52,6 +60,17 @@ thumbnail: /{item['platform']}/{item['trivia_id']}.jpg
 {desc}
 
 ![{item['trivia_id']}](/{item['platform']}/{item['trivia_id']}.jpg)"""
-        print(md_filename)
-        with open(md_filename, 'w') as f:
-            f.write(markdown_content)
+            print(md_filename)
+            with open(md_filename, 'w') as f:
+                f.write(markdown_content)
+            d.callback(md_filename)
+        except Exception as e:
+            print(e)
+            raise e 
+
+
+    def on_md_created(self, result):
+        print(f"Markdown file created: {result}")
+
+    def on_error(self, failure):
+        print(f"An error occurred: {failure.getErrorMessage()}")

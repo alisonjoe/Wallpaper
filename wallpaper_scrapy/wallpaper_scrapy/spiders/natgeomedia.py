@@ -78,6 +78,8 @@ class WallpaperBingAPISpider(scrapy.Spider):
         if count == 1:
             print(f"{triviaId} is exists")
             return
+        else:
+            print(f"{triviaId} is not exists")
 
 
         item_data = {
