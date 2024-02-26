@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "公車上"
-      introSubtitle = "這張照片攝於臺北，是我的系列攝影作品之一。我想記錄臺灣的生活風景，藉由聚焦於各種日常中普羅大眾各種異乎尋常、率直自然的有趣行為，呈現出一種復古、神祕而有如夢境般的感覺。"
-      introPhoto = "/netgeomedia/Photograph_by_Ryan_Harding_2022012670543945.jpg"
+      introTitle = "傘花"
+      introSubtitle = "季風時節，綿綿細雨之中出現一把繽紛的傘，像是地上開出一朵小花。攝於印度的克勒格布爾。"
+      introPhoto = "/netgeomedia/Photograph_by_Vidhu_Pillai_2022012664176357.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
