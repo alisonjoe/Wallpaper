@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "傘花"
-      introSubtitle = "季風時節，綿綿細雨之中出現一把繽紛的傘，像是地上開出一朵小花。攝於印度的克勒格布爾。"
-      introPhoto = "/netgeomedia/Photograph_by_Vidhu_Pillai_2022012664176357.jpg"
+      introTitle = "Polar bear cubs playing, Kaktovik, Alaska"
+      introSubtitle = "Bear with us as we head north for International Polar Bear Day, highlighting the challenges faced by the world's largest bear species. It was set up by Polar Bears International, an organization dedicated to protecting these mammals and their habitat. The date was chosen to coincide with the time when cubs are in their dens being protected by their mothers, as this is the most vulnerable time in a polar bear's life."
+      introPhoto = "/bing/PolarBearCubs.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
