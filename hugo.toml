@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "バーミリオン・クリフ国定公園, 米国 アリゾナ州 (© Yva Momatiuk and John Eastcott/Minden Pictures)"
-      introSubtitle = "バーミリオン・クリフ国定公園は、2000 年に設立された米国のアリゾナ州にある自然公園です。風や水によって削られた奇妙な形の岩や、朱色の断崖絶壁が圧倒的な景観を作り出しています…"
-      introPhoto = "/bing/VermilionCliffs.jpg"
+      introTitle = "Plaza de España, Sevilla, España (© KavalenkavaVolha/Getty images)"
+      introSubtitle = "Admiremos la belleza de la Plaza de España en Sevilla, corazón de Andalucía, declarada bien de interés cultural, con su majestuosidad semicircular, sus torres que rozan el cielo y rodeada por un canal cruzado por puentes."
+      introPhoto = "/bing/SevilleAndalusiaDay.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
