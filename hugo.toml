@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "モディカ, イタリア (© Sandro Bisaro/Getty Images)"
-      introSubtitle = "ここはイタリアのシチリア島にある世界遺産の街、モディカです。1693 年に起きた大地震により建物がほぼ全壊しましたが、再建時に後期バロック様式が採用され、見事に復興を遂げました…"
-      introPhoto = "/bing/ModicaItaly.jpg"
+      introTitle = "The holy city of Varanasi, India (© Jesse Rockwell/Shutterstock)"
+      introSubtitle = "Known for its sacred ghats and bustling alleys, Varanasi is a city on the banks of the Ganges in the northern part of India. Located about 120 kilometres downstream from Prayagraj, at the confluence of the Ganges and Yamuna rivers, it is a major pilgrimage site for Hindu spirituality and tradition. The mighty Ganges is said to have originated in Lord Shiva's hair and grown into the revered river that flows through Varanasi today. Along with Sarnath, the city has stood as a venerable centre of education and civilisation for over three millennia. Pandit Madan Mohan Malviya founded the largest university in Asia, the Banaras Hindu University in this city, and the Theosophical Society, led by Annie Besant, also operated in Varanasi. Rightly referred to as the cultural capital of India, Varanasi continues to be a thriving platform for the flourishing of various artistic endeavours, including music, dance and philosophy."
+      introPhoto = "/bing/HolyVaranasi.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
