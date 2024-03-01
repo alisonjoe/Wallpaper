@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "クルーガー国立公園のヒョウ, 南アフリカ (© Tonino De Marco/Minden Pictures)"
-      introSubtitle = "明日 3 月 3 日は世界野生生物の日であり、野生動植物の国際的な取引を規制するための条約である「ワシントン条約」が 1973 年 3 月 3 日に採択されたことを記念した日です…"
-      introPhoto = "/bing/KrugerLeopard.jpg"
+      introTitle = "Blaireau européen (© Milan Zygmunt/Shutterstock)"
+      introSubtitle = "Le blaireau européen est un mammifère omnivore appartenant à la famille des mustélidés. Reconnaissable par sa silhouette trapue, son museau pointu, ses oreilles arrondies et son pelage dense de couleur gris-argent, on le trouve dans tout le territoire français, des régions boisées aux zones rurales, en passant par les collines et les prairies. Malheureusement, il souffre d’un désamour injustifié. Les agriculteurs et les jardiniers le considèrent souvent comme une nuisance, mais il joue un rôle essentiel dans l’écosystème. Bien que le blaireau européen ne soit pas considéré comme une espèce en danger en France, il est protégé par la loi. La chasse au blaireau est réglementée, et la sensibilisation à la conservation de cette espèce est encouragée."
+      introPhoto = "/bing/Badger.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
