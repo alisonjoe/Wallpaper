@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Blaireau européen (© Milan Zygmunt/Shutterstock)"
-      introSubtitle = "Le blaireau européen est un mammifère omnivore appartenant à la famille des mustélidés. Reconnaissable par sa silhouette trapue, son museau pointu, ses oreilles arrondies et son pelage dense de couleur gris-argent, on le trouve dans tout le territoire français, des régions boisées aux zones rurales, en passant par les collines et les prairies. Malheureusement, il souffre d’un désamour injustifié. Les agriculteurs et les jardiniers le considèrent souvent comme une nuisance, mais il joue un rôle essentiel dans l’écosystème. Bien que le blaireau européen ne soit pas considéré comme une espèce en danger en France, il est protégé par la loi. La chasse au blaireau est réglementée, et la sensibilisation à la conservation de cette espèce est encouragée."
-      introPhoto = "/bing/Badger.jpg"
+      introTitle = "Women's suffrage parade on Fifth Avenue, Manhattan, New York City, October 23, 1915 (© Bettmann/Getty Images)"
+      introSubtitle = "Every March, we celebrate Women's History Month, a tribute to the generations of women who have shaped our past and are inspiring our present. Today, let's take a moment to highlight a crucial step that was taken for a more representative democracy—the women's suffrage movement. This image shows a sea of determined faces in a 1915 Manhattan suffrage parade. Pioneers like Susan B. Anthony and Lucy Stone spearheaded this effort, which culminated in the historic 19th Amendment in 1920, which granted women the right to vote. Over a hundred years later, women now hold 28% of seats in Congress, a dramatic leap forward from the past and a reminder of progress still to be made."
+      introPhoto = "/bing/SuffrageParade.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
