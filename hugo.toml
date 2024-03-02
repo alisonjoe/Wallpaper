@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Electric guitars and amplifiers (© Third Eye Images/The Image Bank/Getty Images)"
-      introSubtitle = "If music be the food of love, tonight we're in for quite a feast. It's that time of year again: the Brit Awards are here! Starting in 1977 as part of Queen Elizabeth II's silver jubilee celebrations, the Brit Awards have grown to become the biggest night in the British music industry's calendar. There are 15 awards up for grabs, and nominees include Blur and Little Simz. Hosted by Maya Jama, Clara Amfo and Roman Kemp, this year's ceremony takes place live from London's O2 Arena. A star-studded roster of performers includes Dua Lipa and Raye, who bagged record-breaking seven nods. So, tune in, turn up and get ready for an evening of amazing music."
-      introPhoto = "/bing/BritAwardsGuitarsUK.jpg"
+      introTitle = "下鴨神社の流し雛, 京都 (© masahiro Makino/Getty Images)"
+      introSubtitle = "今日 3 月 3 日はひな祭り。桃の花やひな人形を飾り、女の子の成長を祝う日です。ひな祭りの歴史は古く、平安時代の上巳の節句に行われた、紙で作ったひな人形を川で流す「流し雛」の行事が起源とされています…"
+      introPhoto = "/bing/Hinamatsuri2024.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
