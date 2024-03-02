@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Women's suffrage parade on Fifth Avenue, Manhattan, New York City, October 23, 1915 (© Bettmann/Getty Images)"
-      introSubtitle = "Every March, we celebrate Women's History Month, a tribute to the generations of women who have shaped our past and are inspiring our present. Today, let's take a moment to highlight a crucial step that was taken for a more representative democracy—the women's suffrage movement. This image shows a sea of determined faces in a 1915 Manhattan suffrage parade. Pioneers like Susan B. Anthony and Lucy Stone spearheaded this effort, which culminated in the historic 19th Amendment in 1920, which granted women the right to vote. Over a hundred years later, women now hold 28% of seats in Congress, a dramatic leap forward from the past and a reminder of progress still to be made."
-      introPhoto = "/bing/SuffrageParade.jpg"
+      introTitle = "Electric guitars and amplifiers (© Third Eye Images/The Image Bank/Getty Images)"
+      introSubtitle = "If music be the food of love, tonight we're in for quite a feast. It's that time of year again: the Brit Awards are here! Starting in 1977 as part of Queen Elizabeth II's silver jubilee celebrations, the Brit Awards have grown to become the biggest night in the British music industry's calendar. There are 15 awards up for grabs, and nominees include Blur and Little Simz. Hosted by Maya Jama, Clara Amfo and Roman Kemp, this year's ceremony takes place live from London's O2 Arena. A star-studded roster of performers includes Dua Lipa and Raye, who bagged record-breaking seven nods. So, tune in, turn up and get ready for an evening of amazing music."
+      introPhoto = "/bing/BritAwardsGuitarsUK.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
