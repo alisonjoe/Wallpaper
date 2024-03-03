@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "下鴨神社の流し雛, 京都 (© masahiro Makino/Getty Images)"
-      introSubtitle = "今日 3 月 3 日はひな祭り。桃の花やひな人形を飾り、女の子の成長を祝う日です。ひな祭りの歴史は古く、平安時代の上巳の節句に行われた、紙で作ったひな人形を川で流す「流し雛」の行事が起源とされています…"
-      introPhoto = "/bing/Hinamatsuri2024.jpg"
+      introTitle = "从蒙特维多看到的阿雷纳尔火山,哥斯达黎加"
+      introSubtitle = "热带国家哥斯达黎加在向你招手！图中展示的圆锥形的阿雷纳尔火山高达5437英尺，屹立于周围的热带雨林以及该国最大的湖泊阿雷纳尔湖之上。1968年，在一次大规模的喷发中，这座沉睡的火山咆哮着苏醒了，当时的岩石飞溅了半英里多。而最近一次的大规模火山活动发生在2010年，如今，这座曾被熔岩照亮过山峰正处于休眠状态。对于观鸟者而言，阿雷纳尔火山国家公园是一个必游之地，公园内拥有500多种鸟类，除此之外，该公园还是各种动植物的家园，包括赤短角鹿、美洲狮、白脸卷尾猴、兰花、蝎尾蕉和蕨类植物。高高的阿雷纳尔火山俯瞰着这些热带树木，形成了一副壮观而美丽的风景。"
+      introPhoto = "/bing/ArenalCostaRica.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
