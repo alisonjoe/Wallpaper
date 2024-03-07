@@ -1,14 +1,14 @@
 ---
 author: "AlisonLai"
-title: Tate Modern lit up on International Women's Day, London, England (© Stephen Chung/Alamy Stock Photo)
-date: 2024-03-08T06:00:17+0800
+title: テート・モダン, イギリス ロンドン (© Stephen Chung/Alamy Stock Photo)
+date: 2024-03-08T06:00:35+0800
 description: ""
-tags: ["Right to shine"]
+tags: ["今日は国際女性デー"]
 copyright: © Stephen Chung/Alamy Stock Photo
 thumbnail: /bing/TateLightUp.jpg
 ---
 图文来源自：bing.  copyright: © Stephen Chung/Alamy Stock Photo
 
-Happy International Women's Day! We celebrate IWD with London's famous Tate Modern art gallery, lit up in purple. Why purple? The colour associated with IWD symbolises dignity, justice and dedication to the matter. This event celebrates women's achievements in politics, culture and society. Every year on March 8, educational and cultural activities, demonstrations, campaigns and discussions highlight the importance of gender equality and women's rights.
+今日 3 月 8 日は国際女性デーです。この日は、1909 年に米国で始まった女性の日が、1917 年にストライキを行ったロシアの女性たちの活動をきっかけに、 3 月 8 日に定着しました。そして、1977 年には国連により公式に認められました…
 
 ![TateLightUp](/bing/TateLightUp.jpg)

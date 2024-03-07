@@ -11,8 +11,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Tate Modern lit up on International Women's Day, London, England (© Stephen Chung/Alamy Stock Photo)"
-      introSubtitle = "Happy International Women's Day! We celebrate IWD with London's famous Tate Modern art gallery, lit up in purple. Why purple? The colour associated with IWD symbolises dignity, justice and dedication to the matter. This event celebrates women's achievements in politics, culture and society. Every year on March 8, educational and cultural activities, demonstrations, campaigns and discussions highlight the importance of gender equality and women's rights."
+      introTitle = "テート・モダン, イギリス ロンドン (© Stephen Chung/Alamy Stock Photo)"
+      introSubtitle = "今日 3 月 8 日は国際女性デーです。この日は、1909 年に米国で始まった女性の日が、1917 年にストライキを行ったロシアの女性たちの活動をきっかけに、 3 月 8 日に定着しました。そして、1977 年には国連により公式に認められました…"
       introPhoto = "/bing/TateLightUp.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
