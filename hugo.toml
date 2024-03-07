@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = " M102: Edge-on Disk Galaxy "
-      introSubtitle = "  What kind of celestial object is this?A relatively normal galaxy -- but seen from its edge. Many disk galaxies are actually just as thin as NGC 5866, the Spindle galaxy, , but are not  from our vantage point.  A perhaps more familiar galaxy seen edge-on is our own . Also cataloged as M102, the  has numerous and complex dust lanes appearing dark and red, while many of the bright stars in the disk give it a more blue underlying hue. The blue disk of young  can be seen in this  image extending past the  in the extremely .There is evidence that the  galaxy has cannibalized smaller galaxies over the past billion years or so, including  of faint stars, dark dust that extends away from the main galactic plane, and a  of galaxies (not shown). In general, many  because the gas that  collides with itself as it rotates about the gravitational center.The  lies about 50 million  distant toward the constellation of the Dragon()."
-      introPhoto = "/nasa/ESA.jpg"
+      introTitle = "伊瓜苏大瀑布鸟瞰图，巴西"
+      introSubtitle = "伊瓜苏大瀑布以其宏伟且独特的美景吸引着游客，是南美洲最令人印象深刻的自然宝藏之一。这个壮观的瀑布位于巴西和阿根廷的交界处，不仅是一个不可错过的旅游景点，也是全球公认的瑰宝。1986年，伊瓜苏大瀑布被联合国教科文组织评为世界遗产，并被世界新七大奇迹基金会评选为世界七大自然奇观之一。"
+      introPhoto = "/bing/IguazuFalls.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
