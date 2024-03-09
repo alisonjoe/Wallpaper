@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "圣哈辛托大厦的机械钟，博蒙特，美国德克萨斯州"
-      introSubtitle = "今天的时间至关重要：三月的第二个星期日标志着夏令时的开始。今天凌晨2点开始，时钟向前拨动一小时，这意味着今天白天会“多”出一个小时。本杰明·富兰克林通常被认为是夏令时的发明者，但第一个真正意义上提出拨动时钟建议的人是新西兰昆虫学家乔治·赫德森。在1895年，因为他想在白天有更多的时间来采集昆虫，他提出了这一改动。"
-      introPhoto = "/bing/BeaumontClock.jpg"
+      introTitle = "Garça-branca-grande (Ardea alba) em pé em uma lagoa de vitórias-régias, Pantanal (© Geraldi Corsi/Getty Images)"
+      introSubtitle = "have no desc"
+      introPhoto = "/bing/ArdeAlba.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
