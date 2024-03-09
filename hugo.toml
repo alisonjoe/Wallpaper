@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "The Tarantula Zone"
-      introSubtitle = "  ,also known as 30 Doradus, is more than a thousand light-years in diameter,a giant star forming region within nearby satellite galaxy the.About 180 thousand light-years away, it's the largest,most violent star forming region known in the whole LocalGroup of galaxies.The cosmic arachnid sprawls across,an assembly of image data from large space- and ground-based telescopes. (NGC 2070),intense radiation, stellar winds, and supernova shocksfrom the central young cluster of massive stars cataloged as R136energize the nebular glow and shape the spidery filaments. are other star forming regions withyoung star clusters, filaments, and blown-out clouds.In fact, the frame includes the site of the closest supernova in,at lower right.The rich field of view spans about 2 degreesor 4 full moons in the southern.But were the Tarantula Nebula closer, say 1,500 light-years distant likethe Milky Way's own star forming ,it would take up half the sky."
-      introPhoto = "/nasa/Roberto_Colombari.jpg"
+      introTitle = "圣哈辛托大厦的机械钟，博蒙特，美国德克萨斯州"
+      introSubtitle = "今天的时间至关重要：三月的第二个星期日标志着夏令时的开始。今天凌晨2点开始，时钟向前拨动一小时，这意味着今天白天会“多”出一个小时。本杰明·富兰克林通常被认为是夏令时的发明者，但第一个真正意义上提出拨动时钟建议的人是新西兰昆虫学家乔治·赫德森。在1895年，因为他想在白天有更多的时间来采集昆虫，他提出了这一改动。"
+      introPhoto = "/bing/BeaumontClock.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
