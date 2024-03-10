@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "追悼イベントの灯籠, 宮城県 名取市 (© Satoshi Takahashi/Getty Images)"
-      introSubtitle = "今日 3 月 11 日は東日本大震災から 13 年目となります。被災地をはじめ、全国的に追悼式が行われます。本日、宮城県名取市の震災メモリアル公園では、全国から寄せられた絵を絵灯籠にして展示し、犠牲者への追悼と復興を願います…"
-      introPhoto = "/bing/Earthquake2024.jpg"
+      introTitle = "La Mer de Glace, Chamonix, massif du Mont-Blanc, Haute-Savoie, France (© Hagenmuller Jean-François/Hemis.fr)"
+      introSubtitle = "La Mer de Glace, l’un des glaciers les plus célèbres des Alpes françaises, est située sur le versant septentrional du massif du Mont-Blanc, près de Chamonix. Elle s'étend sur environ 7 kilomètres de long et 200 mètres de profondeur, c'est le plus grand glacier de France. Sa formation remonte à des millénaires, façonnée par le mouvement lent et constant de la glace."
+      introPhoto = "/bing/MontBlancGlacier.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
