@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Elephants crossing river in Jim Corbett National Park, India (© ABHILASH VISWA PICASSO/Shutterstock)"
-      introSubtitle = "Hold onto your hats and binoculars, because in Jim Corbett National Park, the river is no ordinary waterway—it's an elephant expressway! India's oldest national park was established in 1936 and named after the naturalist and conservationist Jim Corbett. Housed in the foothills of the Himalayas near the popular hill-station of Nainital, the Jim Corbett National Park is known for its significant tiger population. During the summer months, the park becomes a bustling hub of wildlife activity, with Indian elephants frequently spotted roaming in herds numbering several hundred. As part of the Terai Arc Landscape Programme, the park is among the thirteen protected areas targeted for preservation and restoration. The overarching goal of this programme is ambitious yet crucial: to safeguard three of the most iconic terrestrial species, namely the tiger, the Asian elephant and the great one-horned rhinoceros."
-      introPhoto = "/bing/MorningElephants.jpg"
+      introTitle = "Comet Pons-Brooks in Northern Spring"
+      introSubtitle = "  As spring approaches for northern skygazers,is growing brighter.with small telescopes and binoculars,the Halley-type comet could reach naked eye visibility in thecoming weeks.Seen despite a foggy atmosphere,the comet's green coma and long tail hover near the horizonin this well-composedfrom Revuca, Slovakia recorded on March 5.In the sky above the comet,the Andromeda (right) and Triangulum galaxies,beta star of the constellation Andromeda.The two spiral galaxies are members of our local galaxy group andover 2.5 million light-years distant.Comet Pons-Brooks is a periodicand less than 14 light-minutes away.Reaching its perihelion on April 21, this comet should be visiblein the sky"
+      introPhoto = "/nasa/Institute_of_Physics_in_Opava.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
