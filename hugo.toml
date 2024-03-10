@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Prosecco山丘，科内利亚诺和瓦尔多比亚德内，威内托大区，意大利"
-      introSubtitle = "科内利亚诺和瓦尔多比亚德内的Prosecco丘陵是大自然与人类智慧完美结合的地方。由于其独特性，这些山丘已被联合国教科文组织列入世界遗产名录。特殊的丘陵地带给该地带来了由葡萄园和树林构成的有机环境。而在马赛克般的景观中脱颖而出的小村庄和葡萄园，却只是让这个地方显得独一无二的部分因素。"
-      introPhoto = "/bing/ProseccoItaly.jpg"
+      introTitle = "Mute swan mother and cygnet, Stanpit Marsh, England (© LecartPhotos/Alamy Stock Photo)"
+      introSubtitle = "As spring breathes new life into the world, a time-honoured tradition—Mothering Sunday—is a time to celebrate the nurturing spirit of mothers. It might be often called Mother's Day in the United Kingdom, but it has no connection with the American Mother's Day. This holiday's roots stretch back to the 16th century when it was a day for folks to return to their 'mother church' for a special service on the fourth Sunday of Lent. Over time, it has morphed into a day to honour mothers."
+      introPhoto = "/bing/MotheringSundayMuteSwan.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
