@@ -1,6 +1,6 @@
 ---
 author: "AlisonLai"
-title:  M102: Edge-on Disk Galaxy 
+title:  M102 Edge-on Disk Galaxy 
 date: 2024-03-07T09:00:21+0800
 description: ""
 tags: ["nasa"]
