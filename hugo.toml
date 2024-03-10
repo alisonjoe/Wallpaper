@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Rathaus Ulm, Astronomische Uhr aus dem 16. Jahrhundert, Ulm, Baden-Württemberg (© Hemis/Alamy Stock Photo)"
-      introSubtitle = "Werfen Sie einen Blick auf dieses Meisterwerk. Ist es nicht unglaublich, dass diese Uhr um 1520 gebaut wurde? Wir befanden uns noch im Mittelalter und der Glaube, dass sich alles im Universum um die Erde dreht, dass sogenannte geozentrische Weltbild, war fest verankert. Diese Uhr am Ulmer Rathaus zeigt nicht nur die Zeit an, sondern auch astronomische Daten wie den Stand der Sonne, des Mondes und der Sterne. Außerdem ist die Uhr mit kunstvollen Figuren geschmückt, die Geschichten und Legenden aus der Mythologie erzählen."
-      introPhoto = "/bing/AstrologicalClock.jpg"
+      introTitle = "A koala sleeping in a eucalyptus tree, Australia (© Anton Rogozin/Getty Images)"
+      introSubtitle = "This sleepy koala may inspire you to catch some Z's. These adorable Australian marsupials can sleep up to 20 hours a day, which helps them conserve the little energy they get from their eucalyptus-based diet. Koalas move slowly when awake, spend most of their time tucked into nooks in trees, and have a lower body temperature than other animals of their size. The koala is an arboreal herbivorous marsupial, it is uniquely adapted to its native habitat. Typically found in coastal areas of Australia's eastern and southern regions, including Queensland, New South Wales, Victoria and South Australia, the koala's stout, tailless body and distinctive features, such as its large head with round, fluffy ears and dark nose, make it easily recognisable."
+      introPhoto = "/bing/SleepyKoala.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
