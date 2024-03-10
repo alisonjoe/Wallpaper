@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Comet Pons-Brooks in Northern Spring"
-      introSubtitle = "  As spring approaches for northern skygazers,is growing brighter.with small telescopes and binoculars,the Halley-type comet could reach naked eye visibility in thecoming weeks.Seen despite a foggy atmosphere,the comet's green coma and long tail hover near the horizonin this well-composedfrom Revuca, Slovakia recorded on March 5.In the sky above the comet,the Andromeda (right) and Triangulum galaxies,beta star of the constellation Andromeda.The two spiral galaxies are members of our local galaxy group andover 2.5 million light-years distant.Comet Pons-Brooks is a periodicand less than 14 light-minutes away.Reaching its perihelion on April 21, this comet should be visiblein the sky"
-      introPhoto = "/nasa/Institute_of_Physics_in_Opava.jpg"
+      introTitle = "Prosecco山丘，科内利亚诺和瓦尔多比亚德内，威内托大区，意大利"
+      introSubtitle = "科内利亚诺和瓦尔多比亚德内的Prosecco丘陵是大自然与人类智慧完美结合的地方。由于其独特性，这些山丘已被联合国教科文组织列入世界遗产名录。特殊的丘陵地带给该地带来了由葡萄园和树林构成的有机环境。而在马赛克般的景观中脱颖而出的小村庄和葡萄园，却只是让这个地方显得独一无二的部分因素。"
+      introPhoto = "/bing/ProseccoItaly.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"

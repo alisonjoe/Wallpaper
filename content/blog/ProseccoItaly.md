@@ -1,0 +1,14 @@
+---
+author: "AlisonLai"
+title: Prosecco山丘，科内利亚诺和瓦尔多比亚德内，威内托大区，意大利
+date: 2024-03-11T02:00:35+0800
+description: ""
+tags: ["醉人的山峦"]
+copyright: © Richard T. Nowitz/Getty Images
+thumbnail: /bing/ProseccoItaly.jpg
+---
+图文来源自：bing.  copyright: © Richard T. Nowitz/Getty Images
+
+科内利亚诺和瓦尔多比亚德内的Prosecco丘陵是大自然与人类智慧完美结合的地方。由于其独特性，这些山丘已被联合国教科文组织列入世界遗产名录。特殊的丘陵地带给该地带来了由葡萄园和树林构成的有机环境。而在马赛克般的景观中脱颖而出的小村庄和葡萄园，却只是让这个地方显得独一无二的部分因素。
+
+![ProseccoItaly](/bing/ProseccoItaly.jpg)
