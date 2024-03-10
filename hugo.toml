@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Mute swan mother and cygnet, Stanpit Marsh, England (© LecartPhotos/Alamy Stock Photo)"
-      introSubtitle = "As spring breathes new life into the world, a time-honoured tradition—Mothering Sunday—is a time to celebrate the nurturing spirit of mothers. It might be often called Mother's Day in the United Kingdom, but it has no connection with the American Mother's Day. This holiday's roots stretch back to the 16th century when it was a day for folks to return to their 'mother church' for a special service on the fourth Sunday of Lent. Over time, it has morphed into a day to honour mothers."
-      introPhoto = "/bing/MotheringSundayMuteSwan.jpg"
+      introTitle = "追悼イベントの灯籠, 宮城県 名取市 (© Satoshi Takahashi/Getty Images)"
+      introSubtitle = "今日 3 月 11 日は東日本大震災から 13 年目となります。被災地をはじめ、全国的に追悼式が行われます。本日、宮城県名取市の震災メモリアル公園では、全国から寄せられた絵を絵灯籠にして展示し、犠牲者への追悼と復興を願います…"
+      introPhoto = "/bing/Earthquake2024.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
