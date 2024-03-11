@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "A koala sleeping in a eucalyptus tree, Australia (© Anton Rogozin/Getty Images)"
-      introSubtitle = "This sleepy koala may inspire you to catch some Z's. These adorable Australian marsupials can sleep up to 20 hours a day, which helps them conserve the little energy they get from their eucalyptus-based diet. Koalas move slowly when awake, spend most of their time tucked into nooks in trees, and have a lower body temperature than other animals of their size. The koala is an arboreal herbivorous marsupial, it is uniquely adapted to its native habitat. Typically found in coastal areas of Australia's eastern and southern regions, including Queensland, New South Wales, Victoria and South Australia, the koala's stout, tailless body and distinctive features, such as its large head with round, fluffy ears and dark nose, make it easily recognisable."
-      introPhoto = "/bing/SleepyKoala.jpg"
+      introTitle = " A Total Eclipse at the End of the World "
+      introSubtitle = "  Would you go to the end of the world to see a total eclipse of the Sun?If you did, would you be surprised to find someone else In 2003, the , the Moon, Antarctica, and two photographers all lined up in during an unusual.  Even given the extreme location, a group of ventured near thebottom of the world to momentarydisappearance of the .  One of the treasures collected was the -- a composite of four separate imagesdigitally combined to realistically simulate how the adaptive human the eclipse.  As the image was taken, both thepeeked together over an Antarctic ridge.  In the, theof the Sun became visible around the Moon.  Quite by accident, another photographer was in one of the images checking his video camera.   Visible to his left are an equipment bag and a. A more easily visible solar eclipse will occur in just underfour weeks and  from a long, thin swath of North America."
+      introPhoto = "/nasa/moonglow.net.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
