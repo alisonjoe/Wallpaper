@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "布莱斯峡谷国家公园，犹他州，美国"
-      introSubtitle = "徒步是游览犹他州布莱斯峡谷国家公园这些迷人的红色石柱的最佳选择！公园里的徒步小径可以引导您穿行于世界上最大的石柱岩群之间，这些石柱是由侵蚀作用形成的岩石尖顶。这些马蹄形的天然露天剧场会随着阳光的照射而变化，营造出了一种超现实的景观。该地区最初居住着美洲原住民部落，包括派尤特人。虽然没有证据表明他们曾在此长期居住，但派尤特族印第安人曾利用庞沙冈特高原进行季节性狩猎和采集。布莱斯峡谷于1928年被指定为国家公园，峡谷内分布着多个观景点，如灵感点、约文帕点和彩虹点，可将周围的景致尽收眼底。"
-      introPhoto = "/bing/BryceSnow.jpg"
+      introTitle = "東大寺, 奈良県 奈良市 (© Buddhika Weerasinghe/Getty Images)"
+      introSubtitle = "3 月 1 日から 14 日まで、東大寺二月堂では、修二会という伝統的な法会が行われています。行中の 3 月 12 日の深夜には、僧侶たちが二月堂前の若狭井という井戸から「お香水」を汲み上る「お水取り」の儀式が行われます。十一面観音にその水をお供えして天下安穏などを祈願します…"
+      introPhoto = "/bing/OmizutoriNew.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
