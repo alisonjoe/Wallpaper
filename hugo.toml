@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "東大寺, 奈良県 奈良市 (© Buddhika Weerasinghe/Getty Images)"
-      introSubtitle = "3 月 1 日から 14 日まで、東大寺二月堂では、修二会という伝統的な法会が行われています。行中の 3 月 12 日の深夜には、僧侶たちが二月堂前の若狭井という井戸から「お香水」を汲み上る「お水取り」の儀式が行われます。十一面観音にその水をお供えして天下安穏などを祈願します…"
-      introPhoto = "/bing/OmizutoriNew.jpg"
+      introTitle = " A Full Plankton Moon "
+      introSubtitle = "What glows in the night?This night a combination of usual and unusual glows.Perhaps the most usual glow was from, a potentially familiar object.The full Moon's nearly results from the observer being near.As the Moon sets, ands in preferentially scatter out blue light, makingthe appear reddish whennear the horizon.                                                                                                                                             Perhaps the mostwas from the bioluminescent, likely less familiar objects.These  glow blue, it is thought, primarily toand.In this case, the glow was caused primarily byplankton-containing waves crashing onto the beach.The image was taken on, just overone year ago."
+      introPhoto = "/nasa/Institute_of_Physics_in_Opava.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
