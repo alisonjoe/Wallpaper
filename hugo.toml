@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Champs de tulipes dans la vallée du Fraser, Abbotsford, Colombie-Britannique, Canada (© LeonU/Getty Images)"
-      introSubtitle = "Le décompte avant l'arrivée officielle du printemps a commencé! Les tulipes de la vallée du Fraser, mises en lumière dans l'image d'aujourd'hui, s'épanouissent dans une explosion de teintes vibrantes en préparation du festival des tulipes d'Abbotsford, prévu pour le mois d'avril. Cette terre fertile est généreusement arrosée par les eaux du fleuve Fraser, qui serpente à travers la frontière nord de la ville."
-      introPhoto = "/bing/TulipAbbotsford.jpg"
+      introTitle = "Fiesta de las Fallas de Valencia, Comunidad Valenciana, España (© Gonzalo Azumendi/Getty images)"
+      introSubtitle = "¡Llegan las Fallas de Valencia, un espectáculo de luz, arte y tradición! Desde su humilde comienzo con carpinteros quemando restos de madera en honor a San José, esta festividad ha sido reconocida por la UNESCO e inscrita en su Lista Representativa del Patrimonio Cultural Inmaterial de la Humanidad. Imagina gigantescas esculturas, las "fallas", emergiendo como guardianas de las calles, cada una ansiosa por contar su historia antes de sucumbir al fuego en la "cremà", así como su asombroso espectáculo pirotécnico."
+      introPhoto = "/bing/FallerasWomenValencia.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
