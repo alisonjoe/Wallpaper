@@ -1,14 +1,14 @@
 ---
 author: "AlisonLai"
-title: Colourful tulip fields in Fraser Valley, Abbotsford, BC, Canada (© LeonU/Getty Images)
-date: 2024-03-16T06:00:23+0800
+title: Champs de tulipes dans la vallée du Fraser, Abbotsford, Colombie-Britannique, Canada (© LeonU/Getty Images)
+date: 2024-03-16T06:01:15+0800
 description: ""
-tags: ["A splash of spring"]
+tags: ["Explosion printannière"]
 copyright: © LeonU/Getty Images
 thumbnail: /bing/TulipAbbotsford.jpg
 ---
 图文来源自：bing.  copyright: © LeonU/Getty Images
 
-The countdown to the official start of spring has begun, accompanied by constantly emerging blooms. The tulips of the Fraser Valley, seen in today's image, are bursting with vibrant colour in preparation for the Abbotsford Tulip Festival in April. Abbotsford's fertile soil is fed by the Fraser River, which runs through the northern border of the city.
+Le décompte avant l'arrivée officielle du printemps a commencé! Les tulipes de la vallée du Fraser, mises en lumière dans l'image d'aujourd'hui, s'épanouissent dans une explosion de teintes vibrantes en préparation du festival des tulipes d'Abbotsford, prévu pour le mois d'avril. Cette terre fertile est généreusement arrosée par les eaux du fleuve Fraser, qui serpente à travers la frontière nord de la ville.
 
 ![TulipAbbotsford](/bing/TulipAbbotsford.jpg)
