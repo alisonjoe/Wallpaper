@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Fiesta de las Fallas de Valencia, Comunidad Valenciana, España (© Gonzalo Azumendi/Getty images)"
-      introSubtitle = "¡Llegan las Fallas de Valencia, un espectáculo de luz, arte y tradición! Desde su humilde comienzo con carpinteros quemando restos de madera en honor a San José, esta festividad ha sido reconocida por la UNESCO e inscrita en su Lista Representativa del Patrimonio Cultural Inmaterial de la Humanidad. Imagina gigantescas esculturas, las "fallas", emergiendo como guardianas de las calles, cada una ansiosa por contar su historia antes de sucumbir al fuego en la "cremà", así como su asombroso espectáculo pirotécnico."
-      introPhoto = "/bing/FallerasWomenValencia.jpg"
+      introTitle = "Lindenallee, baumgesäumter Fußweg durch den Park im Frühling (© AVTG/Getty Images)"
+      introSubtitle = "Mit den ersten zarten Sonnenstrahlen des Frühlings erwacht die Lindenallee zu neuem Leben. Ihre knospenden Zweige wiegen sich sanft im leichten Frühlingswind, während das zarte Grün langsam die grauen Zweige umhüllt. Ein Teppich aus duftenden Blütenblättern legt sich über den Weg und das leise Rascheln unter den Füßen kündigt den Frühling an. Vögel zwitschern fröhlich in den Zweigen und verkünden mit ihrem Gesang die Ankunft der wärmeren Tage. Die Luft ist erfüllt von süßen Blütendüften, die die Sinne beflügeln, und die Lindenallee erstrahlt in ihrer vollen Pracht und verspricht eine Zeit des Erwachens und der Erneuerung. Spüren Sie nicht auch den Zauber des Wandels und die unendliche Schönheit der Natur?"
+      introPhoto = "/bing/AvenueLimeTrees.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
