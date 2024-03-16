@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "圣菲尼安湾，凯里郡，爱尔兰"
-      introSubtitle = "今天，全球数百万具有爱尔兰血统的人都在庆祝圣帕特里克节。圣帕特里克是爱尔兰国家的守护神，大约在公元432年，他将基督教引入到爱尔兰。公元461年3月17日，圣帕特里克逝世，这一天成为了爱尔兰纪念他的日子。"
-      introPhoto = "/bing/StFiniansBay.jpg"
+      introTitle = "Dhanushkodi, Rameshwaram harbour, Pamban bridge and near by areas (© gulfu photography/Getty Images)"
+      introSubtitle = "Get ready to explore the offbeat charm of Rameswaram Island! Occupying a significant position between peninsular India and Sri Lanka, this island, also known as Pamban Island, is within the Adam's Bridge (Ram Setu) archipelago. As the second-largest island in the region, it is anchored by the pilgrimage hub of Rameswaram, a bustling town steeped in spiritual significance. Here, spanning across the waters of the Indian Ocean, Pamban Bridge is a vital railway link, connecting the town of Mandapam on mainland India with Rameswaram on the Island. Another wonder covered in today's snapshot is the quaint town of Dhanushkodi, situated in the embrace of Rameswaram island. This town attracts travellers with its rich history and natural splendour. Once a well inhabited place, it is now a ghost town, though its weather-beaten ruins still make it a must-visit tourist destination."
+      introPhoto = "/bing/PambanBridge.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
