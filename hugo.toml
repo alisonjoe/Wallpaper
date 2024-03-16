@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Lindenallee, baumgesäumter Fußweg durch den Park im Frühling (© AVTG/Getty Images)"
-      introSubtitle = "Mit den ersten zarten Sonnenstrahlen des Frühlings erwacht die Lindenallee zu neuem Leben. Ihre knospenden Zweige wiegen sich sanft im leichten Frühlingswind, während das zarte Grün langsam die grauen Zweige umhüllt. Ein Teppich aus duftenden Blütenblättern legt sich über den Weg und das leise Rascheln unter den Füßen kündigt den Frühling an. Vögel zwitschern fröhlich in den Zweigen und verkünden mit ihrem Gesang die Ankunft der wärmeren Tage. Die Luft ist erfüllt von süßen Blütendüften, die die Sinne beflügeln, und die Lindenallee erstrahlt in ihrer vollen Pracht und verspricht eine Zeit des Erwachens und der Erneuerung. Spüren Sie nicht auch den Zauber des Wandels und die unendliche Schönheit der Natur?"
-      introPhoto = "/bing/AvenueLimeTrees.jpg"
+      introTitle = "圣菲尼安湾，凯里郡，爱尔兰"
+      introSubtitle = "今天，全球数百万具有爱尔兰血统的人都在庆祝圣帕特里克节。圣帕特里克是爱尔兰国家的守护神，大约在公元432年，他将基督教引入到爱尔兰。公元461年3月17日，圣帕特里克逝世，这一天成为了爱尔兰纪念他的日子。"
+      introPhoto = "/bing/StFiniansBay.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
