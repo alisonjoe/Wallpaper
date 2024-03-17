@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Dhanushkodi, Rameshwaram harbour, Pamban bridge and near by areas (© gulfu photography/Getty Images)"
-      introSubtitle = "Get ready to explore the offbeat charm of Rameswaram Island! Occupying a significant position between peninsular India and Sri Lanka, this island, also known as Pamban Island, is within the Adam's Bridge (Ram Setu) archipelago. As the second-largest island in the region, it is anchored by the pilgrimage hub of Rameswaram, a bustling town steeped in spiritual significance. Here, spanning across the waters of the Indian Ocean, Pamban Bridge is a vital railway link, connecting the town of Mandapam on mainland India with Rameswaram on the Island. Another wonder covered in today's snapshot is the quaint town of Dhanushkodi, situated in the embrace of Rameswaram island. This town attracts travellers with its rich history and natural splendour. Once a well inhabited place, it is now a ghost town, though its weather-beaten ruins still make it a must-visit tourist destination."
-      introPhoto = "/bing/PambanBridge.jpg"
+      introTitle = "大象岩，古城欧拉，沙特阿拉伯"
+      introSubtitle = "经过数百万年的时间，大自然雕琢出了这片耀眼夺目的砂岩地貌，名为大象岩。该岩石高达117英尺，位于沙特阿拉伯古城欧拉附近，由于风水的侵蚀，它呈现出大象的形状，并成为了该地区的著名地标。日落时，夕阳洒在这片沙漠上，为红色的“猛犸象”及其周围金色的沙子镀上一层温暖的光辉。"
+      introPhoto = "/bing/ElephantRock.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
