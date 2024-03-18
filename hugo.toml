@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = " NGC 7714: Starburst after Galaxy Collision "
-      introSubtitle = "  Is this galaxy jumping through a ? Probably not. Although the precise  the featured image is yet unclear, what is clear is that the pictured galaxy, , has been stretched and distorted by a recent collision with a neighboring galaxy.This smaller neighbor, , situated off to the left of the frame, is thought to have  right through .Observations indicate that the golden  is composed of millions of older Sun-like stars that are likely co-moving with the .In contrast, the bright center of  appears to be undergoing a burst of new star formation. The  was captured by the . NGC 7714 is located about 130 million  away toward the constellation of the Two Fish (). The  between these galaxies likely started about 150 million  and should continue for several hundred million , after which a  may result. "
-      introPhoto = "/nasa/ESA.jpg"
+      introTitle = "Tree frog on leaf (© Tetsuya Tanooka/DEEPOL by plainpicture)"
+      introSubtitle = "In some parts of the world, the arrival of spring is announced by the guttural chorus of tree frogs. As their name suggests, these frogs spend most of their lives in trees. Belonging to species within the Neobatrachia suborder, it is characterised by its arboreal lifestyle, spending a significant portion of its life in trees. Despite their diverse origins within Neobatrachia, these tree-dwelling frogs share the common adaptation of inhabiting arboreal environments. They tend to be small and slender since their weight has to be supported by branches and twigs in their habitats. They can be recognised by the sticky discs on the tips of their fingers and toes, which help them cling to surfaces. The American green tree frog is the official state amphibian of both Louisiana and Georgia."
+      introPhoto = "/bing/SpringFrog.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
