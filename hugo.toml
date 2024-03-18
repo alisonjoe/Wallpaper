@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Vista aerea dell'Altare della Patria, Roma, Italia (© Nico De Pasquale Photography/Getty Images)"
-      introSubtitle = "have no desc"
-      introPhoto = "/bing/AltaredellaPatria.jpg"
+      introTitle = " NGC 7714: Starburst after Galaxy Collision "
+      introSubtitle = "  Is this galaxy jumping through a ? Probably not. Although the precise  the featured image is yet unclear, what is clear is that the pictured galaxy, , has been stretched and distorted by a recent collision with a neighboring galaxy.This smaller neighbor, , situated off to the left of the frame, is thought to have  right through .Observations indicate that the golden  is composed of millions of older Sun-like stars that are likely co-moving with the .In contrast, the bright center of  appears to be undergoing a burst of new star formation. The  was captured by the . NGC 7714 is located about 130 million  away toward the constellation of the Two Fish (). The  between these galaxies likely started about 150 million  and should continue for several hundred million , after which a  may result. "
+      introPhoto = "/nasa/ESA.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
