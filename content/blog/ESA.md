@@ -1,6 +1,6 @@
 ---
 author: "AlisonLai"
-title:  NGC 7714: Starburst after Galaxy Collision 
+title:  NGC 7714 Starburst after Galaxy Collision 
 date: 2024-03-18T09:00:15+0800
 description: ""
 tags: ["nasa"]
