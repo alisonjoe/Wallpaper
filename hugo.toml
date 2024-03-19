@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Tree frog on leaf (© Tetsuya Tanooka/DEEPOL by plainpicture)"
-      introSubtitle = "In some parts of the world, the arrival of spring is announced by the guttural chorus of tree frogs. As their name suggests, these frogs spend most of their lives in trees. Belonging to species within the Neobatrachia suborder, it is characterised by its arboreal lifestyle, spending a significant portion of its life in trees. Despite their diverse origins within Neobatrachia, these tree-dwelling frogs share the common adaptation of inhabiting arboreal environments. They tend to be small and slender since their weight has to be supported by branches and twigs in their habitats. They can be recognised by the sticky discs on the tips of their fingers and toes, which help them cling to surfaces. The American green tree frog is the official state amphibian of both Louisiana and Georgia."
-      introPhoto = "/bing/SpringFrog.jpg"
+      introTitle = "鸟瞰春日盛开的樱花，中国"
+      introSubtitle = "春分时节，中国大部分地区已进入明媚的春天。此时，严寒已过，气温迅速回升。春分过后，人们开始陆续外出。在户外活动中，放风筝是一项重要的项目。古代还有春分戴花、饮酒的习俗。在这一天，无论男女老少都会在头发上戴花。"
+      introPhoto = "/bing/Springequinox2024.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
