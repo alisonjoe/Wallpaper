@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Papà e piccolo di volpe rossa, Washington, Stati Uniti (© Chase Dekker/Minden Pictures)"
-      introSubtitle = "have no desc"
-      introPhoto = "/bing/RedFox.jpg"
+      introTitle = "Cave Dale und Peveril Castle in Castleton, Peak-District-Nationalpark, Derbyshire, England (© James Osmond/Alamy)"
+      introSubtitle = "Peveril Castle war einst eine mittelalterliche Festung auf einem Kalksteinfelsen. Ihre Ruinen überragen das Dorf Castleton im Peak District in Derbyshire, England. Die Burg wurde kurz nach der normannischen Eroberung im 11. Jahrhundert errichtet, aber erst im 14. fertiggestellt. Der schottische Dichter Walter Scott schrieb eine Novelle mit dem Titel „Peveril of the Peak“, in der er die Burgruine beschreibt. Vielleicht kennen Sie ihn nicht, aber unser Johann Wolfgang von Goethe bezeichnete ihn als den „besten Schriftsteller seiner Zeit“. Er beeinflusste zahlreiche Autoren wie Honoré de Balzac, Theodor Fontane, Alessandro Manzoni und Alexander Puschkin."
+      introPhoto = "/bing/SpringCaveDale.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
