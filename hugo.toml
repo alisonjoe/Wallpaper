@@ -11,8 +11,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Cave Dale und Peveril Castle in Castleton, Peak-District-Nationalpark, Derbyshire, England (© James Osmond/Alamy)"
-      introSubtitle = "Peveril Castle war einst eine mittelalterliche Festung auf einem Kalksteinfelsen. Ihre Ruinen überragen das Dorf Castleton im Peak District in Derbyshire, England. Die Burg wurde kurz nach der normannischen Eroberung im 11. Jahrhundert errichtet, aber erst im 14. fertiggestellt. Der schottische Dichter Walter Scott schrieb eine Novelle mit dem Titel „Peveril of the Peak“, in der er die Burgruine beschreibt. Vielleicht kennen Sie ihn nicht, aber unser Johann Wolfgang von Goethe bezeichnete ihn als den „besten Schriftsteller seiner Zeit“. Er beeinflusste zahlreiche Autoren wie Honoré de Balzac, Theodor Fontane, Alessandro Manzoni und Alexander Puschkin."
+      introTitle = "Cave Dale and Peveril Castle in Castleton, Peak District National Park, Derbyshire, England (© James Osmond/Alamy)"
+      introSubtitle = "Peveril Castle was once a medieval fortress, standing tall on a limestone outcrop. Its ruins now overlook the village of Castleton in the Peak District in Derbyshire, England. Construction of the castle began shortly after the Norman conquest in the 11th century, although it wasn't completed until the 14th century. From the castle, visitors can enjoy views of Cave Dale, a ravine that was carved by glacial meltwater over many years. In the limestone walls of the dale, there are caves and disused lead mines. From hidden caves to towering battlements, this corner of the Peak District is bursting with history and is just waiting to be explored."
       introPhoto = "/bing/SpringCaveDale.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
