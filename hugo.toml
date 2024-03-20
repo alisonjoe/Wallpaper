@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Zorro rojo con su cachorro en Washington (© Chase Dekker/Minden Pictures)"
-      introSubtitle = "En el frescor del bosque, un zorro rojo guía con orgullo a su cachorro, celebrando a su manera el Día del Padre. Este día, en España, se vive con la misma ternura que este padre zorro cuida de su joven cría. Coincidiendo con el día de San José, el 19 de marzo es un día sagrado para el corazón familiar, un momento para honrar la dedicación y el amor de quienes nos guían por la vida."
-      introPhoto = "/bing/RedFox.jpg"
+      introTitle = " A Picturesque Equinox Sunset "
+      introSubtitle = "  What's that at the end of the road?The Sun.Many towns have roads that run east-west, and on two days each year, the Sun rises and sets .Today, in some parts of the world (tomorrow in others), is one of those days: an . Not only is this a day of equal night  and day time, but also a day when the  precisely to the east and sets due west.Displayed here is a picturesque rural road in ,  that runs approximately east-west.The  was taken during the September  of 2021, but the geometry remains the same every year. In many cultures, this  is taken to be the first day of a season, typically spring in Earth's , and autumn in the .Does your  run east-west?Tonight, at sunset, you can  with a quick glance."
+      introPhoto = "/nasa/TWAN.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
