@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Château d'If, Calanques, Marseille, Bouches du Rhône (© MOIRENC Camille/Hemis/Alamy Stock Photo)"
-      introSubtitle = "Le 20 mars, l'ONU célèbre la Journée de la langue française, l'une des six « Journées des langues » consacrées aux langues officielles de l'organisation. Instaurées en 2010 pour promouvoir le multilinguisme et la diversité culturelle, elles ont pour objectif de sensibiliser à l'histoire, la culture et l'importance de chaque langue. La date de la Journée de la langue française commémore la création de l'Agence de coopération culturelle et technique en 1970, devenue l’Organisation internationale de la Francophonie."
-      introPhoto = "/bing/ChateauIf.jpg"
+      introTitle = "The Jefferson Memorial during the Cherry Blossom Festival, Washington, DC (© f11photo/Shutterstock)"
+      introSubtitle = "Want to experience spring in all its glory? If you head to the National Cherry Blossom Festival in Washington, DC, you're in for a blooming good time! The festival commemorates the 3,000 cherry trees given to the city by the mayor of Tokyo in 1912. Twelve varieties were originally gifted but these days most of the trees are either Yoshino or Kwanzan cherries. Those circling the Tidal Basin, the location of the Jefferson Memorial featured in today's image, are Yoshino trees. The event has evolved to become a four-week celebration that attracts over 1.5 million people every year. The highlights of the festival include a lively parade filled with large, colorful helium balloons, stunning floats, and marching bands from all over the country."
+      introPhoto = "/bing/CherryBlossomsDC.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
