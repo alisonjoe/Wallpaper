@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Cerezos en flor en el Valle del Jerte, Cáceres, España (© Mario Elias Munoz Valencia/iStock/Getty Images)"
-      introSubtitle = "Cada año, el Valle del Jerte se tiñe de blanco nupcial para dar la bienvenida a la primavera con su espectacular Fiesta del Cerezo en Flor. Este año el esperado evento de la naturaleza se celebra desde el 16 de marzo al 3 de mayo."
-      introPhoto = "/bing/FloweingBerrys.jpg"
+      introTitle = "Phobos: Moon over Mars "
+      introSubtitle = "  ,Phobos emerges from behindthe Red Planet in this timelapse sequence from the Earth-orbiting.Over 22 minutes the 13 separate exposures werecaptured near the 2016 closest to planet Earth. have to look to the westto watch Phobos rise, though.The small moon is closer to its than any othermoon in the Solar System, about 3,700 miles (6,000 kilometers).It completes one orbit in just 7 hours and 39 minutes.That's faster than a Mars rotation, which corresponds toabout 24 hours and 40 minutes.So on Mars, Phobos can be seen to rise abovethe western horizon 3 times a day.Still, ."
+      introPhoto = "/nasa/ESA.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
