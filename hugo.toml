@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Poço encantado em Chapada Diamantina, Bahia (© Cavan Images/Getty Images)"
-      introSubtitle = "have no desc"
-      introPhoto = "/bing/ChapadaDiamantinaBahia.jpg"
+      introTitle = "オカバンゴ・デルタ, ボツワナ (© Ibrahim Suha Derbent/Getty Images)"
+      introSubtitle = "アフリカ南部のボツワナにあるオカバンゴ・デルタは、自然美と生態系の重要性から世界遺産に登録されており、多種多様な生物が生息しています。特徴的な赤褐色の毛皮と竪琴のような形をした角で知られるリーチュエも、ここで自由に走っています…"
+      introPhoto = "/bing/AntelopeBotswana.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
