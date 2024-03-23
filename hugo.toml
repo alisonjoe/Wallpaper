@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "オカバンゴ・デルタ, ボツワナ (© Ibrahim Suha Derbent/Getty Images)"
-      introSubtitle = "アフリカ南部のボツワナにあるオカバンゴ・デルタは、自然美と生態系の重要性から世界遺産に登録されており、多種多様な生物が生息しています。特徴的な赤褐色の毛皮と竪琴のような形をした角で知られるリーチュエも、ここで自由に走っています…"
-      introPhoto = "/bing/AntelopeBotswana.jpg"
+      introTitle = "Ria de Vigo, Vigo, España (© JulioConde/Getty Images)"
+      introSubtitle = "¿Estás preparado para un viaje en el tiempo? Los vigueses se visten de historia cada primavera, cuando sus calles retroceden a 1809 para celebrar la Reconquista de Vigo. Este evento celebra un hito en la historia que marcó un antes y un después en la ciudad olívica, convirtiendo a Vigo en la primera ciudad europea que logró expulsar a las tropas napoleónicas."
+      introPhoto = "/bing/ReconquistaVigo.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
