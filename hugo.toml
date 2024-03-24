@@ -11,8 +11,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Celebrating Holi in Mathura, Uttar Pradesh, India (© Avishek Das/SOPA Images/LightRocket via Getty Images)"
-      introSubtitle = "It's Holi; get ready to become a walking rainbow and sprinkle joy wherever you go! This festival of colours, spring and love is a cornerstone of Indian culture. Commonly, the festivity lasts for a night and a day. But Holi is celebrated in different regions variedly, highlighting their traditions. In Barsana, Uttar Pradesh, Lathmar Holi sees women playfully chasing men with long sticks. Khadi Holi in Kumaon, Uttarakhand, features traditional attire, khari songs and group dances. Punjab observes Hola Mohalla, with Nihang Sikhs showcasing martial arts skills. West Bengal welcomes spring with Basant Utsav and Dol Jatra, where saffron-clad participants sing and dance. Goa's Shigmo involves folk dances, attracting both locals and tourists. Manipur's Yaosang combines Hindu and indigenous customs, featuring the Thabal chongba dance. Kerala celebrates Manjal Kuli, adding its unique touch to Holi festivities."
+      introTitle = "カラフルな色粉を投げ合う様子, インド (© Avishek Das/SOPA Images/LightRocket via Getty Images)"
+      introSubtitle = "ホーリー祭は、インドやネパールの春祭りですが、バングラデシュ、パキスタン、イギリス、米国、スリナム、インドネシア、マレーシアなど、ヒンドゥー教徒の多い他の国々でも祝われています。通常 3 月の満月の日から始まり、2 日間にわたって行われます…"
       introPhoto = "/bing/ColorfulHoli.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
