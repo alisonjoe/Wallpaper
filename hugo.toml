@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "カラフルな色粉を投げ合う様子, インド (© Avishek Das/SOPA Images/LightRocket via Getty Images)"
-      introSubtitle = "ホーリー祭は、インドやネパールの春祭りですが、バングラデシュ、パキスタン、イギリス、米国、スリナム、インドネシア、マレーシアなど、ヒンドゥー教徒の多い他の国々でも祝われています。通常 3 月の満月の日から始まり、2 日間にわたって行われます…"
-      introPhoto = "/bing/ColorfulHoli.jpg"
+      introTitle = "Blick auf Felder, Luftaufnahme, Bayern (© Westend61 GmbH/Alamy)"
+      introSubtitle = "Der Frühling ist da und die Natur erwacht zu neuem Leben. Schauen Sie sich diese Felder an. Zarte Grüntöne tanzen über die weiten Flächen, das sanfte Gelb der aufblühenden Blumen durchzieht die Landschaft. Ein Hauch von Lila verleiht dem Panorama eine magische Note, wenn sich die ersten Blüten gen Himmel strecken. Die Felder breiten sich wie ein Ozean aus Farben und Texturen vor einem aus, ein lebendiges Gemälde, das nicht nur Maler wie Vincent van Gogh, Claude Monet oder Emil Nolde, sondern auch Dichter wie Hermann Hesse, Joseph von Eichendorff und Friedrich Hölderlin inspiriert hat."
+      introPhoto = "/bing/ViewFieldsBavaria.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
