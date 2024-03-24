@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = " Ares 3 Landing Site: The Martian Revisited "
-      introSubtitle = "  the Mars Reconnaissance Orbiter'sHiRISE camera shows weathered craters and windblown deposits in southern.A striking shade of blue in standard HiRISE image colors,to the human eye the area would probably look grey or a little reddish.But human eyes have not gazedacross this terrain, unless you count the eyes of NASA astronautsin the scifi novel by Andy Weir.The novel chronicles the adventures of Mark Watney,an astronaut stranded at the fictional Mars mission Ares 3 landing sitecorresponding to the coordinates of this cropped HiRISE frame.For scale Watney's 6-meter-diameter habitat at the site would beabout 1/10th the diameter of the large crater.,the Ares 3 landing coordinates are only about 800 kilometers north of the(real life) Carl,the 1997."
-      introPhoto = "/nasa/MRO.jpg"
+      introTitle = "Celebrating Holi in Mathura, Uttar Pradesh, India (© Avishek Das/SOPA Images/LightRocket via Getty Images)"
+      introSubtitle = "It's Holi; get ready to become a walking rainbow and sprinkle joy wherever you go! This festival of colours, spring and love is a cornerstone of Indian culture. Commonly, the festivity lasts for a night and a day. But Holi is celebrated in different regions variedly, highlighting their traditions. In Barsana, Uttar Pradesh, Lathmar Holi sees women playfully chasing men with long sticks. Khadi Holi in Kumaon, Uttarakhand, features traditional attire, khari songs and group dances. Punjab observes Hola Mohalla, with Nihang Sikhs showcasing martial arts skills. West Bengal welcomes spring with Basant Utsav and Dol Jatra, where saffron-clad participants sing and dance. Goa's Shigmo involves folk dances, attracting both locals and tourists. Manipur's Yaosang combines Hindu and indigenous customs, featuring the Thabal chongba dance. Kerala celebrates Manjal Kuli, adding its unique touch to Holi festivities."
+      introPhoto = "/bing/ColorfulHoli.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
