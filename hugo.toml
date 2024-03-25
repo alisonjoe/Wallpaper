@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "目黒川沿いの桜, 東京 (© twomeows/Getty Images)"
-      introSubtitle = "明日 3 月 27 日は｢さくらの日｣。日本さくらの会が制定した桜の記念日です。また今の時期は七十二候の「桜始開」の時期で、暦の上では桜が開き始めるころと言われています…"
-      introPhoto = "/bing/CherryBlossom2024.jpg"
+      introTitle = "Une biche dans un champ de colza, lac de Serre-Ponçon, Chorges, Hautes-Alpes, France (© Alain Bachellier/Getty Images)"
+      introSubtitle = "Aujourd'hui, en cette Journée Mondiale de la Procrastination, prenons un moment pour contempler la beauté tranquille qui nous entoure. Imaginez-vous cette biche se promenant dans un champ de colza doré, prenant son temps pour savourer chaque instant. Tout comme cet animal, parfois, nous avons besoin de ralentir et de prendre du recul. La procrastination peut être un moment de pause bien nécessaire dans nos vies trépidantes. C'est une opportunité de se reconnecter avec notre environnement, de réfléchir à nos objectifs et de trouver l'inspiration. Alors, pourquoi ne pas profiter de cette journée pour laisser nos esprits vagabonder, tout en gardant à l'esprit nos responsabilités ? Comme la biche dans le champ de colza, trouvons l'équilibre entre la contemplation et l'action. Joyeuse Journée Mondiale de la Procrastination à tous !"
+      introPhoto = "/bing/ProcrastinationDay.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
