@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Blick auf Felder, Luftaufnahme, Bayern (© Westend61 GmbH/Alamy)"
-      introSubtitle = "Der Frühling ist da und die Natur erwacht zu neuem Leben. Schauen Sie sich diese Felder an. Zarte Grüntöne tanzen über die weiten Flächen, das sanfte Gelb der aufblühenden Blumen durchzieht die Landschaft. Ein Hauch von Lila verleiht dem Panorama eine magische Note, wenn sich die ersten Blüten gen Himmel strecken. Die Felder breiten sich wie ein Ozean aus Farben und Texturen vor einem aus, ein lebendiges Gemälde, das nicht nur Maler wie Vincent van Gogh, Claude Monet oder Emil Nolde, sondern auch Dichter wie Hermann Hesse, Joseph von Eichendorff und Friedrich Hölderlin inspiriert hat."
-      introPhoto = "/bing/ViewFieldsBavaria.jpg"
+      introTitle = " Looking Back at an Eclipsed Earth "
+      introSubtitle = "  Here is what the Earth looks like during a.Theof the can be seen darkening part of.This  moved the at nearly 2000 kilometers per hour.Only  near the center of the see a total solar eclipse -others see a partial eclipse where only part of the.This  of the 1999 August 11was one of the last evertaken from the .The two bright spots that appear on the upper left are thought to be.Mir was  in a in 2001.A  will occur over  in about two weeks."
+      introPhoto = "/nasa/CNES.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
