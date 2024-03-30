@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "„Vanishing Point“, des Straßenkünstlers JR bedeckt die Fassade des Palazzo Farnese, Rom, Italien (© Fabrizio Troiani/Alamy Stock Photo)"
-      introSubtitle = "Im Herzen der italienischen Hauptstadt Rom befindet sich dieser prächtige Renaissancebau, der Palazzo Farnese. Es ist schwer zu sagen, welches das bedeutendste architektonische Denkmal Roms ist, oder? Der Palazzo wurde im 16. Jahrhundert für die mächtige und einflussreiche Familie Farnese erbaut und beeindruckt durch seine imposante Fassade und seine prachtvollen Innenräume. Heute beherbergt er die französische Botschaft in Italien und ist nur teilweise für die Öffentlichkeit zugänglich. Ganz in der Nähe befindet sich die Piazza Campo de Fiori, die für ihren täglichen Markt berühmt ist. Dieser Platz im Rione (Stadtteil) Regola ist ein beliebter Treffpunkt für Einheimische und Touristen."
-      introPhoto = "/bing/PalazzoFarnese.jpg"
+      introTitle = "カラフルにペイントされたイースターエッグ, ハンガリー (© ATTILA KISBENEDEK/AFP/Getty Images)"
+      introSubtitle = "今日 3 月 31 日は復活祭。イエス・キリストの復活を祝う祭りで、キリスト教における最も重要な行事とされています。この復活祭を祝うために、ハンガリーのアーティストが創造した素敵な「イースターエッグ」をお届けします…"
+      introPhoto = "/bing/HungarianEggs.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
