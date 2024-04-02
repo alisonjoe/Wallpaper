@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "At-Bashy地区的彩虹，Kakshaal Too山脉，纳伦省，吉尔吉斯斯坦"
-      introSubtitle = "正如青蛙科米特（《布偶电影》中的主角）曾在歌曲《彩虹般的连接》中所唱的那样：“彩虹是幻象，但只是幻象，彩虹没有什么可以隐藏的……”每年4月3日是美国的 “全国寻找彩虹日”，这一天旨在庆祝这一多彩的自然现象，它让世界各地的人们都欣喜不已。当阳光通过大气中的雨滴，光线被反射和散射时，彩虹就会出现。在“寻找彩虹日”这天，人们会参加相关的活动，例如在雨后寻找彩虹或者是创作以彩虹为主题的艺术。在今天的图片中，我们看到一道彩虹挂在吉尔吉斯斯坦雄伟的Kakshaal Too 山脉上，崎岖的山峰和纯净原始的山谷构成了一副绝美的背景图，与稍纵即逝的彩虹美景相得益彰。"
-      introPhoto = "/bing/KyrgyzstanRainbow.jpg"
+      introTitle = "Tea plantation near Munnar, Kerala (© Peter Zelei Images/Moment/Getty Images)"
+      introSubtitle = "Embark on a sensory journey through Munnar's famed tea plantations! Situated amid the misty heights of the Western Ghats Mountain range, Munnar is a hill station and town in the Idukki district of Kerala. At approximately 1,600 metres above sea level, the town boasts a landscape characterised by rolling hills, lush valleys and verdant tea plantations. In the 1880s, European settlers established the first tea plantations in the region, marking the beginning of a flourishing industry that would shape the landscape and economy for decades to come."
+      introPhoto = "/bing/TeaPlantation.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
