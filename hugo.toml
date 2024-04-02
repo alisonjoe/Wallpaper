@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Tea plantation near Munnar, Kerala (© Peter Zelei Images/Moment/Getty Images)"
-      introSubtitle = "Embark on a sensory journey through Munnar's famed tea plantations! Situated amid the misty heights of the Western Ghats Mountain range, Munnar is a hill station and town in the Idukki district of Kerala. At approximately 1,600 metres above sea level, the town boasts a landscape characterised by rolling hills, lush valleys and verdant tea plantations. In the 1880s, European settlers established the first tea plantations in the region, marking the beginning of a flourishing industry that would shape the landscape and economy for decades to come."
-      introPhoto = "/bing/TeaPlantation.jpg"
+      introTitle = "Château de Chambord, Vallée de la Loire, France (© Susanne Kremer/Huber/eStock Photo)"
+      introSubtitle = "Connaissez-vous le Château de Chambord ? Ce monument est une perle de la Renaissance française, inspirée par François Ier et Léonard de Vinci. Bien que l'architecte demeure inconnu, l'influence de Vinci se reflète dans chaque pierre de ce joyau. Après la bataille de Marignan en 1515, François Ier, inspiré par les splendeurs de l'architecture italienne et les talents de Vinci, l'invite à rejoindre sa cour en tant qu'artiste et ingénieur en chef. Le château, avec son plan centré et son escalier à double révolution, témoigne de cette collaboration exceptionnelle. Le donjon, véritable cœur de l'édifice, dévoile une architecture saisissante, mêlant la grandeur médiévale aux innovations de la Renaissance. Cette merveille architecturale nous plonge dans l'Histoire, où l'art, l'histoire et la technologie se rencontrent pour créer une expérience inoubliable !"
+      introPhoto = "/bing/ChambordCastle.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
