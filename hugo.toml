@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Broken Group Islands, Pacific Rim National Park Reserve, Vancouver Island, British Columbia (© Ron Watts/Design Pics/Getty Images)"
-      introSubtitle = "Deep green temperate rainforests alternate with rocky shores, and sandy beaches on the west coast of Vancouver Island. Let's visit the Pacific Rim National Park Reserve! The area that spreads across 511 square kilometres was recognised as a national park in 1970. The Nuu-chah-nulth First Nations of the region have walked these lands for centuries. Today, seven of the 15 Nuu-chah-nulth tribes have at least 22 small reserves within the park and nine bordering it. Another notable feature of the reserve is the Coastal Western Hemlock Biogeoclimatic Zone. This temperate forest terrain is home to several animal species such as black bears, Vancouver Island cougars and martens."
-      introPhoto = "/bing/PacificRimNationalPark.jpg"
+      introTitle = "吉野山の桜, 奈良県 吉野郡 (© Sean Pavone/iStock/Getty Images Plus)"
+      introSubtitle = "今日 4 月 4 日は二十四節気の「清明」。中国では清明節という祝日で、先祖の墓参りの風習があります。また、「清明」は万物が清々しく明るく美しいことを指し、様々な花が咲き乱れ、お花見シーズンの到来時期です…"
+      introPhoto = "/bing/YoshinoyamaSpring.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
