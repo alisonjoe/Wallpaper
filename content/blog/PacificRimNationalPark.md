@@ -1,14 +1,14 @@
 ---
 author: "AlisonLai"
-title: Broken Group Islands, Pacific Rim National Park Reserve, Vancouver Island, British Columbia (© Ron Watts/Design Pics/Getty Images)
-date: 2024-04-04T06:00:25+0800
+title: Îles Broken Group, réserve de parc national Pacific Rim, île de Vancouver, Colombie-Britannique (© Ron Watts/Design Pics/Getty Images)
+date: 2024-04-04T06:01:38+0800
 description: ""
-tags: ["Not all who wander are lost"]
+tags: ["L’endroit idéal pour se perdre"]
 copyright: © Ron Watts/Design Pics/Getty Images
 thumbnail: /bing/PacificRimNationalPark.jpg
 ---
 图文来源自：bing.  copyright: © Ron Watts/Design Pics/Getty Images
 
-Deep green temperate rainforests alternate with rocky shores, and sandy beaches on the west coast of Vancouver Island. Let's visit the Pacific Rim National Park Reserve! The area that spreads across 511 square kilometres was recognised as a national park in 1970. The Nuu-chah-nulth First Nations of the region have walked these lands for centuries. Today, seven of the 15 Nuu-chah-nulth tribes have at least 22 small reserves within the park and nine bordering it. Another notable feature of the reserve is the Coastal Western Hemlock Biogeoclimatic Zone. This temperate forest terrain is home to several animal species such as black bears, Vancouver Island cougars and martens.
+Partons à la découverte du parc national Pacific Rim sur l'île de Vancouver, où les forêts pluviales se mêlent aux côtes rocheuses dans un paysage époustouflant. Ce parc de 511 km², établi en 1970, est le territoire ancestral des Premières Nations Nuu-chah-nulth. Aujourd'hui, plusieurs tribus Nuu-chah-nulth y possèdent des réserves. La région est également renommée pour sa forêt de pruches et la diversité de la faune, comprenant notamment des ours noirs, des couguars et des martres. Les îles Broken Group, dispersées dans le détroit de Barkley, offrent aux visiteurs l'opportunité d'explorer le sentier des épaves, une plongée captivante dans l'histoire maritime. Pacific Rim est bien plus qu'un simple parc ; c'est une immersion totale dans la nature sauvage, promettant des aventures mémorables.
 
 ![PacificRimNationalPark](/bing/PacificRimNationalPark.jpg)
