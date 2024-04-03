@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Îles Broken Group, réserve de parc national Pacific Rim, île de Vancouver, Colombie-Britannique (© Ron Watts/Design Pics/Getty Images)"
-      introSubtitle = "Partons à la découverte du parc national Pacific Rim sur l'île de Vancouver, où les forêts pluviales se mêlent aux côtes rocheuses dans un paysage époustouflant. Ce parc de 511 km², établi en 1970, est le territoire ancestral des Premières Nations Nuu-chah-nulth. Aujourd'hui, plusieurs tribus Nuu-chah-nulth y possèdent des réserves. La région est également renommée pour sa forêt de pruches et la diversité de la faune, comprenant notamment des ours noirs, des couguars et des martres. Les îles Broken Group, dispersées dans le détroit de Barkley, offrent aux visiteurs l'opportunité d'explorer le sentier des épaves, une plongée captivante dans l'histoire maritime. Pacific Rim est bien plus qu'un simple parc ; c'est une immersion totale dans la nature sauvage, promettant des aventures mémorables."
-      introPhoto = "/bing/PacificRimNationalPark.jpg"
+      introTitle = "Newcastle Upon Tyne, England (© Allan Baxter/The Image Bank/Getty Images)"
+      introSubtitle = "Nestled on the banks of the River Tyne, Newcastle Upon Tyne's story is one of transformation. Amongst its cobbled streets and historic buildings lies a treasure trove of tales. The city started life as Pons Aelius, a Roman settlement. It was on this site that the Norman fortress that gave the city its name was built. During the Middle Ages, the city was an important trading power, while during Victorian age, its shipbuilding and engineering works made Newcastle a vital part of the Industrial Revolution."
+      introPhoto = "/bing/NewcastleUponTyneUK.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
