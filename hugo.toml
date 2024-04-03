@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Château de Chambord, Vallée de la Loire, France (© Susanne Kremer/Huber/eStock Photo)"
-      introSubtitle = "Connaissez-vous le Château de Chambord ? Ce monument est une perle de la Renaissance française, inspirée par François Ier et Léonard de Vinci. Bien que l'architecte demeure inconnu, l'influence de Vinci se reflète dans chaque pierre de ce joyau. Après la bataille de Marignan en 1515, François Ier, inspiré par les splendeurs de l'architecture italienne et les talents de Vinci, l'invite à rejoindre sa cour en tant qu'artiste et ingénieur en chef. Le château, avec son plan centré et son escalier à double révolution, témoigne de cette collaboration exceptionnelle. Le donjon, véritable cœur de l'édifice, dévoile une architecture saisissante, mêlant la grandeur médiévale aux innovations de la Renaissance. Cette merveille architecturale nous plonge dans l'Histoire, où l'art, l'histoire et la technologie se rencontrent pour créer une expérience inoubliable !"
-      introPhoto = "/bing/ChambordCastle.jpg"
+      introTitle = "Broken Group Islands, Pacific Rim National Park Reserve, Vancouver Island, British Columbia (© Ron Watts/Design Pics/Getty Images)"
+      introSubtitle = "Deep green temperate rainforests alternate with rocky shores, and sandy beaches on the west coast of Vancouver Island. Let's visit the Pacific Rim National Park Reserve! The area that spreads across 511 square kilometres was recognised as a national park in 1970. The Nuu-chah-nulth First Nations of the region have walked these lands for centuries. Today, seven of the 15 Nuu-chah-nulth tribes have at least 22 small reserves within the park and nine bordering it. Another notable feature of the reserve is the Coastal Western Hemlock Biogeoclimatic Zone. This temperate forest terrain is home to several animal species such as black bears, Vancouver Island cougars and martens."
+      introPhoto = "/bing/PacificRimNationalPark.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
