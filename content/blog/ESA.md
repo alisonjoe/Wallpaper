@@ -1,7 +1,7 @@
 ---
 author: "AlisonLai"
-title: Phobos: Moon over Mars 
-date: 2024-03-23T09:00:13+0800
+title:  Unusual Nebula Pa 30 
+date: 2024-04-04T09:00:23+0800
 description: ""
 tags: ["nasa"]
 copyright: NASA
@@ -9,6 +9,6 @@ thumbnail: /nasa/ESA.jpg
 ---
 图文来源自：nasa.  copyright: NASA
 
-  ,Phobos emerges from behindthe Red Planet in this timelapse sequence from the Earth-orbiting.Over 22 minutes the 13 separate exposures werecaptured near the 2016 closest to planet Earth. have to look to the westto watch Phobos rise, though.The small moon is closer to its than any othermoon in the Solar System, about 3,700 miles (6,000 kilometers).It completes one orbit in just 7 hours and 39 minutes.That's faster than a Mars rotation, which corresponds toabout 24 hours and 40 minutes.So on Mars, Phobos can be seen to rise abovethe western horizon 3 times a day.Still, .
+  What created this unusual celestial firework?The nebula, dubbed , appears in the same sky direction now as a bright "" did in the .Although Pa 30's filaments look similar to that created by a nova (for example ),and a planetary nebula (for example ), some astronomers  that it was created by a rare type of : a thermonuclear Type Iax, and so is (also) named . In , the supernova was not the result of the detonation of a single star, but rather a blast that occurred when two  and merged. The blue dot in the center is hypothesized to be a , the remnant white dwarf that  this -level explosion. The  combines images and data obtained with  (),   (, ), and  (, ) telescopes. Future observations and analyses may . 
 
 ![ESA](/nasa/ESA.jpg)

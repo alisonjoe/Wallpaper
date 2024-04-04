@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Newcastle Upon Tyne, England (© Allan Baxter/The Image Bank/Getty Images)"
-      introSubtitle = "Nestled on the banks of the River Tyne, Newcastle Upon Tyne's story is one of transformation. Amongst its cobbled streets and historic buildings lies a treasure trove of tales. The city started life as Pons Aelius, a Roman settlement. It was on this site that the Norman fortress that gave the city its name was built. During the Middle Ages, the city was an important trading power, while during Victorian age, its shipbuilding and engineering works made Newcastle a vital part of the Industrial Revolution."
-      introPhoto = "/bing/NewcastleUponTyneUK.jpg"
+      introTitle = " Unusual Nebula Pa 30 "
+      introSubtitle = "  What created this unusual celestial firework?The nebula, dubbed , appears in the same sky direction now as a bright "" did in the .Although Pa 30's filaments look similar to that created by a nova (for example ),and a planetary nebula (for example ), some astronomers  that it was created by a rare type of : a thermonuclear Type Iax, and so is (also) named . In , the supernova was not the result of the detonation of a single star, but rather a blast that occurred when two  and merged. The blue dot in the center is hypothesized to be a , the remnant white dwarf that  this -level explosion. The  combines images and data obtained with  (),   (, ), and  (, ) telescopes. Future observations and analyses may . "
+      introPhoto = "/nasa/ESA.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
