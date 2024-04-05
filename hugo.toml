@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "姬路城，姫路，兵库县，日本"
-      introSubtitle = "从“草莓日”到“猫日”，甚至“蔬菜日”，日本有一系列“谐音节日”，这些节日都来源于駄洒落（一种用读音相同或相近的词汇来玩乐的日本文字游戏，与英语中的双关语类似）。今天的日期是4月6日，而日语中的“shiro”（城堡）这个词恰好是由“shi”（4）和“ro”（6）组成的。因此，这一天就成为了庆祝城堡的日子。还有什么比城堡日更好的机会来了解日本最大、游客最多的城堡——姬路城呢？它的历史可以追溯到1333年，是联合国教科文组织认定的世界遗产，拥有先进的防御设计和五个国宝级建筑。"
-      introPhoto = "/bing/JapanHimeji.jpg"
+      introTitle = "Pont del Bisbe, Barrio Gótico de Barcelona, España (© Alexander Spatari/Getty Images)"
+      introSubtitle = "¿Has sentido alguna vez la magia que envuelve las calles del Barrio Gótico de Barcelona? Entre sus rincones ancestrales, se erige el Pont del Bisbe, este puente, que conecta el Palau de la Generalitat con la Casa dels Canonges, parece haber sido transportado desde la época medieval a nuestra era, aunque su nacimiento data de 1928, obra de Joan Rubió i Bellver, discípulo del genial Gaudí."
+      introPhoto = "/bing/NeogothicBarcelona.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
