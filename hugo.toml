@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "奇迹湖附近池塘里的北美海狸，德纳里国家公园，阿拉斯加州，美国"
-      introSubtitle = "海狸被称为大自然的工程师，数百万年来一直在改造着世界。历史上，北美海狸曾面临来自人类的挑战。人们为了它们的皮毛而猎杀它们，它们“讨厌的”淡水栖息地也被摧毁了。然而，近年来，这些长着獠牙、有着桨尾的水坝建造者正在重新赢得尊重。这些动物不仅对水质有益，而且对陆地也有好处。海狸用它们富含铁元素的橙色门牙砍伐树木，辛勤地建造家园和栖息地。它们的水坝为无数物种创造了维持生命的湿地。与此同时，它们的巢穴既安全又舒适，入口处被战略性地淹没在水下，以阻止捕食者进入，并保障自己的隐私安全。作为啮齿类动物的海狸可以憋气长达15分钟，所以他们可以毫不费力地进入自己的水下巢穴。因此，让我们在国际海狸日向这些动物致敬吧！"
-      introPhoto = "/bing/BeaverDenali.jpg"
+      introTitle = "Unwinding M51"
+      introSubtitle = "  The arms of a grand design spiral galaxy 60,000 light-years across areunwound in this digital transformation of the magnificent 2005.In fact, M51 is one of the original spiral nebulae, its windingarms described by a mathematical curve known as a, a spiral whose separation grows in away with increasing distance from the center.Applying logarithms to shift the pixelcoordinates in the Hubble image relative to the center of M51 mapsthe galaxy's spiral arms into diagonal straight lines.The transformed image dramatically shows the arms themselves aretraced by star formation, lined with pinkish starformingregions and young blue star clusters.Companion galaxy NGC 5195 (top) seems to alter the track of the arm infront of it though, and itself remains relatively unaffected by thisunwinding of M51.Also known as the,logarthimic spirals can be found in nature on all scales.For example, logarithmic spirals can also describe, the tracks of subatomic particles in aand, of course,."
+      introPhoto = "/nasa/Paul_Howell.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
