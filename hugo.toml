@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "欧洲刺猬在长满蒲公英的花园里，巴特德里堡，德国"
-      introSubtitle = "欧洲刺猬，又称西欧刺猬或普通刺猬，是一种原产于欧洲的刺猬物种。北起伊比利亚和意大利，南至斯堪的纳维亚半岛，西至不列颠群岛，均有它们的身影。刺猬之中，偶尔会出现白化刺猬或“金发”刺猬，据说这种刺猬有一对罕见的隐性基因，因此眼睛是黑色的，刺是乳白色的，但严格来说，它们并不是白化刺猬。"
-      introPhoto = "/bing/HedgehogMeadow.jpg"
+      introTitle = "リンゴの果樹園, ドイツ (© Smileus/Getty Images)"
+      introSubtitle = "ここはドイツのとある果樹園。リンゴの木が暖かな春の光を浴びて目覚めを迎え、枝から小さな緑の芽が顔を出し始めます。その後、美しい白や淡いピンク色の花が咲き誇り、やがて美味しい果実へと姿を変えていきます…"
+      introPhoto = "/bing/SpringApple.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
