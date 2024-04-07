@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Unwinding M51"
-      introSubtitle = "  The arms of a grand design spiral galaxy 60,000 light-years across areunwound in this digital transformation of the magnificent 2005.In fact, M51 is one of the original spiral nebulae, its windingarms described by a mathematical curve known as a, a spiral whose separation grows in away with increasing distance from the center.Applying logarithms to shift the pixelcoordinates in the Hubble image relative to the center of M51 mapsthe galaxy's spiral arms into diagonal straight lines.The transformed image dramatically shows the arms themselves aretraced by star formation, lined with pinkish starformingregions and young blue star clusters.Companion galaxy NGC 5195 (top) seems to alter the track of the arm infront of it though, and itself remains relatively unaffected by thisunwinding of M51.Also known as the,logarthimic spirals can be found in nature on all scales.For example, logarithmic spirals can also describe, the tracks of subatomic particles in aand, of course,."
-      introPhoto = "/nasa/Paul_Howell.jpg"
+      introTitle = "欧洲刺猬在长满蒲公英的花园里，巴特德里堡，德国"
+      introSubtitle = "欧洲刺猬，又称西欧刺猬或普通刺猬，是一种原产于欧洲的刺猬物种。北起伊比利亚和意大利，南至斯堪的纳维亚半岛，西至不列颠群岛，均有它们的身影。刺猬之中，偶尔会出现白化刺猬或“金发”刺猬，据说这种刺猬有一对罕见的隐性基因，因此眼睛是黑色的，刺是乳白色的，但严格来说，它们并不是白化刺猬。"
+      introPhoto = "/bing/HedgehogMeadow.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
