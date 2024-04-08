@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Total solar eclipse photographed from Madras, Oregon on August 21, 2017 (© NASA/Aubrey Gemignani)"
-      introSubtitle = "Put on your solar glasses and turn your eyes skyward. Today, you can witness a rare celestial event—a total solar eclipse! As the moon perfectly aligns between the Earth and the sun, daytime will eerily shift to twilight. The total solar eclipse will be visible across North America, from Mazatlán, Mexico, to eastern Canada's Newfoundland Island, for up to four and a half minutes between 10:57 am PST and 4:47 pm ADT A total solar eclipse occurs somewhere on Earth approximately every 18 months. On these occasions, astronomers study the sun's corona which is the outermost part of its atmosphere, its magnetic fields and the behaviour of Earth's atmosphere. Keep an eye on the time today and find a good spot to see the golden ring emerge."
-      introPhoto = "/bing/SolarEclipseOregon.jpg"
+      introTitle = "Llansteffan Castle, Carmarthenshire, Wales (© Roy Shakespeare/Loop Images Ltd/Alamy Stock Photo)"
+      introSubtitle = "In the heart of Carmarthenshire, Wales, near the River Tywi estuary, stands Llansteffan Castle. This historical gem dates to the 12th century when the Normans decided to mark their territory in this strategic spot. With sweeping views over the estuary and the countryside, it's not hard to see why they chose this location. The castle served as a focal point in the tug-of-war between the Normans and the native Welsh princes, witnessing numerous battles and sieges. These days, the castle, which is now privately owned, is in ruins, although a few structures are still standing. While the two-tower Gatehouse greets visitors, the castle's stone walls enclose an Iron Age promontory fort. So, if you ever find yourself in Carmarthenshire, consider a detour to Llansteffan."
+      introPhoto = "/bing/LlansteffanCastleWales.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
