@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Dune di sale nelle saline, Sardegna, Italia (© Stefano Oppo/Getty Images)"
-      introSubtitle = "have no desc"
-      introPhoto = "/bing/SardiniaSalt.jpg"
+      introTitle = "American black bear cub in spring, Shenandoah National Park, Virginia (© Scott Suriano/Getty Images)"
+      introSubtitle = "Welcome to the world, bear cub! After spending the first months of its life inside the den, this frizzy American black bear child may be puzzled by the outside world. The cubs are born between January and February, but they don't leave their den until about mid-April or the beginning of May. When the young bears emerge into spring, they weigh around 2 kilograms and grow to about 35 kilograms by their first birthday. The weight of black bears—ranging between 45 and 270 kilograms in the case of adults—however, not only depends on their age, sex, and the season but is also based on the diet available in their habitation. Black bears are the only bears found in Shenandoah National Park in Virginia, USA, which provides the setting for today's image."
+      introPhoto = "/bing/SpringCub.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
