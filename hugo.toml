@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Vista aérea da cidade de Cuiabá e do rio Cuiabá, Mato Grosso (© Lucas Ninno/Getty Images)"
+      introTitle = "Dune di sale nelle saline, Sardegna, Italia (© Stefano Oppo/Getty Images)"
       introSubtitle = "have no desc"
-      introPhoto = "/bing/CuiabaAniversary.jpg"
+      introPhoto = "/bing/SardiniaSalt.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
