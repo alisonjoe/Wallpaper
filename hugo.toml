@@ -11,8 +11,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Éclipse solaire totale photographiée depuis Madras, Oregon, États-Unis, le 21 août 2017 (© NASA/Aubrey Gemignani)"
-      introSubtitle = "Enfilez vos lunettes de protection et levez les yeux vers le ciel! Aujourd'hui, vous pouvez assister à un événement rare: une éclipse solaire totale. Alors que la lune s'aligne entre la Terre et le soleil, le jour se transformera en crépuscule. L'éclipse sera visible à travers l'Amérique du Nord, de Mazatlán, au Mexique, jusqu'à Terre-Neuve, au Canada, pour une durée allant jusqu'à quatre minutes et demie, entre 10 h 57 HNP et 16 h 47 HAA. C'est la première éclipse solaire totale visible sur le continent américain depuis août 2017. Pour cette occasion, les astronomes étudient la couronne solaire et les champs magnétiques. Surveillez l'heure aujourd'hui et trouvez le bon endroit pour admirer cet évènement extraordinaire!"
+      introTitle = "Total solar eclipse photographed from Madras, Oregon on August 21, 2017 (© NASA/Aubrey Gemignani)"
+      introSubtitle = "Put on your solar glasses and turn your eyes skyward. Today, you can witness a rare celestial event—a total solar eclipse! As the moon perfectly aligns between the Earth and the sun, daytime will eerily shift to twilight. The total solar eclipse will be visible across North America, from Mazatlán, Mexico, to eastern Canada's Newfoundland Island, for up to four and a half minutes between 10:57 am PST and 4:47 pm ADT A total solar eclipse occurs somewhere on Earth approximately every 18 months. On these occasions, astronomers study the sun's corona which is the outermost part of its atmosphere, its magnetic fields and the behaviour of Earth's atmosphere. Keep an eye on the time today and find a good spot to see the golden ring emerge."
       introPhoto = "/bing/SolarEclipseOregon.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
