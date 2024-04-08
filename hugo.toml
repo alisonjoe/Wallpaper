@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Burrowing owl chicks near a burrow, Wyoming (© Danita Delimont/Getty Images)"
-      introSubtitle = "In today's image, we see four burrowing owls in Wyoming, USA, standing near their burrow, looking like a band of mischievous siblings. Known for their distinctive white eyebrows and yellow eyes, these owls are active during the day, hunting insects and small mammals. These resilient species, capable of surviving for at least 9 years in the wild and surpassing 10 years in captivity, face numerous threats in their environment. Predation from various sources, including badgers, coyotes, snakes and both feral and domesticated pets like cats and dogs, poses a constant danger to its survival. The burrowing owl exhibits remarkable adaptive behaviours, such as nesting and roosting in abandoned ground burrows of armadillos, prairie dogs or skunks. When confronted with danger, the owl retreats to these burrows and emits rattling and hissing sounds."
-      introPhoto = "/bing/OwlSiblings.jpg"
+      introTitle = "郁金香田，斯卡吉特山谷，华盛顿州，美国"
+      introSubtitle = "在弗农山的阴影下，鲜艳的花朵为大地涂上一层色彩，造就了一幅真实的画卷，华盛顿斯卡吉特山谷的郁金香节正在等你。郁金香节于1984年由弗农山商会创办，最初的活动为期三天，后来发展成为为期一个月的盛会。节日从四月持续到五月，吸引了来自世界各地的游客。花展横跨山谷中的多个花园，千万不要错过郁金香镇、郁金香谷农场、罗莎琳花园以及鲁森加德占地50英亩的花展，你可以骑自行车游览郁金香花园，还可以探索当地的酒庄、酿酒厂和餐馆。漫步花间，生活放慢了脚步，让我们记住简单的快乐：深呼吸，绽放笑容，沉醉在斯卡吉特山谷郁金香节的美景中。"
+      introPhoto = "/bing/SkagitValleyTulips.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
