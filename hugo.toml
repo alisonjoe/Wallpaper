@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Aerial view of Churun-Meru (Dragon) waterfall, Venezuela (© AirPano LLC/Amazing Aerial Agency)"
-      introSubtitle = "In the heart of the wilderness, an awe-inspiring sight plummets from a mountain—the Churún Merú waterfall in Venezuela! Also known as Dragon Falls, the cascade featured in today's image is in a narrow niche at the southern end of the canyon that divides the mountain of Auyan Tepui. Falling from around 396 metres, Churún Merú is joined by a neighboring stream in the wet season. Venezuela is home to some of the world's most impressive natural wonders, including the highest waterfall on Earth, Angel Falls, found some 6 kilometres south of Churún Marú. James Angel, who is often wrongly credited with finding Angel Falls, may have discovered the Dragon waterfall. Something that supports this theory is the fact that Angel Falls is often misidentified as the Dragon Falls. So, whether you're after Angels or Dragons, Venezuela has a waterfall for you!"
-      introPhoto = "/bing/DragonWaterfall.jpg"
+      introTitle = "Whistler Mountain in the creekside of Whistler (© Insight Photography/Design Pics/Getty Images)"
+      introSubtitle = "Get ready to carve some fresh tracks on the slopes where champions are born. Whistler isn't just a mountain, it's a winter sport hub. Drawing adrenaline seekers since 1996 when the World Ski and Snowboard Festival (WSSF) was created by Dough Perry, a seasoned skier and trainer. From 8 April to 14 April, WSSF 2024 ignites Whistler with an electrifying blend of athleticism and festivity filled with mountain culture. Over the years, the WSSF has grown from grassroots gathering to being recognised as North America's largest annual winter sports and music festival."
+      introPhoto = "/bing/WhistlerWSSF.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
