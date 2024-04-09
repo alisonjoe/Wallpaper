@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "American black bear cub in spring, Shenandoah National Park, Virginia (© Scott Suriano/Getty Images)"
-      introSubtitle = "Welcome to the world, bear cub! After spending the first months of its life inside the den, this frizzy American black bear child may be puzzled by the outside world. The cubs are born between January and February, but they don't leave their den until about mid-April or the beginning of May. When the young bears emerge into spring, they weigh around 2 kilograms and grow to about 35 kilograms by their first birthday. The weight of black bears—ranging between 45 and 270 kilograms in the case of adults—however, not only depends on their age, sex, and the season but is also based on the diet available in their habitation. Black bears are the only bears found in Shenandoah National Park in Virginia, USA, which provides the setting for today's image."
-      introPhoto = "/bing/SpringCub.jpg"
+      introTitle = "Aerial view of Churun-Meru (Dragon) waterfall, Venezuela (© AirPano LLC/Amazing Aerial Agency)"
+      introSubtitle = "In the heart of the wilderness, an awe-inspiring sight plummets from a mountain—the Churún Merú waterfall in Venezuela! Also known as Dragon Falls, the cascade featured in today's image is in a narrow niche at the southern end of the canyon that divides the mountain of Auyan Tepui. Falling from around 396 metres, Churún Merú is joined by a neighboring stream in the wet season. Venezuela is home to some of the world's most impressive natural wonders, including the highest waterfall on Earth, Angel Falls, found some 6 kilometres south of Churún Marú. James Angel, who is often wrongly credited with finding Angel Falls, may have discovered the Dragon waterfall. Something that supports this theory is the fact that Angel Falls is often misidentified as the Dragon Falls. So, whether you're after Angels or Dragons, Venezuela has a waterfall for you!"
+      introPhoto = "/bing/DragonWaterfall.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
