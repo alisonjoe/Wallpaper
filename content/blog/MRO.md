@@ -1,6 +1,6 @@
 ---
 author: "AlisonLai"
-title:  Ares 3 Landing Site: The Martian Revisited 
+title:  Ares 3 Landing Site The Martian Revisited 
 date: 2024-03-24T09:00:21+0800
 description: ""
 tags: ["nasa"]
