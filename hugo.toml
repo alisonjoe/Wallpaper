@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Massif montagneux de Whistler, Colombie-Britannique, Canada (© Insight Photography/Design Pics/Getty Images)"
-      introSubtitle = "Préparez-vous à dévaler les pistes! Whistler ne se contente pas d'être une simple montagne, c'est une station de ski renommée. Depuis sa création en 1996 par Dough Perry, un skieur et entraîneur expérimenté, le Festival mondial du ski et du snowboard (WSSF) attire les amateurs d'adrénaline. Au fil des ans, cee évènement est devenu le plus grand festival annuel de sports d'hiver et de musique d’Amérique du Nord."
-      introPhoto = "/bing/WhistlerWSSF.jpg"
+      introTitle = "Muslims gather to offer prayers during Eid al-Fitr at Jama Masjid in New Delhi (© MONEY SHARMA/Getty Images)"
+      introSubtitle = "Rise and shine, it's Eid al-Fitr! Pictured here is the spiritual submission of devotees at Jama Masjid, Delhi. A festival observed by Muslims worldwide, Eid al-Fitr marks the completion of the month-long fasting period of Ramadan. Ramadan holds profound significance in the Muslim religion, as it serves as a time of introspection and spiritual growth."
+      introPhoto = "/bing/EidPrayers.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
