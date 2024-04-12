@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "拱门国家公园，犹他州，美国"
-      introSubtitle = "如果你想沉浸式感受在时光中漫步的滋味，拱门国家公园是一个绝佳的选择！该公园拥有2000多座天然石拱，数百座高大的尖塔、大型石鳍和巨大的平衡石，是世界上风景最优美的旅游胜地之一。在两平方英里左右的空间内囊括了不少壮丽景观，包括北窗拱门（最具人气的巨环之一），炮塔拱门和双拱门。而以伊甸园、大象丘（5653英尺高）和大象巡游等名字命名的景点对游客而言，则意味着这里永远不缺壮观的景色。"
-      introPhoto = "/bing/SunsetArchesNP.jpg"
+      introTitle = "富士本栖湖リゾート, 山梨県 (© Torsakarin/Getty Images)"
+      introSubtitle = "今日から山梨、富士本栖湖リゾートで、｢富士芝桜まつり｣がスタートします。富士山の麓に広がる広大な敷地には、ピンクや白など色とりどりの約 50 万株のシバザクラが絨毯のように咲き誇っています。その規模は関東最大級を誇り、毎年全国各地から訪れた多くの観光客で賑わいます…"
+      introPhoto = "/bing/ShibaZakura2024.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
