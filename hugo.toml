@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Jardim botânico de Curitiba, Paraná (© Marcelo Araujo/Getty Images)"
-      introSubtitle = "have no desc"
-      introPhoto = "/bing/Curitiba.jpg"
+      introTitle = "Vue nocturne depuis le Rhône sur la ville de Lyon avec le Grand Hôtel-Dieu et la cathédrale de Fourvière, France (© Frédéric Prochasson/Getty Images)"
+      introSubtitle = "La Fête de la Gastronomie est un rendez-vous annuel qui célèbre la richesse et la diversité de la cuisine française. C'est une opportunité pour les passionnés de bonne cuisine de découvrir de délicieux mets, de participer à des événements culinaires et de célébrer l'art culinaire sous toutes ses formes."
+      introPhoto = "/bing/LyonGastronomy.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
