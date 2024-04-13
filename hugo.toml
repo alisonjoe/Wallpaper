@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Cherry blossoms in Queen Elizabeth Park, Vancouver (© Yun Han Xu/Moment Open/Getty Images)"
-      introSubtitle = "As spring unfurls its colours across Vancouver, Queen Elizabeth Park showcases a sight that captures the hearts of visitors. Imagine strolling beneath the cherry blossoms as their delicate petals drift through the air like confetti. Originally a basalt quarry, the site was transformed into a municipal park in the 1930s. In 1939, it was dedicated by King George VI and Queen Elizabeth during their visit to Vancouver, hence its name. The park is a cultural hub with features like sculptures, walking trails, a conservatory and recreational facilities."
-      introPhoto = "/bing/SakuraDaysJapanFair.jpg"
+      introTitle = "The Grand National at Aintree Racecourse, England (© Tim Goode/Pool/Getty Images)"
+      introSubtitle = "The Grand National is back in the saddle for another thrilling ride. Scheduled to take place at Aintree Racecourse, the event will see 34 runners tackling 30 fences around 4 1/4 miles for the glory. This annual National Hunt horse race was first run in 1839. From steeplechaser Red Rum's record-breaking triumphs to heart-stopping photo finishes, the Grand National has provided countless memorable moments for nearly two centuries. Whether you're a seasoned racing enthusiast or a casual observer, the event has something for everyone. So, saddle up, place your bets and get ready for a day of thrills, spills and plenty of horsepower!"
+      introPhoto = "/bing/GrandNationalDayUK.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
