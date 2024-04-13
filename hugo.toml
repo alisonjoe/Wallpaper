@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Alone solare sulle Dolomiti presso il lago di Antermoia, Italia (© Walter Donega/Getty Images)"
-      introSubtitle = "have no desc"
-      introPhoto = "/bing/AloneSole.jpg"
+      introTitle = "Cerisiers en fleur, parc Queen Elizabeth, Vancouver, Canada (© Yun Han Xu/Moment Open/Getty Images)"
+      introSubtitle = "Alors que le printemps colore Vancouver, le parc Queen Elizabeth offre un spectacle captivant avec ses cerisiers en fleur. Imaginez-vous marcher sous leurs pétales délicats qui flottent comme des confettis. Autrefois une carrière de basalte, le parc a été transformé dans les années 1930 et inauguré par le roi George VI et la reine Elizabeth en 1939. Aujourd'hui, il est un pôle culturel avec des sculptures, des sentiers de promenade, une serre et des installations récréatives."
+      introPhoto = "/bing/SakuraDaysJapanFair.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
