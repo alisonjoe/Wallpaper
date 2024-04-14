@@ -1,14 +1,14 @@
 ---
 author: "AlisonLai"
-title: Le RedBall Project, œuvre d’art itinérante, Gare centrale, Anvers, Belgique (© Brit Worgan/Getty Images)
-date: 2024-04-15T06:01:59+0800
+title: Instalación artística Proyecto RedBall, Estación Central, Amberes, Bélgica (© Brit Worgan/Getty Images)
+date: 2024-04-15T06:02:28+0800
 description: ""
-tags: ["Faites bondir votre créativité !"]
+tags: ["Rebotando hacia la creatividad"]
 copyright: © Brit Worgan/Getty Images
 thumbnail: /bing/RedBallBelgium.jpg
 ---
 图文来源自：bing.  copyright: © Brit Worgan/Getty Images
 
-La Journée mondiale de l'art nous rappelle combien l'art est essentiel pour transmettre le savoir à travers les époques. Célébrée le 15 avril, elle rend hommage à la naissance de Léonard de Vinci, ce génie de la Renaissance, nous a laissé un héritage remarquable, de la célèbre Joconde à ses inventions révolutionnaires. Aujourd'hui, notre page d'accueil met en lumière le projet RedBall à la gare centrale belge d'Anvers. Cette installation, imaginée par l'artiste américain Kurt Perschke, se présente sous la forme d'un ballon rouge géant de 4,5 mètres de long. Depuis 2001, cette œuvre d'art itinérante a voyagé à travers le globe, de l'Australie à l'Angleterre, elle est considérée comme « la plus ancienne œuvre d'art de rue au monde ».
+"El arte es la reina de todas las ciencias, comunica el conocimiento a todas las generaciones del mundo". Puede que no haya mejor día para reflexionar sobre estas inspiradoras palabras de Leonardo da Vinci que el Día Mundial del Arte. Se celebra el 15 de abril, fecha del nacimiento del célebre artista renacentista. Desde su emblemático cuadro de la Mona Lisa hasta sus detallados bocetos de máquinas voladoras, el legado de Leonardo amplía las fronteras del conocimiento y el talento en una gran variedad de campos. La imagen de hoy muestra el proyecto RedBall en la Estación Central de Amberes en Bélgica. Creada por el artista estadounidense Kurt Perschke, esta instalación itinerante de arte público está considerada como "la obra de arte callejero más longeva del mundo". Se trata de una bola roja hinchada de 4,5 metros que lleva desde 2001 encajada en decenas de monumentos de países como Australia o Inglaterra.
 
 ![RedBallBelgium](/bing/RedBallBelgium.jpg)
