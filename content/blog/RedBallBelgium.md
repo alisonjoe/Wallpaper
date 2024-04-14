@@ -1,14 +1,14 @@
 ---
 author: "AlisonLai"
-title: The RedBall Project art installation, Centraal Station, Antwerp, Belgium (© Brit Worgan/Getty Images)
-date: 2024-04-15T06:01:26+0800
+title: Le RedBall Project, œuvre d’art itinérante, Gare centrale, Anvers, Belgique (© Brit Worgan/Getty Images)
+date: 2024-04-15T06:01:59+0800
 description: ""
-tags: ["Bouncing into creativity"]
+tags: ["Faites bondir votre créativité !"]
 copyright: © Brit Worgan/Getty Images
 thumbnail: /bing/RedBallBelgium.jpg
 ---
 图文来源自：bing.  copyright: © Brit Worgan/Getty Images
 
-Today's homepage shows the RedBall Project at Centraal Station in Antwerp, Belgium. The station holds significant importance as one of the main junctions in the country and is among the four Belgian stations integrated into the high-speed rail network. This architectural masterpiece, designed by Louis Delacenserie, was built between 1895 and 1905, showcasing a blend of historic charm and contemporary functionality.
+La Journée mondiale de l'art nous rappelle combien l'art est essentiel pour transmettre le savoir à travers les époques. Célébrée le 15 avril, elle rend hommage à la naissance de Léonard de Vinci, ce génie de la Renaissance, nous a laissé un héritage remarquable, de la célèbre Joconde à ses inventions révolutionnaires. Aujourd'hui, notre page d'accueil met en lumière le projet RedBall à la gare centrale belge d'Anvers. Cette installation, imaginée par l'artiste américain Kurt Perschke, se présente sous la forme d'un ballon rouge géant de 4,5 mètres de long. Depuis 2001, cette œuvre d'art itinérante a voyagé à travers le globe, de l'Australie à l'Angleterre, elle est considérée comme « la plus ancienne œuvre d'art de rue au monde ».
 
 ![RedBallBelgium](/bing/RedBallBelgium.jpg)
