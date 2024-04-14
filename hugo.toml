@@ -11,8 +11,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Installazione artistica del RedBall Project, Stazione Centrale di Anversa, Belgio (© Brit Worgan/Getty Images)"
-      introSubtitle = "have no desc"
+      introTitle = "The RedBall Project art installation, Centraal Station, Antwerp, Belgium (© Brit Worgan/Getty Images)"
+      introSubtitle = "Today's homepage shows the RedBall Project at Centraal Station in Antwerp, Belgium. The station holds significant importance as one of the main junctions in the country and is among the four Belgian stations integrated into the high-speed rail network. This architectural masterpiece, designed by Louis Delacenserie, was built between 1895 and 1905, showcasing a blend of historic charm and contemporary functionality."
       introPhoto = "/bing/RedBallBelgium.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
