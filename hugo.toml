@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Ram Mandir, Ayodhya, Uttar Pradesh (© Ritesh Shukla/Stringer/Getty Images)"
-      introSubtitle = "Today we look up at the stunning structure of Ram Mandir at Ayodhya! The partially built Hindu temple is known as the birthplace of Lord Rama. The details of Rama's birth are chronicled in ancient scriptures like the Ramayana and the Mahabharata. According to these texts, he was born to Queen Kausalya and King Dasharatha."
-      introPhoto = "/bing/RamaNavami.jpg"
+      introTitle = " Filaments of the Vela Supernova Remnant "
+      introSubtitle = "  The explosion is over, but the consequences continue. About eleven thousand years ago, a star in the constellation of  could be seen to , creating a strange point of light briefly visible to humans living near the beginning of . The outer layers of the star crashed into the , driving a  that is still visible today. The  captures some of that filamentary and gigantic shock in .As gas flies away from the detonated star, it  and reacts with the interstellar medium, producing light in many different colors and energy bands.Remaining at the center of the  is a , a star as dense as nuclear matter that  more than ten times in a single second."
+      introPhoto = "/nasa/NOIRLab.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
