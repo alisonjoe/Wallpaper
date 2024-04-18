@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Château royal d'Amboise dans la vallée de la Loire, France (© iStock/Getty Images Plus/StockPhotoAstur)"
-      introSubtitle = "La Journée internationale des monuments et des sites que nous célébrons aujourd’hui, nous rappelle l'importance de préserver notre patrimoine culturel, qu'il s'agisse d'une œuvre architecturale majestueuse ou d'une simple sculpture, tant qu'elle détient une valeur exceptionnelle d'un point de vue historique, artistique ou scientifique."
-      introPhoto = "/bing/MonumentsDay.jpg"
+      introTitle = " Total Eclipse and Comets "
+      introSubtitle = "  Not one, but two comets appeared near the Sun during .The expected comet was , but it was disappointingly dimmer than many had hoped.However, relatively unknown  in long duration camera exposures. was the 5008th comet identified on images taken by  & 's Sun-orbiting . Likely much smaller, Comet SOHO-5008 was a sungrazer which  as it passed too . The featured image is not only unusual for capturing  during an eclipse, but one of the  that a  has been photographed from the Earth's surface.Also visible in the image is the  of  and the planets  (left) and  (right). Of these planets and comets, only  was easily visible to  in the  that  on April 8. "
+      introPhoto = "/nasa/Tsinghua_U..jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
