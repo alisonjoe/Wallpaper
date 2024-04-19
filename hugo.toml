@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "日出时分的大棱镜泉，美国怀俄明州黄石国家公园"
-      introSubtitle = "准备好你的登山靴吧，因为美国国家公园周到了！美国各地最迷人的风景区已敞开大门，邀请大家免费拥抱大自然。在整个庆祝活动期间，美国国家公园管理局将组织各种活动，包括由护林员带领的参观活动、志愿者活动和教育研讨会。"
-      introPhoto = "/bing/YellowstoneGeyser.jpg"
+      introTitle = "Mural de Eduardo Kobra ‘Povos Nativos dos 5 continentes’ (© Donatas Dabravolskas/Alamy)"
+      introSubtitle = "have no desc"
+      introPhoto = "/bing/PovoIndigena.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
