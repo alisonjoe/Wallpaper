@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Blumenbeete mit Tulpen und anderen Frühlingsblumen im Rheinpark, Köln (© Elisabeth Schittenhelm/Getty Images)"
-      introSubtitle = "Willkommen im Rheinpark, einer Oase im Herzen Kölns. Der am Rheinufer gelegene Park vereint Geschichte und Natur. Einst Schauplatz der Bundesgartenschau 1957, erstrahlt er auch heute noch in seiner ganzen Pracht. Im Frühjahr entfaltet sich hier ein wahres Blütenmeer, das Herz und Sinne verzaubert. Die duftenden Blumenbeete vor der Kulisse des majestätischen Rheins laden dazu ein, sich auf einer Bank niederzulassen und diese Insel der Ruhe inmitten der westfälischen Metropole zu genießen."
-      introPhoto = "/bing/CologneFlowerBed.jpg"
+      introTitle = "Îles Chausey, Normandie, France (© Tuul & Bruno Morandi/Getty Images)"
+      introSubtitle = "Les îles Chausey sont un archipel normand situé au nord de la baie du Mont-Saint-Michel, là où les vagues caressent le granit. Un archipel de rêve, où la mer, joueuse, dévoile à marée basse un labyrinthe d’îlots et de bancs de sable. La Grande Île, perle de cet ensemble, s’éveille sous les premiers rayons du soleil, baignée d’une lumière douce qui réchauffe ses maisons de pierre. Les pêcheurs y préparent leurs barques, tandis que les mouettes orchestrent le lever du jour."
+      introPhoto = "/bing/ChauseyIslands.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
