@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "盛开的白延龄草，安大略省，加拿大"
-      introSubtitle = "三片花瓣、三片叶子和三个柱头——这就是白延龄草，它的名字源自拉丁语中的“三”，原产于北美东部，是春季最常见的林地野花之一。与一些稍有暖意就绽放色彩的“冲动型”花朵不同，这种植物开花缓慢。从美国邮票上的图案到俄亥俄州的州花，再到加拿大安大略省的官方象征，白延龄草扎根于各国文化。除了美观之外，白延龄草在草药界也有一席之地。所以，你在林间漫步时，请留意这种花卉珍品！"
-      introPhoto = "/bing/TrilliumOntario.jpg"
+      introTitle = "Painting titled 'Saint George and the Dragon' by Paolo Uccello (© Photo 12/Universal Images Group via Getty Images)"
+      introSubtitle = "Are you ready to wave your flags and celebrate all things English? Saint George's Day has rolled around once again. Today is a commemoration the death of the patron saint of England who was a Roman soldier famed for his dragon-slaying. This feast day is not just about honouring the saint, it's also about celebrating English culture and heritage. From dragon-themed parades in Derby to traditional feasts fit for a king, there's something for everyone to enjoy. Coincidently, today also marks the birth and death dates of William Shakespeare. So, don a rose, raise your glass and let's hear it for all things English!"
+      introPhoto = "/bing/SaintGeorgePaoloUccello.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
