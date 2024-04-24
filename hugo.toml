@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Frecce Tricolori in volo, Giornata della Liberazione, Roma (© Marie-Laure Messana/Getty Images)"
-      introSubtitle = "have no desc"
-      introPhoto = "/bing/LiberationOfItaly.jpg"
+      introTitle = "Kalaloch Tree, Kalaloch, Olympic-Nationalpark, Washington, USA (© Abbie Warnock-Matthews/Shutterstock)"
+      introSubtitle = "Heute begehen wir den „Tag des Baumes“, der in Deutschland erstmals 1952 eingeführt wurde. Manchmal ist uns gar nicht bewusst, wie wichtig diese sanften Riesen für unseren Planeten sind. Vielleicht weil sie nur regungslos dastehen? Dabei ist ihr Beitrag für die Umwelt enorm. Sie bieten nicht nur unzähligen Tierarten ein Zuhause, sondern absorbieren auch Kohlendioxid und reinigen unsere Atemluft, halten Städte kühler und können sogar helfen, Überschwemmungen zu verhindern."
+      introPhoto = "/bing/KalalochTree.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
