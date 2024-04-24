@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Painting titled 'Saint George and the Dragon' by Paolo Uccello (© Photo 12/Universal Images Group via Getty Images)"
-      introSubtitle = "Are you ready to wave your flags and celebrate all things English? Saint George's Day has rolled around once again. Today is a commemoration the death of the patron saint of England who was a Roman soldier famed for his dragon-slaying. This feast day is not just about honouring the saint, it's also about celebrating English culture and heritage. From dragon-themed parades in Derby to traditional feasts fit for a king, there's something for everyone to enjoy. Coincidently, today also marks the birth and death dates of William Shakespeare. So, don a rose, raise your glass and let's hear it for all things English!"
-      introPhoto = "/bing/SaintGeorgePaoloUccello.jpg"
+      introTitle = "南极洲冰山上的阿德利企鹅"
+      introSubtitle = "可以滑行，又何需飞行？世界企鹅日快乐！这些不会飞的鸟主要栖息在南极洲，从帝企鹅到今天的明星阿德利企鹅，种类繁多。1840年，法国冒险家儒勒·杜蒙·德维尔发现了阿德利企鹅，并决定以他心爱的妻子的名字“阿德利”来命名这种企鹅。阿德利企鹅虽然体型娇小，但游泳动作敏捷，可以潜入575英尺深的海底寻找长得像虾一样的磷虾或鱼类。它们是社会性动物，会聚集在小群中觅食、狩猎和保护自己。调皮捣蛋的阿德利企鹅还会偷窃附近巢穴中的鹅卵石来加固自己的巢穴，以保护自己的蛋和雏鸟免受南极洲恶劣环境和捕食者的伤害。"
+      introPhoto = "/bing/PenguinDirections.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
