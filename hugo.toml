@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Villnöß with the Dolomites in the background, South Tyrol, Italy (© Achim Thomae/Getty Images)"
-      introSubtitle = "You are in luck if you are looking for a peaceful escape from everyday life in an enchanted valley. Today’s image features Val di Funes in the Dolomites, Italy. Running from the Isarco Valley to the heart of Puez-Odle Natural Park, the valley offers a spectacular view of the surrounding mountains. With a large selection of hiking paths, such as the Adolf Munkel Trail, it is also an ideal destination for hikers. In addition, Val di Funes is rich in cultural heritage. Several historic churches have been built here, including the Santa Maddalena Church, a true treasure from the 14th century. What truly sets this valley apart, though, is its peaceful rhythm of life, seemingly untouched by time. Here, amongst the storied peaks, you'll find a world that moves to the silent cadence of nature—a gentle reminder of life's sublime beauty. Whether you seek solitude or adventure, Val di Funes beckons with open arms and timeless charm."
-      introPhoto = "/bing/ValDiFunes.jpg"
+      introTitle = "L'abbaye Saint-Martin du Canigou, Casteil, Occitanie, France (© Cyril Gosselin/Getty Images)"
+      introSubtitle = "Envie d’une escapade hors du temps ? L'Abbaye Saint-Martin du Canigou vous ouvre ses portes ! Nichée dans les contreforts occidentaux du massif du Canigou, dans les Pyrénées-Orientales, cette merveille romane du XIe siècle est un trésor caché qui n'attend que d'être découvert. Perchée à 1 055 mètres d'altitude, à proximité du village de Casteil, en bordure des gorges du Correc de la Ridorta, l'abbaye offre une vue imprenable. La montée depuis le village jusqu'à l'abbaye vous réserve une belle promenade avec un dénivelé d'environ 250 mètres."
+      introPhoto = "/bing/Canigou.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
