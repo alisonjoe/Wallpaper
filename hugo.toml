@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "L'abbaye Saint-Martin du Canigou, Casteil, Occitanie, France (© Cyril Gosselin/Getty Images)"
-      introSubtitle = "Envie d’une escapade hors du temps ? L'Abbaye Saint-Martin du Canigou vous ouvre ses portes ! Nichée dans les contreforts occidentaux du massif du Canigou, dans les Pyrénées-Orientales, cette merveille romane du XIe siècle est un trésor caché qui n'attend que d'être découvert. Perchée à 1 055 mètres d'altitude, à proximité du village de Casteil, en bordure des gorges du Correc de la Ridorta, l'abbaye offre une vue imprenable. La montée depuis le village jusqu'à l'abbaye vous réserve une belle promenade avec un dénivelé d'environ 250 mètres."
-      introPhoto = "/bing/Canigou.jpg"
+      introTitle = "Misool, îles Raja Ampat, Indonésie (© Giordano Cipriani/Getty Images)"
+      introSubtitle = "Imaginez un havre aquatique d’une telle pureté qu’il semble venu d’un autre monde. Misool, joyau de l’archipel de Raja Ampat en Indonésie, couvre environ 2 034 km² et appartient à un quatuor d’îles majeures : Misool, Waigeo, Batanta et Salawati. Ici, les flots bercent doucement les plages éclatantes, tandis qu’une explosion de biodiversité marine s’épanouit sous la surface. Les récifs coralliens, trésors de biodiversité, sont un eldorado pour les amateurs de plongée."
+      introPhoto = "/bing/MisoolRajaAmpat.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
