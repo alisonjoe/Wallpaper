@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Aerial view of mangrove islands near Kundapura, Karnataka (© Amith Nag Photography/Getty Images)"
-      introSubtitle = "Pictured here are mangroves, resilient shrubs or trees, thriving in the challenging environments of coastal saline or brackish waters. These shrubs, known for their intricate network of stilt roots, play a crucial ecological role. Acting as 'green shields,' they provide essential protection against coastal erosion and help mitigate the potentially catastrophic effects of natural calamities. Having evolved unique mechanisms to absorb additional oxygen and expel salt, they endure conditions that are fatal to most flora. Their intricate salt filtration and robust roots enable them to withstand saltwater submersion and wave impact, while thriving in the low-oxygen mud of the intertidal zone's upper regions. Analysis of satellite imagery in 2014 has unveiled this hidden ecological treasure along Karnataka's coast. Despite mangroves being traditionally associated with India's east coast, Karnataka boasts a significant expanse of these vibrant saline-water ecosystems."
-      introPhoto = "/bing/MangroveIslands.jpg"
+      introTitle = "NGC 604: Giant Stellar Nursery "
+      introSubtitle = "  Located some 3 million light-years away in the arms of nearby spiral,giant stellar nurseryabout 1,300 light-years across.That's nearly 100 times the size of the Milky Way's, the closest large star formingregion to planet Earth.In fact, among the star forming regions within the Local Group ofgalaxies, NGC 604 is second in size only to 30 Doradus,also known as in theLarge Magellanic Cloud.Cavernous bubbles and cavities in NGC 604fill this stunning infrared image from the.They are carved out by energetic stellar windsfrom the region'smore than 200 hot, massive, young stars, all still in early."
+      introPhoto = "/nasa/ESA.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
