@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "瓜达卢佩山脉国家公园日出时的埃尔卡皮坦山，德克萨斯州，美国"
-      introSubtitle = "好好利用国家公园周的最后一天吧！如果你还没有时间参加为期九天的庆祝活动，请看过来！让我们带你去德克萨斯州西部的瓜达卢佩山脉国家公园看看。该公园于1972年正式成立，占地86,416英亩。在这里，瓜达卢佩山脉耸立在奇瓦瓦沙漠的盐丘之上。海拔8751英尺的瓜达卢佩峰是该山脉的最高点，也是德克萨斯州的最高点。当地另一个突出的地标是8085英尺高的酋长岩，经常被旅行者当作路标。而加利福尼亚州也有一个约3000英尺高的同名“酋长岩”，可别将二者混淆了。即使国家公园周结束了，一年中仍有很多日子可以参观这个国家丰富的自然风光。"
-      introPhoto = "/bing/GuadalupeTexas.jpg"
+      introTitle = "All Sky Moon Shadow "
+      introSubtitle = "  but the sky is dark and the horizon is bright all around,you might be standing in the Moon's shadow during a total eclipse ofthe Sun.In fact, the all-sky Moon shadow shown in thiscomposited panoramic view was capturedfrom a farm near Shirley, Arkansas, planet Earth.The exposures were made under clear skies during the.For that location near the center line of the Moon's shadow track,totality lasted over 4 minutes.Along with the solar corona surrounding theplanets and stars were visible during the total eclipse phase.are bright planets Venus and Jupiter, to the lower rightand upper left of the eclipsed Sun."
+      introPhoto = "/nasa/TWAN.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
