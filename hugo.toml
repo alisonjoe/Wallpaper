@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = " Rings Around the Ring Nebula "
-      introSubtitle = "  The  is more complicated than it appears through a small telescope. The easily visible  is about one  across,but  - a  combining data from three different large telescopes -the looping filaments of glowing gas extending much farther from 's central star.This  includes red light emitted by hydrogen as well asvisible and .The Ring Nebula is an elongated , a type of nebula created when a -like star evolves to  and become a . The  is about 2,500 light-years away toward the musical."
-      introPhoto = "/nasa/Large_Binocular_Telescope.jpg"
+      introTitle = "清晨雨中的猎豹，恩杜图平原，恩戈罗恩戈罗保护区，坦桑尼亚"
+      introSubtitle = "别眨眼，它的速度快得惊人！我们在恩戈罗恩戈罗保护区可以看到世界上跑得最快的哺乳动物：猎豹！它们是坦桑尼亚标志性的大型猫科动物之一。猎豹栖息在不同的地形中，从塞伦盖蒂草原到撒哈拉沙漠的干旱地带，都能见到它们的身影。它们有着长长的尾巴、细长的四肢和修长的体型，独特的生理特征使得它们可以快速移动。"
+      introPhoto = "/bing/CheetahRain.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
