@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Maharashtra, Mumbai, Victoria Terminus railway station (© Tuul & Bruno Morandi/Getty Images)"
-      introSubtitle = "Let us turn the pages of history to the formation of Maharashtra! Commemorating the state's birth on May 1, 1960, Maharashtra Day is celebrated annually with parades, political addresses, ceremonies and many other public and private gatherings. Following the enactment of the Bombay Reorganisation Act, 1960, the boundaries of Maharashtra and Gujarat were decided based on languages spoken in different areas of the region. Being India's second-most populous states, and one of its most industrialised, Maharashtra is split into 36 districts and 6 divisions."
-      introPhoto = "/bing/MaharashtraDayIN.jpg"
+      introTitle = "Weg durch den Gespensterwald bei Sonnenaufgang, Nienhagen, Mecklenburg-Vorpommern (© Martin Ruegner/Getty Images)"
+      introSubtitle = "In Nienhagen, hoch oben im Norden Deutschlands in Mecklenburg-Vorpommern, liegt ein einzigartiger Schatz: der Gespensterwald, ein Mischwald aus Buchen, Eichen und Eschen direkt an der Ostsee. Zwischen seinen geheimnisvollen Bäumen, die wie wachsame Geister wirken, erwacht der Frühling zu neuem Leben. Die kleinen sanften Hügel und das Rauschen des Meeres bilden die Kulisse für diese magische Szenerie. Hier, wo die Luft salzig und erdig zugleich ist, entfaltet sich der Lenz in seiner ganzen Pracht. Die knorrigen Buchen strecken ihre Äste gen Himmel, als würden sie den Wandel der Zeit feiern. Ihre Blätter tanzen im leisen Windhauch und erfüllen die Luft mit einem Hauch von Mystik. Zwischen moosbewachsenen Wegen flüstern die Bäume vergangene Geschichten, während die Wellen des Meeres ein Lied der Erneuerung singen. Willkommen im Gespensterwald von Nienhagen, wo der Frühling seine Finger über die Erde ausbreitet und die Seele in die unendliche Schönheit der Natur hüllt."
+      introPhoto = "/bing/NienhagenMecklenburg.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
