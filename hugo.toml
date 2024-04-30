@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "和束町の茶畑, 京都府 (© Tuul & Bruno Morandi/Getty Images)"
-      introSubtitle = "今日 5 月 1 日は八十八夜。立春から数えて 88 日目にあたる日で、季節の移り変わりの目安となる雑節です。特に茶の世界では、この日を境に新茶の摘み取りが始まるとされ、「八十八夜の新茶」として珍重されています…"
-      introPhoto = "/bing/TeaGarden2024.jpg"
+      introTitle = "Maharashtra, Mumbai, Victoria Terminus railway station (© Tuul & Bruno Morandi/Getty Images)"
+      introSubtitle = "Let us turn the pages of history to the formation of Maharashtra! Commemorating the state's birth on May 1, 1960, Maharashtra Day is celebrated annually with parades, political addresses, ceremonies and many other public and private gatherings. Following the enactment of the Bombay Reorganisation Act, 1960, the boundaries of Maharashtra and Gujarat were decided based on languages spoken in different areas of the region. Being India's second-most populous states, and one of its most industrialised, Maharashtra is split into 36 districts and 6 divisions."
+      introPhoto = "/bing/MaharashtraDayIN.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
