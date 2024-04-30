@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "清晨雨中的猎豹，恩杜图平原，恩戈罗恩戈罗保护区，坦桑尼亚"
-      introSubtitle = "别眨眼，它的速度快得惊人！我们在恩戈罗恩戈罗保护区可以看到世界上跑得最快的哺乳动物：猎豹！它们是坦桑尼亚标志性的大型猫科动物之一。猎豹栖息在不同的地形中，从塞伦盖蒂草原到撒哈拉沙漠的干旱地带，都能见到它们的身影。它们有着长长的尾巴、细长的四肢和修长的体型，独特的生理特征使得它们可以快速移动。"
-      introPhoto = "/bing/CheetahRain.jpg"
+      introTitle = " Comet, Planet, Moon "
+      introSubtitle = "  Three bright objects satisfied seasoned stargazers of the western sky just after sunset earlier this month.The most familiar was , seen on the upper left in a crescent .The rest of the Moon was  by sunlight first reflected by .The bright planet , the largest planet in , is seen to the upper left. Most unusual was , below the Moon and showing a stubby dust tail on the right but an  ion . The featured image, a composite of several images taken consecutively at the same location and with the same camera, was taken near the village of , in 's . Comet Pons-Brooks passed its closest to  last week and is now dimming as it  and returns to the outer Solar System."
+      introPhoto = "/nasa/Starry_Earth.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
