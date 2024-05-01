@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Weg durch den Gespensterwald bei Sonnenaufgang, Nienhagen, Mecklenburg-Vorpommern (© Martin Ruegner/Getty Images)"
-      introSubtitle = "In Nienhagen, hoch oben im Norden Deutschlands in Mecklenburg-Vorpommern, liegt ein einzigartiger Schatz: der Gespensterwald, ein Mischwald aus Buchen, Eichen und Eschen direkt an der Ostsee. Zwischen seinen geheimnisvollen Bäumen, die wie wachsame Geister wirken, erwacht der Frühling zu neuem Leben. Die kleinen sanften Hügel und das Rauschen des Meeres bilden die Kulisse für diese magische Szenerie. Hier, wo die Luft salzig und erdig zugleich ist, entfaltet sich der Lenz in seiner ganzen Pracht. Die knorrigen Buchen strecken ihre Äste gen Himmel, als würden sie den Wandel der Zeit feiern. Ihre Blätter tanzen im leisen Windhauch und erfüllen die Luft mit einem Hauch von Mystik. Zwischen moosbewachsenen Wegen flüstern die Bäume vergangene Geschichten, während die Wellen des Meeres ein Lied der Erneuerung singen. Willkommen im Gespensterwald von Nienhagen, wo der Frühling seine Finger über die Erde ausbreitet und die Seele in die unendliche Schönheit der Natur hüllt."
-      introPhoto = "/bing/NienhagenMecklenburg.jpg"
+      introTitle = "蓝龙熔岩流，月球陨石坑国家纪念碑和保护区，爱达荷州，美国"
+      introSubtitle = "系好安全带！让我们一起出发，去地球上的“外星王国”探险吧！今天主页展示的图片是月球陨石坑国家纪念碑和保护区，它位于爱达荷州，被一片崎岖的地形包围着。数千年前，在火山的作用下，月球陨石坑诞生并形成了独特的地貌。踏上这片土地，迎接游客的是辽阔的熔岩荒原，火山渣锥和寄生熔岩锥，如此超现实的景象仿佛月球表面，因此这个占地近54,000 英亩的地区被取名为月球陨石坑国家纪念碑和保护区。也因为这里的地貌像月球表面，阿波罗14号的宇航员在为登月计划做准备时，曾在这里接受训练，通过探索这里独特的火山地质，宇航员们可以深入了解月球上类似的地貌。"
+      introPhoto = "/bing/CratersOfTheMoon.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
