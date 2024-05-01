@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Gran Vía y Edificio Metrópolis en Madrid, España (© RudyBalasko/Getty Images)"
-      introSubtitle = "Madrid se engalana cada 2 de mayo para recordar el heroísmo de sus antepasados, que en 1808 se alzaron en armas frente a la ocupación francesa, marcando el comienzo de la Guerra de la Independencia española. Las calles rebosan de orgullo mientras se suceden actos conmemorativos; ofrendas florales y desfiles en reconocimiento a quienes lucharon por su libertad. La solemnidad y el festejo se hermanan bajo el cálido cielo."
-      introPhoto = "/bing/MadridOpen.jpg"
+      introTitle = "Real Gabinete Portugues de Leitura, Rio de Janeiro (© Wagner Meier/Getty Images)"
+      introSubtitle = "have no desc"
+      introPhoto = "/bing/DiadaLiteraturaBrasileira.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
