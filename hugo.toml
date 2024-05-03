@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Giro d'Italia, Ciclisti sulle Dolomiti (© Tim de Waele/Staff/Getty Images)"
+      introTitle = "Colorido atardecer en Pantanal, Brasil (© filipefrazao/Getty Images)"
       introSubtitle = "have no desc"
-      introPhoto = "/bing/GirodItalia2024.jpg"
+      introPhoto = "/bing/DiadoSertanejo.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
