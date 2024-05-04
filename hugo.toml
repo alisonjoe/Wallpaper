@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Colorido atardecer en Pantanal, Brasil (© filipefrazao/Getty Images)"
-      introSubtitle = "have no desc"
-      introPhoto = "/bing/DiadoSertanejo.jpg"
+      introTitle = "Temperatures on Exoplanet WASP-43b"
+      introSubtitle = "  ,tidally locked, Jupiter-sized exoplanet WASP-43borbits its parent star once every 0.8 Earth days.That puts it about 2 million kilometers(less than 1/25th the orbital distance of Mercury)from a small, cool sun.Still, on a dayside always facing its parent star, temperaturesapproach a torrid 2,500 degrees F as measured atinstrument on board the James Webb Space Telescope.of the hot exoplanet's orbit, Webbmeasurements also show nightside temperatures remain above 1,000 degrees F. That suggests that strong equatorialwinds circulate the daysideatmospheric gases to the nightside before they can completely cool off.Exoplanet WASP-43b is nowAstrolábos, and its K-type parent star has been christened Gnomon.indicate water vapor is present on the nightside as well asthe dayside of the planet, providing information about."
+      introPhoto = "/nasa/ESA.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"

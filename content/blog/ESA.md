@@ -1,7 +1,7 @@
 ---
 author: "AlisonLai"
-title: NGC 604: Giant Stellar Nursery 
-date: 2024-04-26T09:00:26+0800
+title: Temperatures on Exoplanet WASP-43b
+date: 2024-05-04T09:00:16+0800
 description: ""
 tags: ["nasa"]
 copyright: NASA
@@ -9,6 +9,6 @@ thumbnail: /nasa/ESA.jpg
 ---
 图文来源自：nasa.  copyright: NASA
 
-  Located some 3 million light-years away in the arms of nearby spiral,giant stellar nurseryabout 1,300 light-years across.That's nearly 100 times the size of the Milky Way's, the closest large star formingregion to planet Earth.In fact, among the star forming regions within the Local Group ofgalaxies, NGC 604 is second in size only to 30 Doradus,also known as in theLarge Magellanic Cloud.Cavernous bubbles and cavities in NGC 604fill this stunning infrared image from the.They are carved out by energetic stellar windsfrom the region'smore than 200 hot, massive, young stars, all still in early.
+  ,tidally locked, Jupiter-sized exoplanet WASP-43borbits its parent star once every 0.8 Earth days.That puts it about 2 million kilometers(less than 1/25th the orbital distance of Mercury)from a small, cool sun.Still, on a dayside always facing its parent star, temperaturesapproach a torrid 2,500 degrees F as measured atinstrument on board the James Webb Space Telescope.of the hot exoplanet's orbit, Webbmeasurements also show nightside temperatures remain above 1,000 degrees F. That suggests that strong equatorialwinds circulate the daysideatmospheric gases to the nightside before they can completely cool off.Exoplanet WASP-43b is nowAstrolábos, and its K-type parent star has been christened Gnomon.indicate water vapor is present on the nightside as well asthe dayside of the planet, providing information about.
 
 ![ESA](/nasa/ESA.jpg)
