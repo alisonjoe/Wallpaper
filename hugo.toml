@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Brighton Palace Pier, Brighton, England (© Michael Jewes/iStock/Getty Images)"
-      introSubtitle = "As the sun goes down on Brighton pier, the city is buzzing with an artistic fervour—the Brighton Festival is back! What started as a small gathering of artistic minds in 1967 has evolved into a treasure trove of the arts, dazzling visitors every May. Starting today, the festival will see a tapestry of over 120 eclectic events that will last until May 26. Adults and children alike are invited to revel in a world where literature leaps off the page, music fills the air and circus acts defy gravity. From Nadia Shireen's live podcasts with literary giants to Scott Silven's English-exclusive magic show, 'Wonders', this year's festival is an oasis of premieres and exclusives. So, are you ready for Brighton to take to the stage?"
-      introPhoto = "/bing/BrightonPierFestival.jpg"
+      introTitle = "大歩危峡に泳ぐ鯉のぼり, 徳島県 (© fz750/Getty Images)"
+      introSubtitle = "今日 5 月 5 日は「こどもの日」。兜や鎧を身にまとった五月人形や鯉のぼりを飾り、子供たちの健やかな成長を願う風習があります。ここ、四国地方にある吉野川の大歩危峡では、数百匹もの鯉のぼりがたなびきます…"
+      introPhoto = "/bing/ChildrenDay2024.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
