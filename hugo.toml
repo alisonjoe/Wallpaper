@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "圣米格尔德阿连德的柱廊，瓜那华托州，墨西哥"
-      introSubtitle = "五月五日节是墨西哥传统的爱国主义节日，这一活动不能与9月16日举行的墨西哥独立日混为一谈，20世纪80年代，由于龙舌兰酒、啤酒和葡萄酒的广告宣传，五月五日节在美国得到了认可，难怪如今的五月五日节在美国已成为一个狂欢的节日。值得一提的是，墨西哥除了美酒佳肴之外，丰富多彩的文化也值得品尝，无论是建筑（比如图中的圣米格尔德阿连德市的街道）、历史、艺术还是风景。"
-      introPhoto = "/bing/SanMiguelAllende.jpg"
+      introTitle = "Beautiful aerial view of Kerala (© ebin francis/Shutterstock)"
+      introSubtitle = "Welcome to Kerala! From the spice gardens of Wayanad to the tea plantations of Munnar, the state's landscape is a feast for the senses. Located along the Malabar Coast in southwestern India, Kerala is characterised by an intricate network of lakes, hill stations, brackish canals, estuaries, beaches and rivers. Featured in today's image are the backwaters, which are a nexus of several water bodies, often likened to bayous, stretching over 900 kilometres."
+      introPhoto = "/bing/KeralaRiver.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
