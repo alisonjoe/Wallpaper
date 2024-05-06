@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = " A Black Hole Disrupts a Passing Star "
-      introSubtitle = "  What happens to a star that goes near a black hole?If the star directly impacts a massive , then the star falls in completely -- and everything vanishes., though, the star goes close enough to have the black hole's gravity pull away its outer layers, or .Then, most of the star's gas does not fall into the . These stellar  events can be as bright as a supernova, and an increasing amount of them are being discovered by automated .In the , a star has just passed a massive  and sheds gas that continues to orbit. The inner edge of a disk of gas and dust  is heated by the  and may  long after the star  is gone. "
-      introPhoto = "/nasa/JPL-Caltech.jpg"
+      introTitle = "一只小鸭子在水草地上游泳，萨福克郡，英国"
+      introSubtitle = "今天，这只小鸭子摇摇摆摆地走到聚光灯下，准备用它俏皮又滑稽的动作吸引我们！鸭子羽毛鲜艳，叫声欢快，是田园风光的缩影，但它们在一些城市环境中也同样自在。然而，真正抢尽风头的是小鸭子的到来！小小的，毛茸茸的小鸭子顺从地跟随着鸭妈妈，在每一次划水和啄食中学习水性。这些水禽以昆虫和藻类为食，在保持水生生态系统平衡方面发挥着重要作用。"
+      introPhoto = "/bing/LittleDuckling.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
