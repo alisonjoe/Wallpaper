@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Vigneto vulcanico a Lanzarote, Isole Canarie (© Pol Albarrán/Getty Images)"
-      introSubtitle = "have no desc"
-      introPhoto = "/bing/LaGeriaLanzarote.jpg"
+      introTitle = "Titan RT - Fußgänger-Hängebrücke über Rappbodetalsperre und Rappbode im Nationalpark Harz, Sachsen-Anhalt (© Sander Meertins/Getty Images)"
+      introSubtitle = "Erleben Sie einen Nervenkitzel der besonderen Art auf einer der längsten Fußgängerhängebrücken der Welt - der Titan RT an der Rappbodetalsperre im sagenumwobenen Harz. Schwebend über dem beeindruckenden Rappbodetal verbindet das 483 Meter lange architektonische Meisterwerk die steilen Felswände des Nationalparks und bietet einen atemberaubenden Ausblick, den sonst nur Vögel genießen können. Spüren Sie das leichte Schwanken unter Ihren Füßen und den Wind, der die Kraft der Natur spürbar macht."
+      introPhoto = "/bing/SuspensionBridge.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
