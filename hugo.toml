@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Heidelberg a orillas del río Neckar, en Baden-Wurtemberg, Alemania (© Juergen Sack/Getty Images)"
-      introSubtitle = "Una maravillosa vista de la ciudad de Heidelberg, en Alemania, eclipsa a orillas del río Neckar. El encantador casco antiguo atrae a los visitantes con sus sinuosas callejuelas y edificios históricos, mientras que el castillo de Heidelberg se eleva en lo alto de la ciudad y ofrece una vista impresionante. El Neckar, un río tranquilo, serpentea por la ciudad y ofrece pintorescas postales desde los muelles a orillas del río y los puentes, refugio perfecto para paseos y picnics."
-      introPhoto = "/bing/RiverNekarHeidelberg.jpg"
+      introTitle = " A Black Hole Disrupts a Passing Star "
+      introSubtitle = "  What happens to a star that goes near a black hole?If the star directly impacts a massive , then the star falls in completely -- and everything vanishes., though, the star goes close enough to have the black hole's gravity pull away its outer layers, or .Then, most of the star's gas does not fall into the . These stellar  events can be as bright as a supernova, and an increasing amount of them are being discovered by automated .In the , a star has just passed a massive  and sheds gas that continues to orbit. The inner edge of a disk of gas and dust  is heated by the  and may  long after the star  is gone. "
+      introPhoto = "/nasa/JPL-Caltech.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"

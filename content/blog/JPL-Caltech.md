@@ -1,7 +1,7 @@
 ---
 author: "AlisonLai"
-title: Galileo's Europa
-date: 2024-03-30T09:00:17+0800
+title:  A Black Hole Disrupts a Passing Star 
+date: 2024-05-06T09:00:23+0800
 description: ""
 tags: ["nasa"]
 copyright: NASA
@@ -9,6 +9,6 @@ thumbnail: /nasa/JPL-Caltech.jpg
 ---
 图文来源自：nasa.  copyright: NASA
 
-  Looping through the Jovian system in the late 1990s, therecorded stunning views of Europa and uncoveredevidence that the moon's icy surface likely hidesa deep, global ocean.Galileo's Europa image data has been, with improved calibrations to produce acolor image approximating what the human eye might see.Europa's long curving fractures.  The tidal flexing the large moon experiencesin its elliptical orbitaround Jupiter supplies the energy to keep the ocean liquid.But more is the possibilitythat even in theabsence of sunlight that process could also supply the energy tosupport life,one of the best places to look for lifebeyond Earth.The Juno spacecraft currently in Jovian orbithas also made repeated flybys of the water world,returning images along with data exploring.This October will see the launch of the NASA'son a voyage of.The spacecraft will make nearly 50 flybys,approaching to within 25 kilometers of Europa's icy surface.
+  What happens to a star that goes near a black hole?If the star directly impacts a massive , then the star falls in completely -- and everything vanishes., though, the star goes close enough to have the black hole's gravity pull away its outer layers, or .Then, most of the star's gas does not fall into the . These stellar  events can be as bright as a supernova, and an increasing amount of them are being discovered by automated .In the , a star has just passed a massive  and sheds gas that continues to orbit. The inner edge of a disk of gas and dust  is heated by the  and may  long after the star  is gone. 
 
 ![JPL-Caltech](/nasa/JPL-Caltech.jpg)
