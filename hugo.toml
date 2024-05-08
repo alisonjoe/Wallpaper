@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = " Black Hole Accreting with Jet "
-      introSubtitle = "  What happens when a black hole devours a star? Many details remain unknown, but observations are providing new clues.In 2014, a  was recorded by the ground-based robotic telescopes of the  (Project ASAS-SN), with followed-up observations by instruments including 's Earth-orbiting .Computer modeling of these emissions fit a star being  by a distant . The results of such a collision are portrayed in the .The  itself is a depicted as a tiny black dot in the center.As matter falls toward , it collides with other matter and .Surrounding the black hole is an  of hot matter that used to be the star, with a  emanating from the ."
-      introPhoto = "/nasa/Swift.jpg"
+      introTitle = "埃米尔甘公园的郁金香，伊斯坦布尔，土耳其"
+      introSubtitle = "一大片五颜六色的郁金香给人带来的诱惑不言而喻。郁金香原产于中亚，从弗农山庄园到土耳其伊斯坦布尔熙熙攘攘的街道，这些球茎植物深受世界各地人们的喜爱。但郁金香不仅仅是装饰性花卉，它们还具有重要的文化意义。在不同的传统中，郁金香代表着爱情、生命、美丽和激情。在艺术作品中，郁金香常常被描绘成重生或青春的象征。"
+      introPhoto = "/bing/EmirganPark.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
