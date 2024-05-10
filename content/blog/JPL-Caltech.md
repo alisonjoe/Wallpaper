@@ -1,7 +1,7 @@
 ---
 author: "AlisonLai"
-title:  A Black Hole Disrupts a Passing Star 
-date: 2024-05-06T09:00:23+0800
+title:  The Galaxy, the Jet, and a Famous Black Hole 
+date: 2024-05-10T09:00:20+0800
 description: ""
 tags: ["nasa"]
 copyright: NASA
@@ -9,6 +9,6 @@ thumbnail: /nasa/JPL-Caltech.jpg
 ---
 图文来源自：nasa.  copyright: NASA
 
-  What happens to a star that goes near a black hole?If the star directly impacts a massive , then the star falls in completely -- and everything vanishes., though, the star goes close enough to have the black hole's gravity pull away its outer layers, or .Then, most of the star's gas does not fall into the . These stellar  events can be as bright as a supernova, and an increasing amount of them are being discovered by automated .In the , a star has just passed a massive  and sheds gas that continues to orbit. The inner edge of a disk of gas and dust  is heated by the  and may  long after the star  is gone. 
+  is home to thesupermassive black hole captured in 2017 by planet Earth'sin the first ever image of a black hole.Giant of the Virgo galaxy cluster about 55 million light-years away,M87 is rendered in blue hues in this infrared.  Though M87 appears mostly featureless and cloud-like,the Spitzer image does record details of relativisticjets blasting from the galaxy's central region.Shown in the inset at top right, the jets themselvesspan thousands of light-years. seen on theright is approaching and close to our line of sight.Opposite, the shock created by the otherwise unseen receding jetlights up a fainter arc of material.Inset at bottom right, the is shownin context at the center of giant galaxy, between the relativistic jets.Completely unresolved in the Spitzer image, theblack hole surrounded by infalling material is the source of enormousenergy driving.The Event Horizon Telescope image of M87has been enhanced to reveal a.
 
 ![JPL-Caltech](/nasa/JPL-Caltech.jpg)
