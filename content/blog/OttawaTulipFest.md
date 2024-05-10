@@ -1,14 +1,14 @@
 ---
 author: "AlisonLai"
-title: Tulipes devant la Colline du Parlement pendant le festival des tulipes, Ottawa (© Danielle Donders/Moment/Getty Images)
-date: 2024-05-11T06:01:31+0800
+title: Tulips in front of the Parliament Buildings during the Tulip Festival in Ottawa (© Danielle Donders/Moment/Getty Images)
+date: 2024-05-11T06:02:04+0800
 description: ""
-tags: ["Un monde de tulipes"]
+tags: ["A world of tulips"]
 copyright: © Danielle Donders/Moment/Getty Images
 thumbnail: /bing/OttawaTulipFest.jpg
 ---
 图文来源自：bing.  copyright: © Danielle Donders/Moment/Getty Images
 
-Chaque mois de mai, Ottawa, la capitale du Canada, s’éveille dans un éclat de couleurs grâce à une magnifique mosaïque de tulipes. Plus d’un million de pétales, principalement rouges et blancs, décorent les édifices parlementaires emblématiques. Le Festival canadien des tulipes, symbole de l’amitié entre le Canada et les Pays-Bas, tire ses racines de l’asile offert à la famille royale néerlandaise durant la Seconde Guerre mondiale et de la naissance de la princesse Margriet à Ottawa en 1943.
+During spring, Ottawa becomes a canvas adorned by the Canadian Tulip Festival! Each May, Canada's capital blooms to life, boasting a mosaic of over a million tulips, with red and white petals encircling the iconic Parliament Buildings. This festival celebrates the friendship between Canada and the Netherlands, which began with the safekeeping of Dutch royalty during WWII and the birth of Princess Margriet in 1943 in Ottawa.
 
 ![OttawaTulipFest](/bing/OttawaTulipFest.jpg)
