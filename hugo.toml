@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Tossa de Mar, Girona, Cataluña, España (© Artur Debat/Moment/Getty Images)"
-      introSubtitle = "Entre el mar y las montañas, Tossa de Mar se alza en la provincia de Girona, Cataluña. Este puente verde, que vemos en la imagen de hoy, permite el paso de los animales y nos demuestra la inmensidad de su fauna y flora, así como la preocupación que este pueblo muestra hacia sus animales."
-      introPhoto = "/bing/GironaForest.jpg"
+      introTitle = "Tulipes devant la Colline du Parlement pendant le festival des tulipes, Ottawa (© Danielle Donders/Moment/Getty Images)"
+      introSubtitle = "Chaque mois de mai, Ottawa, la capitale du Canada, s’éveille dans un éclat de couleurs grâce à une magnifique mosaïque de tulipes. Plus d’un million de pétales, principalement rouges et blancs, décorent les édifices parlementaires emblématiques. Le Festival canadien des tulipes, symbole de l’amitié entre le Canada et les Pays-Bas, tire ses racines de l’asile offert à la famille royale néerlandaise durant la Seconde Guerre mondiale et de la naissance de la princesse Margriet à Ottawa en 1943."
+      introPhoto = "/bing/OttawaTulipFest.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
