@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Vista dall'alto di delfini che nuotano nel mare, Genova, Italia (© Andrea Izzotti/500px/Getty Images)"
-      introSubtitle = "have no desc"
-      introPhoto = "/bing/BabyDolphinMom.jpg"
+      introTitle = "Flamants roses, réserve naturelle de Pont de Gau, Camargue, France (© Yann Guichaoua-Photos/Getty Images)"
+      introSubtitle = "Préparez-vous à être ébloui par le spectacle des flamants roses dans la Réserve Naturelle de Pont de Gau en Camargue ! Ces créatures majestueuses, avec leur plumage rose issu des pigments caroténoïdes de leur alimentation, sont un véritable emblème de la région.  Ces oiseaux se nourrissent de crevettes Artemia salina, qui enrichissent leur plumage d’une teinte rose caractéristique. Leur bec leur permet de filtrer l’eau pour se nourrir, un spectacle fascinant à voir ! La réserve accueille les flamants toute l’année, mais l’été est le moment idéal pour les voir en plus grand nombre. Imaginez-vous marchant sur les sentiers, entouré par le chant des oiseaux et le vol gracieux des flamants. C’est une expérience à ne pas manquer ! Alors, prêt pour une aventure colorée ?"
+      introPhoto = "/bing/CamargueFlamingos.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
