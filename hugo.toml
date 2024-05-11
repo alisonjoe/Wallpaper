@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Tulips in front of the Parliament Buildings during the Tulip Festival in Ottawa (© Danielle Donders/Moment/Getty Images)"
-      introSubtitle = "During spring, Ottawa becomes a canvas adorned by the Canadian Tulip Festival! Each May, Canada's capital blooms to life, boasting a mosaic of over a million tulips, with red and white petals encircling the iconic Parliament Buildings. This festival celebrates the friendship between Canada and the Netherlands, which began with the safekeeping of Dutch royalty during WWII and the birth of Princess Margriet in 1943 in Ottawa."
-      introPhoto = "/bing/OttawaTulipFest.jpg"
+      introTitle = "Vista dall'alto di delfini che nuotano nel mare, Genova, Italia (© Andrea Izzotti/500px/Getty Images)"
+      introSubtitle = "have no desc"
+      introPhoto = "/bing/BabyDolphinMom.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
