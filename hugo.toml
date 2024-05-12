@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Flamants roses, réserve naturelle de Pont de Gau, Camargue, France (© Yann Guichaoua-Photos/Getty Images)"
-      introSubtitle = "Préparez-vous à être ébloui par le spectacle des flamants roses dans la Réserve Naturelle de Pont de Gau en Camargue ! Ces créatures majestueuses, avec leur plumage rose issu des pigments caroténoïdes de leur alimentation, sont un véritable emblème de la région.  Ces oiseaux se nourrissent de crevettes Artemia salina, qui enrichissent leur plumage d’une teinte rose caractéristique. Leur bec leur permet de filtrer l’eau pour se nourrir, un spectacle fascinant à voir ! La réserve accueille les flamants toute l’année, mais l’été est le moment idéal pour les voir en plus grand nombre. Imaginez-vous marchant sur les sentiers, entouré par le chant des oiseaux et le vol gracieux des flamants. C’est une expérience à ne pas manquer ! Alors, prêt pour une aventure colorée ?"
-      introPhoto = "/bing/CamargueFlamingos.jpg"
+      introTitle = " AR 3664: Giant Sunspot Group "
+      introSubtitle = "  Right now, one of the largest sunspot groups in recent history is crossing the Sun. is not only big -- it's violent, throwing off clouds of particles into the .Some of these s are already impacting the Earth, and others might follow. At the extreme,  could cause some , the  to slightly distort, and .When impacting , these particles can produce beautiful auroras, with some  already being reported . Pictured here,  and its dark s were captured yesterday in visible light from , .The AR3664 sunspot group is so large that it is  designed to  last month's . This weekend,  will be keenly watching the night skies all over the globe for  and ."
+      introPhoto = "/nasa/Gruppo_Astrofili_Palidoro.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
