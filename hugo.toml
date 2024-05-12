@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "鱼河大峡谷，纳米比亚"
-      introSubtitle = "从世界上最古老的沙漠——纳米布沙漠，到奇妙的箭袋树森林，南非的纳米比亚拥有许多宝藏旅游景点。该国家最长的河流——鱼河，在数百万年的时间里侵蚀出了欧洲大陆最大的峡谷：鱼河大峡谷，它长约100英里，深约1800英尺，蜿蜒曲折，穿过风化的片麻岩层和白云岩。作为纳米比亚的热门景点之一，鱼河大峡谷以其长达50多英里的徒步小径和“鱼河峡谷超级马拉松比赛”吸引了无数探险者。此外，峡谷里还生活着哈特曼山斑马、山羚、东部岩象鼩等大大小小的生物。无论您是来轻徒步、远足、露营或者只是欣赏美景，鱼河大峡谷一定会让您终身难忘的。"
-      introPhoto = "/bing/NamibiaCanyon.jpg"
+      introTitle = "Skiddaw, Lake District National Park, England (© James Whitesmith/Alamy Stock Photo)"
+      introSubtitle = "At 931 metres high, Skiddaw is the fourth tallest peak in England's Lake District. It carries an air of grandeur, thanks to the flatter valleys that set it apart from neighbouring fells. Author Alfred Wainwright once called the summit 'an affable and friendly giant.' Skiddaw is more than a mountaineer's playground—it's steeped in geological wonder. It is formed from ancient Ordovician slate that musicians have turned into lithophones, charming visitors at Keswick Museum with their melodic chime. Moreover, Skiddaw House, originally a keeper's lodge built in 1829, tells tales of its rich heritage through walls that have witnessed the evolution of this landscape. Whether you're a seasoned fell runner beginning the Bob Graham Round—a fell running challenge—or a day-tripper seeking a summit, Skiddaw invites all."
+      introPhoto = "/bing/SkiddawMassifUK.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
