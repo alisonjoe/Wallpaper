@@ -11,8 +11,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "„Gefühle sind Fakten“, Künstler Olafur Eliasson und Architekt Ma Yansong, Peking, China (© Feng Li/Getty Images News)"
-      introSubtitle = "Heute wird der „Internationale Tag des Lichts“ gefeiert, denn am 16. Mai 1960 erfand der amerikanische Physiker und Ingenieur Theodore Maiman den Laser. Diese bahnbrechende Erfindung ist ein Beispiel dafür, wie Innovationen die Gesellschaft revolutionieren und sich auf Bereiche von der Kommunikation bis hin zum Gesundheitswesen auswirken können. Bei den Feierlichkeiten geht es jedoch nicht nur um den Laser, sondern um die Präsenz des Lichts in allen Bereichen des menschlichen Lebens - von Kunst und Kultur bis hin zu Wissenschaft und Technologie."
+      introTitle = ""Feelings are Facts", dell'artista Olafur Eliasson e dell'architetto Ma Yansong, Pechino, Cina (© Feng Li/Getty Images News)"
+      introSubtitle = "have no desc"
       introPhoto = "/bing/DayOfLight.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
