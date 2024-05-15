@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "'Feelings are Facts,' by artist Olafur Eliasson and architect Ma Yansong, Beijing, China (© Feng Li/Getty Images News)"
-      introSubtitle = "Today is the International Day of Light! Held on May 16, the day marks the anniversary of invention of the laser by the American physicist and engineer Theodore Maiman in 1960. This pioneering creation epitomises how innovation can revolutionise society, impacting fields from communications to healthcare. The scope of the celebration extends beyond lasers, embracing light's presence in every aspect of human existence, from art and culture to science and technology."
-      introPhoto = "/bing/DayOfLight.jpg"
+      introTitle = "Campeonato de Europa de Parapente. Pegalajar, Jaén, España (© Jorgefontestad/Getty Images)"
+      introSubtitle = "Donde los prados se tiñen de verde esmeralda y oro líquido, los cielos se pintan de colores vivos e inquietos. ¿El motivo? El Campeonato Europeo de Parapente que llegará próximamente a estos aires del 16 al 24 de junio de 2024, convirtiendo sus montañas en un lienzo de acrobacias y vuelos serenos. Anota esta fecha en el calendario, donde los mejores pilotos de Europa se mecerán sobre un paisaje sin igual."
+      introPhoto = "/bing/ParaglidingChampion.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
