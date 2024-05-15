@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "下鴨神社, 京都 (© beibaoke/Shutterstock)"
-      introSubtitle = "今日 5 月 15 日は葵祭。京都市の下鴨神社、上賀茂神社で行われる伝統的な祭りです。約 1400 年前に始まったこの祭りは、京都三大祭りの一つとして知られており、「源氏物語」にも登場するほどの歴史的重要性を持っています…"
-      introPhoto = "/bing/AoiMatsuri2024.jpg"
+      introTitle = "'Feelings are Facts,' by artist Olafur Eliasson and architect Ma Yansong, Beijing, China (© Feng Li/Getty Images News)"
+      introSubtitle = "Today is the International Day of Light! Held on May 16, the day marks the anniversary of invention of the laser by the American physicist and engineer Theodore Maiman in 1960. This pioneering creation epitomises how innovation can revolutionise society, impacting fields from communications to healthcare. The scope of the celebration extends beyond lasers, embracing light's presence in every aspect of human existence, from art and culture to science and technology."
+      introPhoto = "/bing/DayOfLight.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
