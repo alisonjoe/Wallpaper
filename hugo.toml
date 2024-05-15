@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Campeonato de Europa de Parapente. Pegalajar, Jaén, España (© Jorgefontestad/Getty Images)"
-      introSubtitle = "Donde los prados se tiñen de verde esmeralda y oro líquido, los cielos se pintan de colores vivos e inquietos. ¿El motivo? El Campeonato Europeo de Parapente que llegará próximamente a estos aires del 16 al 24 de junio de 2024, convirtiendo sus montañas en un lienzo de acrobacias y vuelos serenos. Anota esta fecha en el calendario, donde los mejores pilotos de Europa se mecerán sobre un paisaje sin igual."
-      introPhoto = "/bing/ParaglidingChampion.jpg"
+      introTitle = "Œuvre « Feelings Are Facts », par l'artiste Olafur Eliasson et l'architecte Ma Yansong, Pékin, Chine (© Feng Li/Getty Images News)"
+      introSubtitle = "Nous célébrons aujourd’hui la Journée internationale de la lumière, qui commémore l’anniversaire de l’invention du laser en 1960 par Theodore Maiman, physicien et ingénieur américain. Cette percée démontre la capacité de la technologie à révolutionner notre société, avec un impact allant des télécommunications aux soins médicaux. La journée rend également hommage au rôle essentiel de la lumière dans la vie humaine, touchant à l’art, la culture, la science et la technologie."
+      introPhoto = "/bing/DayOfLight.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
