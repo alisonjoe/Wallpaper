@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Une famille d'éléphants d'Afrique dans le parc national de Tarangire, en Tanzanie (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)"
-      introSubtitle = "Aujourd’hui, à l’occasion de la Journée mondiale des espèces menacées, nous nous rassemblons pour unir nos efforts en faveur de la préservation de la biodiversité. L’Endangered Species Coalition a instauré cet événement en 2006 dans le but de contribuer activement à la survie de ces animaux. Actuellement, plus de 44 000 espèces sont menacées d’extinction. Parmi les plus vulnérables figurent les rhinocéros de Java, les rhinocéros noirs, les gorilles des montagnes et les tortues imbriquées."
-      introPhoto = "/bing/TarangireElephants.jpg"
+      introTitle = "Vista di Bergamo Alta durante il tramonto, Lombardia, Italia (© Deimagine/Getty Images)"
+      introSubtitle = "have no desc"
+      introPhoto = "/bing/BergamoAlta.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
