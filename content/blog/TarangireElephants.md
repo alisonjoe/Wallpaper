@@ -1,14 +1,14 @@
 ---
 author: "AlisonLai"
-title: タランギーレ国立公園のアフリカゾウ, タンザニア (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)
-date: 2024-05-17T06:01:27+0800
+title: 塔兰吉雷国家公园的非洲象家族，坦桑尼亚 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)
+date: 2024-05-17T06:01:49+0800
 description: ""
-tags: ["今日は米国の「絶滅危惧種の日」"]
-copyright: © Vicki Jauron, Babylon and Beyond Photography/Getty Images
+tags: ["今天不是无关紧要的一天"]
+copyright: 
 thumbnail: /bing/TarangireElephants.jpg
 ---
-图文来源自：bing.  copyright: © Vicki Jauron, Babylon and Beyond Photography/Getty Images
+图文来源自：bing.  copyright: 
 
-米国では、毎年 5 月の第 3 金曜日を絶滅危惧種の日としています。絶滅危惧種の保護活動を促進するために 2006 年に設立されました。現在、世界ではジャワサイやクロサイ、マウンテンゴリラ、タイマイなどの 44000 種以上の生物が絶滅の危機に瀕しています…
+have no desc
 
 ![TarangireElephants](/bing/TarangireElephants.jpg)

@@ -11,8 +11,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "タランギーレ国立公園のアフリカゾウ, タンザニア (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)"
-      introSubtitle = "米国では、毎年 5 月の第 3 金曜日を絶滅危惧種の日としています。絶滅危惧種の保護活動を促進するために 2006 年に設立されました。現在、世界ではジャワサイやクロサイ、マウンテンゴリラ、タイマイなどの 44000 種以上の生物が絶滅の危機に瀕しています…"
+      introTitle = "塔兰吉雷国家公园的非洲象家族，坦桑尼亚 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)"
+      introSubtitle = "have no desc"
       introPhoto = "/bing/TarangireElephants.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
