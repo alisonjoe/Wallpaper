@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Vista di Bergamo Alta durante il tramonto, Lombardia, Italia (© Deimagine/Getty Images)"
-      introSubtitle = "have no desc"
-      introPhoto = "/bing/BergamoAlta.jpg"
+      introTitle = "A family of African elephants in Tarangire National Park, Tanzania (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)"
+      introSubtitle = "Today, on Endangered Species Day, we unite in a collective effort for conservation. Every third Friday in May, we pay close attention to animals and plants. The Endangered Species Coalition founded the event in 2006 with the goal of actively working for the survival of endangered species. Currently, there are over 44,000 species threatened with extinction. Among the world's most endangered animals are the Javan and black rhinos, the mountains gorillas and the Hawksbill turtles."
+      introPhoto = "/bing/TarangireElephants.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
