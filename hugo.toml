@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Scheletro della balenottera Azzurra “Hope”, Museo di Storia Naturale di Londra, Inghilterra (© Bailey-Cooper Photography/Alamy)"
-      introSubtitle = "have no desc"
-      introPhoto = "/bing/MuseumWhale.jpg"
+      introTitle = "Vernazza, Cinque Terre, Ligurien, Italien (© Roberto Moiola/Sysaworld/Getty Images)"
+      introSubtitle = "Vernazza ist ein malerisches Dorf an der ligurischen Küste im Nordwesten Italiens und gehört zu den Cinque Terre, einem 12 Kilometer langen Küstenstreifen, der aus nur fünf Dörfern besteht. Neben Vernazza sind dies Corniglia, Manarola, Monterosso al Mare und Riomaggiore. Alte Gebäude säumen die Küste des Ligurischen Meeres und das Leben ist erfüllt vom geschäftigen Treiben der Fischer. Der Name Vernazza scheint vom lateinischen Wort „verna“ abgeleitet zu sein, was „einheimisch“ bedeutet. Eines der bekanntesten Bauwerke der Gegend ist das Castello Doria, eine im 15. Jahrhundert errichtete Festung."
+      introPhoto = "/bing/VernazzaItaly.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
