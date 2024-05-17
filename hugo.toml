@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Blue whale skeleton named Hope, Natural History Museum, London, England (© Bailey-Cooper Photography/Alamy)"
-      introSubtitle = "In the grand Hintze Hall of the Natural History Museum in London, UK, a skeleton named Hope soars overhead—a blue whale caught mid-dive above the heads of awestruck visitors. Museums offer us a space where the past converses with the present. The Natural History Museum, the one housing Hope, was established in 1881. This museum boasts 80 million specimens, including fossils, minerals and taxidermy exhibits. Hope's above 25-metre-long frame is the entrance hall's centerpiece. Let Hope inspire a visit to your local museum and reignite curiosity and spark wonder in your heart."
-      introPhoto = "/bing/MuseumWhale.jpg"
+      introTitle = "日本科学未来館, 東京都 江東区 (© cowardlion/Shutterstock)"
+      introSubtitle = "今日 5 月 18 日は国際博物館の日。国際博物館会議 (ICOM) が、1977 年に博物館が社会に果たす役割について人々に広く普及啓発するために制定しました。全国の博物館では、様々な記念事業やシンポジウムが開催されます…"
+      introPhoto = "/bing/Museum2024.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
