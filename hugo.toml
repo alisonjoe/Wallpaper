@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "A family of African elephants in Tarangire National Park, Tanzania (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)"
-      introSubtitle = "Today, on Endangered Species Day, we unite in a collective effort for conservation. Every third Friday in May, we pay close attention to animals and plants. The Endangered Species Coalition founded the event in 2006 with the goal of actively working for the survival of endangered species. Currently, there are over 44,000 species threatened with extinction. Among the world's most endangered animals are the Javan and black rhinos, the mountains gorillas and the Hawksbill turtles."
-      introPhoto = "/bing/TarangireElephants.jpg"
+      introTitle = "Volcanes en el Parque Nacional De Timanfaya en Lanzarote, Islas Canarias, España (© Lukas Bischoff/Getty Images)"
+      introSubtitle = "La isla de Lanzarote, obra mágica de fenómenos geológicos y pináculos de lava, es más que un destino; es la cuna de unos de los Ironman más duros del mundo. Desde su primera edición en 1992, con sus 3,86 km de natación, 180,2 km de ciclismo y 42,195 km de carrera, el Ironman Lanzarote despliega su manta de fuego y sal bajo el incansable sol canario."
+      introPhoto = "/bing/IronmanLanzarote.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
