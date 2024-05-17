@@ -1,14 +1,14 @@
 ---
 author: "AlisonLai"
-title: Blue whale skeleton named Hope, Natural History Museum, London, England (© Bailey-Cooper Photography/Alamy)
-date: 2024-05-18T06:02:17+0800
+title: Squelette de baleine bleue appelé Hope, Natural History Museum, Londres, Angleterre (© Bailey-Cooper Photography/Alamy)
+date: 2024-05-18T06:03:14+0800
 description: ""
-tags: ["Tail of the whale"]
+tags: ["Courez au musée !"]
 copyright: © Bailey-Cooper Photography/Alamy
 thumbnail: /bing/MuseumWhale.jpg
 ---
 图文来源自：bing.  copyright: © Bailey-Cooper Photography/Alamy
 
-In the grand Hintze Hall of the Natural History Museum in London, UK, a skeleton named Hope soars overhead—a blue whale caught mid-dive above the heads of awestruck visitors. Museums offer us a space where the past converses with the present. The Natural History Museum, the one housing Hope, was established in 1881. This museum boasts 80 million specimens, including fossils, minerals and taxidermy exhibits. Hope's above 25-metre-long frame is the entrance hall's centerpiece. Let Hope inspire a visit to your local museum and reignite curiosity and spark wonder in your heart.
+Dans la majestueuse salle Hintze du Muséum d’histoire naturelle de Londres, au Royaume-Uni, plane un squelette nommé Hope, une baleine bleue en plein plongeon, au-dessus des visiteurs ébahis. En cette Journée internationale des musées, il n’y a pas de meilleur moment pour célébrer les gardiens de l’histoire, de l’art et de la science à travers le monde. Instituée en 1977 par le Conseil international des musées, cette journée met en lumière l’importance de ces institutions en tant que vecteurs d’échanges culturels, de compréhension mutuelle et de coopération entre les peuples. Le thème de cette année est « Les musées pour l’éducation et la recherche ».
 
 ![MuseumWhale](/bing/MuseumWhale.jpg)

@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "日本科学未来館, 東京都 江東区 (© cowardlion/Shutterstock)"
-      introSubtitle = "今日 5 月 18 日は国際博物館の日。国際博物館会議 (ICOM) が、1977 年に博物館が社会に果たす役割について人々に広く普及啓発するために制定しました。全国の博物館では、様々な記念事業やシンポジウムが開催されます…"
-      introPhoto = "/bing/Museum2024.jpg"
+      introTitle = "Squelette de baleine bleue appelé Hope, Natural History Museum, Londres, Angleterre (© Bailey-Cooper Photography/Alamy)"
+      introSubtitle = "Dans la majestueuse salle Hintze du Muséum d’histoire naturelle de Londres, au Royaume-Uni, plane un squelette nommé Hope, une baleine bleue en plein plongeon, au-dessus des visiteurs ébahis. En cette Journée internationale des musées, il n’y a pas de meilleur moment pour célébrer les gardiens de l’histoire, de l’art et de la science à travers le monde. Instituée en 1977 par le Conseil international des musées, cette journée met en lumière l’importance de ces institutions en tant que vecteurs d’échanges culturels, de compréhension mutuelle et de coopération entre les peuples. Le thème de cette année est « Les musées pour l’éducation et la recherche »."
+      introPhoto = "/bing/MuseumWhale.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
