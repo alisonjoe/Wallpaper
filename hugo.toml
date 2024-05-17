@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Volcanes en el Parque Nacional De Timanfaya en Lanzarote, Islas Canarias, España (© Lukas Bischoff/Getty Images)"
-      introSubtitle = "La isla de Lanzarote, obra mágica de fenómenos geológicos y pináculos de lava, es más que un destino; es la cuna de unos de los Ironman más duros del mundo. Desde su primera edición en 1992, con sus 3,86 km de natación, 180,2 km de ciclismo y 42,195 km de carrera, el Ironman Lanzarote despliega su manta de fuego y sal bajo el incansable sol canario."
-      introPhoto = "/bing/IronmanLanzarote.jpg"
+      introTitle = "Scheletro della balenottera Azzurra “Hope”, Museo di Storia Naturale di Londra, Inghilterra (© Bailey-Cooper Photography/Alamy)"
+      introSubtitle = "have no desc"
+      introPhoto = "/bing/MuseumWhale.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
