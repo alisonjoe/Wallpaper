@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Squelette de baleine bleue appelé Hope, Natural History Museum, Londres, Angleterre (© Bailey-Cooper Photography/Alamy)"
-      introSubtitle = "Dans la majestueuse salle Hintze du Muséum d’histoire naturelle de Londres, au Royaume-Uni, plane un squelette nommé Hope, une baleine bleue en plein plongeon, au-dessus des visiteurs ébahis. En cette Journée internationale des musées, il n’y a pas de meilleur moment pour célébrer les gardiens de l’histoire, de l’art et de la science à travers le monde. Instituée en 1977 par le Conseil international des musées, cette journée met en lumière l’importance de ces institutions en tant que vecteurs d’échanges culturels, de compréhension mutuelle et de coopération entre les peuples. Le thème de cette année est « Les musées pour l’éducation et la recherche »."
-      introPhoto = "/bing/MuseumWhale.jpg"
+      introTitle = "Die Büste der Königin Nofretete, Ägyptisches Museum, Museumsinseln Berlin (© Christophe Gateau/picture alliance via Getty Images)"
+      introSubtitle = "Heute feiern wir den „Internationalen Museumstag“! Nutzen wir die Gelegenheit, um die reiche kulturelle Vielfalt der Museen im ganzen Land zu würdigen. Von antiken Artefakten bis hin zu zeitgenössischer Kunst bieten Museen einen einzigartigen Einblick in die Geschichte, Kunst und Kreativität der Menschheit. Heute haben wir uns für einen virtuellen Rundgang durch das Ägyptische Museum in Berlin entschieden. Unter all den Schätzen ragt die berühmte Büste der Königin Nofretete heraus. Ihr anmutiges Lächeln und ihre mysteriöse Ausstrahlung faszinieren Besucher aus aller Welt und machen sie zu einem Symbol für die Schönheit und Eleganz des Alten Ägypten."
+      introPhoto = "/bing/NefertitiMuseum.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
