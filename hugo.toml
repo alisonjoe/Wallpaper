@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = " Jupiter Diving "
-      introSubtitle = "  and dive into the upper atmosphere of Jupiter, theSolar System's ruling gas giant. is based on image data fromJunoCam, and the microwave radiometer on board theJupiter-orbiting  spacecraft.Your view will start about 3,000 kilometers abovethe southern Jovian cloud tops, and you can track your progresson the display at the left.As altitude decreases, temperature increases while youdive deeper at the location of Jupiter's famous .In fact,  the Great Red Spot, the Solar System's largest storm system,penetrates some 300 kilometers into the giant planet's atmosphere.For comparison, the is just under 11 kilometers down. though, you'll."
-      introPhoto = "/nasa/JPL-Caltech.jpg"
+      introTitle = "卡梅隆高地茶园，马拉西亚"
+      introSubtitle = "没有什么能比得上一杯好茶！无论您喜欢大吉岭茶、伯爵茶、乌龙茶、抹茶，还是英式早餐茶，今天都是为这个受人喜爱的饮品而庆祝的日子——因为5月21日是国际茶日。人类饮茶的历史至少有5000年了，它起源中国，在16世纪和17世纪，西方商人通过丝绸之路将茶叶引入欧洲，并逐渐传播到世界各地。现在，茶已成为仅次于水的世界第二大饮料。"
+      introPhoto = "/bing/MalaysiaTea.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
