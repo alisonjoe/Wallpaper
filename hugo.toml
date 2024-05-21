@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "夕暮れの東京スカイツリー,  東京 (© Saha Entertainment/Getty Images)"
-      introSubtitle = "今日の画像は、タワーとして世界第 1 位の高さを誇る東京スカイツリー。2012 年 5 月 22 日に、その雄大な姿を世界に披露してから、早くも 12 年が経過しました。この期間に、スカイツリーはただのテレビ塔以上の存在となり、東京の象徴的なランドマークとして、地域社会に新たな活力をもたらし続けています…"
-      introPhoto = "/bing/SkyTree2024.jpg"
+      introTitle = "A woman with a floral hat at the RHS Chelsea Flower Show 2014 (© Bettina Strenske/Alamy Stock Photo)"
+      introSubtitle = "In the spring of 1862, a horticultural event began that would go on to become world famous—the Royal Horticultural Society (RHS) Chelsea Flower Show. Formally known as the Great Spring Show, it has flourished through the years, even surviving wartime interruptions. Today, it continues to be a symbol of excellence in the world of gardening. Starting today and running until May 25, a symphony of colours, textures and scents will greet people from all walks of life, including British royalty at the Royal Hospital Chelsea. The event spotlights the planet's premier garden designers, plant specialists and visionary florists. 2024's theme champions the heart of environmentalism, with displays emphasising sustainable beauty. So, are you 'growing' to the fest?"
+      introPhoto = "/bing/ChelseaFlowerUK.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
