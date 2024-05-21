@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Colline du Parlement à Ottawa, Ontario (© f11photo/iStock/Getty Images)"
-      introSubtitle = "Alors que le doux mois de mai enveloppe le pays, un frisson d’excitation flotte dans l’air : c’est le moment de célébrer la fête de la Reine ! Ce jour férié, qui a lieu le lundi précédant le 25 mai, célèbre l’anniversaire de la reine Victoria et marque officieusement le début de l’été. Victoria a régné de 1837 à 1901, et ce jour férié a été établi en 1845. La cérémonie traditionnelle débute à New Westminster par une salve de 21 coups de canon suivie de l’hymne national. Bien que la fête soit observée de différentes manières à travers le pays, à Ottawa, la colline du Parlement accueille la cérémonie du lever du drapeau en l’honneur de l’ancienne souveraine britannique. Tout au long de la journée, divers événements sont organisés, notamment des concerts et des spectacles culturels. À la tombée de la nuit, le ciel s’illumine de feux d’artifice et les regards se tournent vers le ciel, partageant un moment de fierté nationale et de nostalgie - un lien festif entre le passé et le présent."
-      introPhoto = "/bing/OttawaParliamentHill.jpg"
+      introTitle = " Aurora Dome Sky "
+      introSubtitle = "  It seemed like night, but part of the sky glowed purple. It was the now famous night of May 10, 2024, when .The featured image was captured this night during early morning hours from , , .The panorama is a composite of several 6-second exposures covering two thirds of the visible sky, with  in the center, and processed to heighten the colors and remove electrical wires.The photographer (in the foreground) reported that the  appeared to flow from a point overhead but illuminated the sky only toward the .The aurora's energetic particles originated from s  from our Sun over sunspot  a few days before.This  rotated to the far side of the Sun last week, but  to rotate back toward the  next week. "
+      introPhoto = "/nasa/Yuxuan_Liu.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
