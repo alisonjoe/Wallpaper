@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "A woman with a floral hat at the RHS Chelsea Flower Show 2014 (© Bettina Strenske/Alamy Stock Photo)"
-      introSubtitle = "In the spring of 1862, a horticultural event began that would go on to become world famous—the Royal Horticultural Society (RHS) Chelsea Flower Show. Formally known as the Great Spring Show, it has flourished through the years, even surviving wartime interruptions. Today, it continues to be a symbol of excellence in the world of gardening. Starting today and running until May 25, a symphony of colours, textures and scents will greet people from all walks of life, including British royalty at the Royal Hospital Chelsea. The event spotlights the planet's premier garden designers, plant specialists and visionary florists. 2024's theme champions the heart of environmentalism, with displays emphasising sustainable beauty. So, are you 'growing' to the fest?"
-      introPhoto = "/bing/ChelseaFlowerUK.jpg"
+      introTitle = " CG4: The Globule and the Galaxy "
+      introSubtitle = "  Can a gas cloud eat a galaxy?  It's not even close.  The "claw" of this odd looking "creature" in the  is a gas cloud known as a . This globule, however, . Cometary  are typically characterized by  heads andelongated . These features cause cometary  to have visual similarities to s, but in reality they are very much different.  are frequently the birthplaces of stars, and many show very young  in their heads.The reason for the rupture in the head of  is not yet known.The  to the left of the globule is huge, very far in the distance, and only placed near  by ."
+      introPhoto = "/nasa/T._A._Rector.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
