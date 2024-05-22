@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = " CG4: The Globule and the Galaxy "
-      introSubtitle = "  Can a gas cloud eat a galaxy?  It's not even close.  The "claw" of this odd looking "creature" in the  is a gas cloud known as a . This globule, however, . Cometary  are typically characterized by  heads andelongated . These features cause cometary  to have visual similarities to s, but in reality they are very much different.  are frequently the birthplaces of stars, and many show very young  in their heads.The reason for the rupture in the head of  is not yet known.The  to the left of the globule is huge, very far in the distance, and only placed near  by ."
-      introPhoto = "/nasa/T._A._Rector.jpg"
+      introTitle = "印度星龟，斯里兰卡"
+      introSubtitle = "这才是真正的明星！印度星龟迈着自信而缓慢的脚步走进了大家的视野里。今天是世界海龟日！自2000年以来，美国龟类救援组织每年都会庆祝这一节日。那么陆龟和乌龟有什么区别呢？最大的区别在于陆龟是一种专门生活在陆地上的龟类，而乌龟则更喜欢水，可以在水中生活。"
+      introPhoto = "/bing/IndianStarTortoise.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
