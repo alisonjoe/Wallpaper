@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "印度星龟，斯里兰卡"
-      introSubtitle = "这才是真正的明星！印度星龟迈着自信而缓慢的脚步走进了大家的视野里。今天是世界海龟日！自2000年以来，美国龟类救援组织每年都会庆祝这一节日。那么陆龟和乌龟有什么区别呢？最大的区别在于陆龟是一种专门生活在陆地上的龟类，而乌龟则更喜欢水，可以在水中生活。"
-      introPhoto = "/bing/IndianStarTortoise.jpg"
+      introTitle = "阿尼斯克洛峡谷，奥德萨和佩尔迪多山国家公园，韦斯卡，西班牙"
+      introSubtitle = "今天是欧洲公园日！1909年的今天，欧洲最早的九个国家公园在瑞典成立。今年的庆祝活动聚焦于保护区在制定和实施自然政策方面的重要作用。此外，庆祝活动还强调了保护区如何为欧洲公民建设一个可持续发展和具有复原力的社会做出贡献。从本质上讲，这些地区不仅仅是生物多样性的守护者；它们也是我们集体福祉的支柱，提醒我们保护自然遗产。"
+      introPhoto = "/bing/OrdesaNationalPark.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
