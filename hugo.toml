@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Alhambra de Granada, España (© SCStock/iStock/Getty Images Plus)"
-      introSubtitle = "Descubre la magia de Granada en Andalucía, una ciudad repleta de historia, cultura y arte. Respira la brisa de Sierra Nevada y, al caer la noche, contempla el reflejo de las estrellas en los palacios de la Alhambra (fortaleza roja en árabe). Estos palacios de antiguos emires y monarcas, cuya belleza y complejidad arquitectónica seduce a viajeros con sus vibrantes azulejos y jardines parecen sacados de cuentos de hadas. Entre jardines del Generalife y las íntimas callejuelas del Albaicín, el pasado cobra vida ante los ojos del turista."
-      introPhoto = "/bing/CorpusChristiGranada.jpg"
+      introTitle = "Um trabalhador peneira grãos de café na fazenda de café Camocim em Domingos Martins, Espírito Santo (© Carl de Souza/Getty Images)"
+      introSubtitle = "have no desc"
+      introPhoto = "/bing/DiaNacionaldoCafe.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
