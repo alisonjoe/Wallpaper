@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = " Unraveling NGC 3169 "
-      introSubtitle = "  Spiral galaxy NGC 3169 looks to be unraveling like a ball of cosmicyarn.It lies some 70 million light-years away,bright star Regulus toward the faint constellation Sextans.Wound up spiral arms are pulled out into sweeping tidaltails as NGC 3169 (left) and neighboring NGC 3166.Eventually the galaxies will merge into one,a common fate even for bright galaxies in.Drawn out stellar arcs and plumes are clearindications of the ongoing gravitational interactionsacross the deep and colorful photo.spans about 20 arc minutes or about 400,000 light-yearsat the group's estimated distance, and includes smaller, bluish NGC 3165to the right.NGC 3169 is also known to shine across the spectrum fromradio to X-rays,an active galactic nucleus that is thesite of a supermassive black hole."
-      introPhoto = "/nasa/Aziz_Kaeouach.jpg"
+      introTitle = "阿伊特本哈杜，摩洛哥"
+      introSubtitle = "你在寻找沙地的魅力吗？来摩洛哥的阿伊特本哈杜吧，它位于连接撒哈拉和马拉喀什的古商道上。这个被联合国教科文组织列为世界遗产的地方展示了摩洛哥的粘土建筑，这是一种用晒干的泥土建造建筑的技术。虽然这里的建筑据说都不是17世纪以前建造的，但它们采用的技术和风格却比17世纪还要古老得多。在俯瞰乌尼拉河的缓坡上，就有一个由泥砖结构组成的阿伊特本哈杜防御村庄。阿伊特本哈杜筑垒村的公共景观包括一个公共广场、一座清真寺、防御区外的打谷场和一个商队客栈，以及其他特色景观。如果你正在寻求一次与众不同的旅程，阿伊特本哈杜正在等着你！"
+      introPhoto = "/bing/MoroccoBenhaddou.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
