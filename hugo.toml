@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Elbsandsteingebirge und Basteibrücke im Nationalpark Sächsische Schweiz, Sachsen (© Harald Nachtmann/Getty Images)"
-      introSubtitle = "In den frühen Morgenstunden hüllt der Nebel die Bäume des Elbsandsteingebirges in einen geheimnisvollen Schleier. Zwischen den schweigenden Ästen erwacht langsam die Welt in einem stillen, zauberhaften Tanz aus Licht und Schatten. Herzlich willkommen in der Sächsischen Schweiz. Erleben Sie diesen magischen Ort, eine märchenhafte Landschaft, die schon vor Jahrhunderten Maler wie Caspar David Friedrich und Adrian Ludwig Richter inspirierte. Kein Wunder bei diesem Anblick. Mitten im Gebirge führt eine steinerne Brücke über schroffe Felswände."
-      introPhoto = "/bing/ElbeSandstone.jpg"
+      introTitle = "Monte Carlo au crépuscule, Monaco (©  StockByM/Getty Images)"
+      introSubtitle = "Depuis 1929, le Grand Prix de Monaco fascine le monde entier. Cet événement s'est hissé au sommet du sport automobile. Le circuit, au cœur de la principauté, s'étire sur 3,367 km, témoin d'une histoire riche en émotions. La première course, avec ses 16 intrépides pilotes, vibrait à 80,194 km/h. Depuis, le tracé a évolué, mais l'esprit de compétition persiste. Aujourd'hui, 78 tours suffisent à écrire la légende."
+      introPhoto = "/bing/MonacoGP.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
