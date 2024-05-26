@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Airavatesvara Temple at Darasuram, Tamil Nadu, built by Chola kings (© Narayan Kumar Photography/Shutterstock)"
-      introSubtitle = "Within the Thanjavur District of Tamil Nadu, tucked away amidst the tranquil landscapes of Darasuram, Kumbakonam, is a hidden gem of Dravidian architecture—the Airavatesvara Temple. This Hindu sanctuary, constructed under the patronage of Chola Emperor Rajaraja II during the 12th century CE, holds the esteemed status of being a UNESCO World Heritage Site. This sacred site pays homage to the traditions of Shaktism and Vaishnavism, along with Shaivism."
-      introPhoto = "/bing/ShivaDarasuram.jpg"
+      introTitle = "Bébé tortue olivâtre quittant le nid pour rejoindre l'océan, plage de Remire-Montjoly, Cayenne, Guyanne (© Brusini Aurélien/hemis.fr)"
+      introSubtitle = "La tortue olivâtre tire son nom de la couleur vert olive de sa carapace et de sa peau. Elle est la deuxième plus petite tortue marine après la tortue de Kemp. Mesurant entre 50 et 75 cm et pesant environ 45 kg, elle possède une dossière légèrement bombée et des bords de carapace retournés."
+      introPhoto = "/bing/Guiana.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
