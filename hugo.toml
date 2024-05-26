@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = " Manicouagan Impact Crater from Space "
-      introSubtitle = "  Orbiting 400 kilometers above Quebec, Canada, planet Earth, theInternational Space Stationthis snapshot of the broadSt. Lawrence River and curiously circular Lake Manicouagan on April 11.Right of center, the ring-shaped lake is awithin the eroded remnant of an ancient 100 kilometerdiameter impact crater.The ancient crater is very,a visible reminder that Earth is vulnerable to.Over 200 million years old, the Manicouagan crater waslikely caused by the impact of a rocky body about5 kilometers in diameter.Each month,Coordination Officefeaturing the most recent figures onnear-Earth object close approaches, and otherfacts about comets and asteroids that could pose a potential impacthazard with Earth."
-      introPhoto = "/nasa/Expedition_59.jpg"
+      introTitle = "塞斯特里莱万特的沉默湾，利古里亚大区，意大利"
+      introSubtitle = "日落时分，塞斯特里莱万特城镇仿佛渲染了一层柔光，美得就像一幅画。这颗隐藏在东利古里亚里维埃拉海岸的明珠，以其自然美景和可追溯至罗马时代的历史遗产吸引了无数游客。该镇位于波托菲诺和五渔村之间，拥有令人惊叹的风景和海滩，如沉默湾、童话湾，后者与安徒生以及“小美人鱼”的传说有着奇妙的关联。美丽的蓬塔马纳拉自然公园和古老的中世纪街道则能带给游客另一种独特的体验，它们的存在使塞斯特里莱万特成为一个拥有罕见美景和历史魅力的目的地。"
+      introPhoto = "/bing/SestriLevante.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
