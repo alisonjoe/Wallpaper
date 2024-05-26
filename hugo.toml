@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Monte Carlo au crépuscule, Monaco (©  StockByM/Getty Images)"
-      introSubtitle = "Depuis 1929, le Grand Prix de Monaco fascine le monde entier. Cet événement s'est hissé au sommet du sport automobile. Le circuit, au cœur de la principauté, s'étire sur 3,367 km, témoin d'une histoire riche en émotions. La première course, avec ses 16 intrépides pilotes, vibrait à 80,194 km/h. Depuis, le tracé a évolué, mais l'esprit de compétition persiste. Aujourd'hui, 78 tours suffisent à écrire la légende."
-      introPhoto = "/bing/MonacoGP.jpg"
+      introTitle = " Manicouagan Impact Crater from Space "
+      introSubtitle = "  Orbiting 400 kilometers above Quebec, Canada, planet Earth, theInternational Space Stationthis snapshot of the broadSt. Lawrence River and curiously circular Lake Manicouagan on April 11.Right of center, the ring-shaped lake is awithin the eroded remnant of an ancient 100 kilometerdiameter impact crater.The ancient crater is very,a visible reminder that Earth is vulnerable to.Over 200 million years old, the Manicouagan crater waslikely caused by the impact of a rocky body about5 kilometers in diameter.Each month,Coordination Officefeaturing the most recent figures onnear-Earth object close approaches, and otherfacts about comets and asteroids that could pose a potential impacthazard with Earth."
+      introPhoto = "/nasa/Expedition_59.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
