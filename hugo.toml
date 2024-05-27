@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Field of flags set up for Memorial Day (© Andrew Seegmiller/Getty Images)"
-      introSubtitle = "Today, as we observe Memorial Day, we pay tribute to the courageous individuals who gave their lives to defend our nation and uphold its values. The origins of this day date back to the 1860s, in the years following the Civil War and the first national observance was held in 1868. However, one of the earliest accounts is from October 1864, when three women in Boalsburg, Pennsylvania, placed flowers at the graves of two Union soldiers. They decided to decorate the graves of all the fallen soldiers and returned to do the same the following year."
-      introPhoto = "/bing/MemorialFlags.jpg"
+      introTitle = "Mingan Archipelago National Park Reserve, Quebec, Canada (© Instants/E+/Getty Images)"
+      introSubtitle = "Set sail through time and explore the Mingan Archipelago National Park Reserve. Surrounded by the waters of the Gulf of Saint Lawrence, this cluster of over 2,000 islands and islets is spread across the rugged coast of Quebec's Côte-Nord. In the archipelago, limestone monoliths have been carved by the persistent hands of erosion for aeons. The reserve was established in 1984, offering sanctuary not just to these geological wonders, but also to a rich tapestry of biodiversity. While here, travellers can spot nearly 200 species of birds, like bald eagles, common eider and terns, while feeling the stoic gaze of Atlantic puffins following them, making it a haven for birdwatchers. Come and enjoy the beauty of Mingan Archipelago National Park Reserve, where the whispers of history ride the salty sea breeze."
+      introPhoto = "/bing/MinganArchipelago.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
