@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "罗萨诺修道院，迈泰奥拉，色萨利 ，希腊"
-      introSubtitle = "一提到希腊，您可能会想到大海、沙滩、白色的建筑和蓝色的圆顶。然而，这个国家的宝藏景点可不止这些。今天的图片展示的是罗萨诺修道院，它坐落于希腊北部色萨利的迈泰奥拉（一个砂岩峰林地区），四周是高耸的悬崖。相传在14世纪，一群僧侣为了躲避政治纷争来到了这里，他们攀爬悬崖，在上面建立起了修道院。如今，在迈泰奥拉联合国教科文组织世界遗产区内还有6座仅存的修道院，而罗萨诺修道院便是其中之一。如果您攀爬上去，将会看到令人惊叹的自然美景，不过，真正的“宝藏”在修道院的内部：一个拜占庭艺术和建筑的世界。这种艺术风格起源于东罗马帝国（也被称为拜占庭帝国），该帝国从公元4世纪持续到1453年君士坦丁堡的陷落，而这一时期的艺术便被人们称为：拜占庭艺术。"
-      introPhoto = "/bing/MeteoraMonastery.jpg"
+      introTitle = "Field of flags set up for Memorial Day (© Andrew Seegmiller/Getty Images)"
+      introSubtitle = "Today, as we observe Memorial Day, we pay tribute to the courageous individuals who gave their lives to defend our nation and uphold its values. The origins of this day date back to the 1860s, in the years following the Civil War and the first national observance was held in 1868. However, one of the earliest accounts is from October 1864, when three women in Boalsburg, Pennsylvania, placed flowers at the graves of two Union soldiers. They decided to decorate the graves of all the fallen soldiers and returned to do the same the following year."
+      introPhoto = "/bing/MemorialFlags.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
