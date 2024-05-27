@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Bébé tortue olivâtre quittant le nid pour rejoindre l'océan, plage de Remire-Montjoly, Cayenne, Guyanne (© Brusini Aurélien/hemis.fr)"
-      introSubtitle = "La tortue olivâtre tire son nom de la couleur vert olive de sa carapace et de sa peau. Elle est la deuxième plus petite tortue marine après la tortue de Kemp. Mesurant entre 50 et 75 cm et pesant environ 45 kg, elle possède une dossière légèrement bombée et des bords de carapace retournés."
-      introPhoto = "/bing/Guiana.jpg"
+      introTitle = " A Solar Filament Erupts "
+      introSubtitle = "  What's happened to our Sun? Nothing very unusual -- it just .Toward the middle of 2012, a  standing  suddenly erupted into space, producing an energetic  (CME).  had been held up for days by the Sun's ever changing  and the timing of the eruption was . by the Sun-orbiting Solar Dynamics Observatory, the resulting   electrons and ions into the Solar System, some of which arrived at Earth three days later and impacted Earth's , causing visible .Loops of plasma surrounding the  can be seen above the erupting filament in   image.Our Sun is nearing the  time in its , creating many  that allow for the ejection of  into space.As before, these charged particles can .  "
+      introPhoto = "/nasa/GSFC.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
