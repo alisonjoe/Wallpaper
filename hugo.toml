@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Second-hand books at the Hay Festival, Hay-on-Wye, Wales (© Christopher Furlong/Staff/Getty Images News)"
-      introSubtitle = "Are you ready for a world of words and wonder? The Hay Festival is back in the Welsh town of Hay-on-Wye from 23 May to 2 June. Since 1962, the 'Town of Books' has housed an ever-growing number of bookshops, leading to its legendary status among bibliophiles. It is within this literary haven that the Hay Festival, a ten-day celebration of literature and the arts unfolds, drawing minds eager for intellectual nourishment. Conceived by British festival director Peter Florence and his parents Norman and Rhoda in 1988, the event transcends mere book fairs. This event has hosted a pantheon of literary personalities, from Ian McEwan to Hilary Mantel, alongside chart-topping comedians and razor-sharp minds from the sciences and politics. The inclusion of the children's festival 'Hay Fever' ensures the flame of curiosity ignites early, sparking young imaginations. So, booked it yet?"
-      introPhoto = "/bing/HayFestival2024.jpg"
+      introTitle = "Réserve du parc national de l'Archipel-de-Mingan, Québec, Canada (© Instants/E+/Getty Images)"
+      introSubtitle = "Embarquez pour un voyage à travers le temps et explorez la réserve du parc national de l'Archipel-de-Mingan. Niché au cœur des eaux du golfe du Saint-Laurent, cet ensemble de plus de 2 000 îles et îlots s'étend le long de la côte accidentée de la Côte-Nord du Québec. Dans l'archipel, des monolithes de calcaire ont été façonnés par les forces persistantes de l'érosion pendant des siècles. La réserve, créée en 1984, offre un refuge non seulement à ces merveilles géologiques, mais aussi à une biodiversité riche et variée."
+      introPhoto = "/bing/MinganArchipelago.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
