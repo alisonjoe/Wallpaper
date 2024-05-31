@@ -1,14 +1,14 @@
 ---
 author: "AlisonLai"
-title: 虹色に輝くサンフランシスコ市庁舎, 米国 カリフォルニア州 (© Josh Edelson/AFP via Getty Images)
-date: 2024-06-01T06:00:30+0800
+title: Ayuntamiento de San Francisco iluminado con el arcoíris en honor al mes del Orgullo, California, EE.UU. (© Josh Edelson/AFP via Getty Images)
+date: 2024-06-01T06:01:49+0800
 description: ""
-tags: ["今月はプライド月間"]
+tags: ["Orgullo sin prejuicio"]
 copyright: © Josh Edelson/AFP via Getty Images
 thumbnail: /bing/PrideMonthSF.jpg
 ---
 图文来源自：bing.  copyright: © Josh Edelson/AFP via Getty Images
 
-毎年 6 月はプライド月間。世界中で LGBTQIA+ の権利を啓発するさまざまなイベントが開催されます。多くの都市でパレードが行われ、街は LGBTQIA+ の象徴である虹色に彩られます。ここ、米国、サンフランシスコの市庁舎も虹色にライトアップされています…
+Junio es el Mes del Orgullo que conmemora el levantamiento de Stonewall, una serie de protestas de la comunidad LGBTQIA+ que tuvieron lugar el 28 de junio de 1969 en respuesta a una redada policial en Stonewall Inn, Greenwich Village, Nueva York. En junio se celebran en todo el mundo diversos actos para honrar y conmemorar a la comunidad LGBTQIA+, su historia, sus logros y su lucha constante por la igualdad. Este mes, vibrantes desfiles salen a las calles y los edificios se iluminan con los colores del arcoíris, símbolo de los movimientos sociales LGBTQIA+, en numerosas ciudades para elogiar la libertad para todos. La primera marcha del Orgullo en España se celebró en 1977 en Barcelona. En 2005, con la aprobación del matrimonio igualitario, 2 millones de personas participaron en la marcha a nivel estatal.
 
 ![PrideMonthSF](/bing/PrideMonthSF.jpg)

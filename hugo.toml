@@ -11,8 +11,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "虹色に輝くサンフランシスコ市庁舎, 米国 カリフォルニア州 (© Josh Edelson/AFP via Getty Images)"
-      introSubtitle = "毎年 6 月はプライド月間。世界中で LGBTQIA+ の権利を啓発するさまざまなイベントが開催されます。多くの都市でパレードが行われ、街は LGBTQIA+ の象徴である虹色に彩られます。ここ、米国、サンフランシスコの市庁舎も虹色にライトアップされています…"
+      introTitle = "Ayuntamiento de San Francisco iluminado con el arcoíris en honor al mes del Orgullo, California, EE.UU. (© Josh Edelson/AFP via Getty Images)"
+      introSubtitle = "Junio es el Mes del Orgullo que conmemora el levantamiento de Stonewall, una serie de protestas de la comunidad LGBTQIA+ que tuvieron lugar el 28 de junio de 1969 en respuesta a una redada policial en Stonewall Inn, Greenwich Village, Nueva York. En junio se celebran en todo el mundo diversos actos para honrar y conmemorar a la comunidad LGBTQIA+, su historia, sus logros y su lucha constante por la igualdad. Este mes, vibrantes desfiles salen a las calles y los edificios se iluminan con los colores del arcoíris, símbolo de los movimientos sociales LGBTQIA+, en numerosas ciudades para elogiar la libertad para todos. La primera marcha del Orgullo en España se celebró en 1977 en Barcelona. En 2005, con la aprobación del matrimonio igualitario, 2 millones de personas participaron en la marcha a nivel estatal."
       introPhoto = "/bing/PrideMonthSF.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
