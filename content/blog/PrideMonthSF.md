@@ -1,14 +1,14 @@
 ---
 author: "AlisonLai"
-title: Ayuntamiento de San Francisco iluminado con el arcoíris en honor al mes del Orgullo, California, EE.UU. (© Josh Edelson/AFP via Getty Images)
-date: 2024-06-01T06:01:49+0800
+title: Le Civic Center illuminé pour la San Francisco Pride, Californie, États-Unis (© Josh Edelson/AFP via Getty Images)
+date: 2024-06-01T06:02:19+0800
 description: ""
-tags: ["Orgullo sin prejuicio"]
+tags: ["Porter haut l'étendard de la Fierté"]
 copyright: © Josh Edelson/AFP via Getty Images
 thumbnail: /bing/PrideMonthSF.jpg
 ---
 图文来源自：bing.  copyright: © Josh Edelson/AFP via Getty Images
 
-Junio es el Mes del Orgullo que conmemora el levantamiento de Stonewall, una serie de protestas de la comunidad LGBTQIA+ que tuvieron lugar el 28 de junio de 1969 en respuesta a una redada policial en Stonewall Inn, Greenwich Village, Nueva York. En junio se celebran en todo el mundo diversos actos para honrar y conmemorar a la comunidad LGBTQIA+, su historia, sus logros y su lucha constante por la igualdad. Este mes, vibrantes desfiles salen a las calles y los edificios se iluminan con los colores del arcoíris, símbolo de los movimientos sociales LGBTQIA+, en numerosas ciudades para elogiar la libertad para todos. La primera marcha del Orgullo en España se celebró en 1977 en Barcelona. En 2005, con la aprobación del matrimonio igualitario, 2 millones de personas participaron en la marcha a nivel estatal.
+En juin, nous honorons le Mois des Fiertés, commémorant le soulèvement de Stonewall du 28 juin 1969, un jalon décisif pour les minorités sexuelles et de genre, connues sous le sigle LGBT, LGBTQIA+ et MOGAI. Cet événement historique fait écho aux protestations qui ont surgi suite à une descente de police à l’auberge Stonewall, dans le Greenwich Village de New York aux États-Unis. Partout dans le monde, le mois de juin est ponctué de manifestations célébrant la communauté LGBTQIA+, sa riche histoire, ses nombreuses victoires et sa lutte incessante pour l’égalité.
 
 ![PrideMonthSF](/bing/PrideMonthSF.jpg)
