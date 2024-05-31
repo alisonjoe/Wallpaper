@@ -11,8 +11,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Das Rathaus von San Francisco erstrahlt in Regenbogenfarben anlässlich der Pride, Kalifornien, USA (© Josh Edelson/AFP via Getty Images)"
-      introSubtitle = "Juni ist der Pride-Monat und erinnert an den Stonewall-Aufstand, eine Reihe von Protesten der LGBTQIA+-Gemeinschaft, die am 28. Juni 1969 als Reaktion auf eine Polizeirazzia im Stonewall Inn in Greenwich Village in New York City stattfanden. Im Juni finden weltweit verschiedene Veranstaltungen statt, um die LGBTQIA+-Gemeinschaft, ihre Geschichte, ihre Erfolge und ihr ständiges Streben nach Gleichberechtigung zu ehren und zu feiern. In diesem Monat finden in zahlreichen Städten farbenfrohe Paraden statt und Gebäude erleuchten in den Farben des Regenbogens - dem Symbol der sozialen LGBTQIA+-Bewegungen - um die Freiheit für alle zu feiern."
+      introTitle = "San Francisco City Hall lit up in rainbow lights for Pride, California (© Josh Edelson/AFP via Getty Images)"
+      introSubtitle = "June is Pride Month, commemorating the Stonewall uprising, a series of protests by the LGBTQIA+ community that took place on June 28, 1969, in response to a police raid at the Stonewall Inn in Greenwich Village in New York City. Various events around the world are held in June to honour and celebrate the LGBTQIA+ community, their history, achievements and ongoing pursuit for equality. This month, vibrant parades hit the streets and buildings light up in the colours of the rainbow—a symbol of the LGBTQIA+ social movements—in numerous cities to praise freedom for all."
       introPhoto = "/bing/PrideMonthSF.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
