@@ -11,8 +11,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Le Civic Center illuminé pour la San Francisco Pride, Californie, États-Unis (© Josh Edelson/AFP via Getty Images)"
-      introSubtitle = "En juin, nous honorons le Mois des Fiertés, commémorant le soulèvement de Stonewall du 28 juin 1969, un jalon décisif pour les minorités sexuelles et de genre, connues sous le sigle LGBT, LGBTQIA+ et MOGAI. Cet événement historique fait écho aux protestations qui ont surgi suite à une descente de police à l’auberge Stonewall, dans le Greenwich Village de New York aux États-Unis. Partout dans le monde, le mois de juin est ponctué de manifestations célébrant la communauté LGBTQIA+, sa riche histoire, ses nombreuses victoires et sa lutte incessante pour l’égalité."
+      introTitle = "Il centro civico di San Francisco illuminato con luci arcobaleno per il Pride, California, USA (© Josh Edelson/AFP via Getty Images)"
+      introSubtitle = "have no desc"
       introPhoto = "/bing/PrideMonthSF.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
