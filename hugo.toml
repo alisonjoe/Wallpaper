@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "普卢马纳克的灯塔，阿摩尔滨海省，法国"
-      introSubtitle = "布列塔尼阿摩尔滨海省的粉红色花岗岩海岸线是世界上独一无二的景点。它绵延约十公里，穿过特雷伯当、特雷加斯泰勒和佩罗斯-吉雷克等市镇。这些花岗岩石形成于近3亿年前，它们从岩浆腔中慢慢冷却而成，并富含外来矿物质。与科西嘉岛或中国等其他类似的海岸不同，这片海岸的特点是矿物杂乱无章，巨石层层叠叠，或在侵蚀作用下形成柔和的圆角结构。"
-      introPhoto = "/bing/MenRuz.jpg"
+      introTitle = "Scenery around Hampi, Karnataka (© Holly Barber/Alamy Stock Photo)"
+      introSubtitle = "Shrouded in the mists of time, lies Karnataka's ancient gem—Hampi. A UNESCO World Heritage Site situated in Hampi City, in the present day Vijayanagara district, it is also referred to as the Group of Monuments at Hampi. The city was the last capital of the renowned Vijayanagara empire, and its affluent rulers constructed magnificent temples and palaces here during the 14th and 16th centuries. The region is marked by the presence of the Tungabhadra River, expansive plains and rugged hill ranges including Matanga hill. The complexity and advancement of Hampi's diverse urban, royal and religious structures are showcased in over 1600 well-preserved remnants. Some of them are Krishna temple, Narasimha, Ganesa, Hemakuta group of temples, Achyutaraya temple, Vitthala temple, Pattabhirama temple complex, Lotus Mahal and more. So don't miss the chance to explore its fascinating archaeological treasures!"
+      introPhoto = "/bing/IndiaHampi.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
