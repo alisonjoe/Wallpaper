@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "みなとみらい 21 地区, 神奈川県 横浜市 (© SeanPavonePhoto/Getty Images)"
-      introSubtitle = "今日 6 月 2 日は横浜開港記念日。江戸時代、200 年以上鎖国していた日本は、1858 年に締結した日米修好通商条約によって開国しました。そして翌年の 7 月 1 日（安政 6 年 6 月 2 日）、横浜港が開港し世界へと扉を開きました…"
-      introPhoto = "/bing/YokohamaPort2024.jpg"
+      introTitle = "Festa della Repubblica (© Independent Photo Agency Srl)"
+      introSubtitle = "have no desc"
+      introPhoto = "/bing/ItalyFlag.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
