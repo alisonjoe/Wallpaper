@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "San Francisco City Hall lit up in rainbow lights for Pride, California (© Josh Edelson/AFP via Getty Images)"
-      introSubtitle = "June is Pride Month, commemorating the Stonewall uprising, a series of protests by the LGBTQIA+ community that took place on June 28, 1969, in response to a police raid at the Stonewall Inn in Greenwich Village in New York City. Various events around the world are held in June to honour and celebrate the LGBTQIA+ community, their history, achievements and ongoing pursuit for equality. This month, vibrant parades hit the streets and buildings light up in the colours of the rainbow—a symbol of the LGBTQIA+ social movements—in numerous cities to praise freedom for all."
-      introPhoto = "/bing/PrideMonthSF.jpg"
+      introTitle = "普卢马纳克的灯塔，阿摩尔滨海省，法国"
+      introSubtitle = "布列塔尼阿摩尔滨海省的粉红色花岗岩海岸线是世界上独一无二的景点。它绵延约十公里，穿过特雷伯当、特雷加斯泰勒和佩罗斯-吉雷克等市镇。这些花岗岩石形成于近3亿年前，它们从岩浆腔中慢慢冷却而成，并富含外来矿物质。与科西嘉岛或中国等其他类似的海岸不同，这片海岸的特点是矿物杂乱无章，巨石层层叠叠，或在侵蚀作用下形成柔和的圆角结构。"
+      introPhoto = "/bing/MenRuz.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
