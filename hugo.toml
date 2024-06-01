@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Scenery around Hampi, Karnataka (© Holly Barber/Alamy Stock Photo)"
-      introSubtitle = "Shrouded in the mists of time, lies Karnataka's ancient gem—Hampi. A UNESCO World Heritage Site situated in Hampi City, in the present day Vijayanagara district, it is also referred to as the Group of Monuments at Hampi. The city was the last capital of the renowned Vijayanagara empire, and its affluent rulers constructed magnificent temples and palaces here during the 14th and 16th centuries. The region is marked by the presence of the Tungabhadra River, expansive plains and rugged hill ranges including Matanga hill. The complexity and advancement of Hampi's diverse urban, royal and religious structures are showcased in over 1600 well-preserved remnants. Some of them are Krishna temple, Narasimha, Ganesa, Hemakuta group of temples, Achyutaraya temple, Vitthala temple, Pattabhirama temple complex, Lotus Mahal and more. So don't miss the chance to explore its fascinating archaeological treasures!"
-      introPhoto = "/bing/IndiaHampi.jpg"
+      introTitle = "みなとみらい 21 地区, 神奈川県 横浜市 (© SeanPavonePhoto/Getty Images)"
+      introSubtitle = "今日 6 月 2 日は横浜開港記念日。江戸時代、200 年以上鎖国していた日本は、1858 年に締結した日米修好通商条約によって開国しました。そして翌年の 7 月 1 日（安政 6 年 6 月 2 日）、横浜港が開港し世界へと扉を開きました…"
+      introPhoto = "/bing/YokohamaPort2024.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
