@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Festa della Repubblica (© Independent Photo Agency Srl)"
-      introSubtitle = "have no desc"
-      introPhoto = "/bing/ItalyFlag.jpg"
+      introTitle = " Stereo Helene "
+      introSubtitle = "  Get out yourred/blue glasses and float next to Helene,small, icy moon of Saturn.is a Trojan moon, so called because it orbits at a.A Lagrange point is a gravitationally stable positionnear two massive bodies, in this case.In fact, irregularly shaped ( about 36 by 32 by 30 kilometers)Helene orbits at Dione's leading Lagrange point whilebrotherly ice moon Polydeuces follows at Dione's trailing Lagrangepoint. was constructed from twoCassini images captured during in 2011.It shows part of the Saturn-facing hemisphere of Helenemottled with craters and gully-like features."
+      introPhoto = "/nasa/ISS.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
