@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Flowers blooming in a garden, Alaska (© jet 67/Shutterstock)"
-      introSubtitle = "It's time to grab a trowel, roll up your sleeves, and get planting: National Gardening Week is starting today! Taking place in the first full week of June, this event was created by the National Garden Clubs, a nonprofit organization dedicated to the joys of horticulture. First celebrated in 1987 this week is all about getting more people involved in gardening and spreading awareness of how important gardens are. Being home to a wide range of trees, flowers, shrubs, and grasses, gardens can help the environment by absorbing carbon dioxide, filtering water, and encouraging insect life. Gardening clubs across the country celebrate this week by organizing workshops, visiting public gardens, or placing plants at public facilities. They're also great for people; tending to a garden is good exercise, and being outside in the sunshine is a great way to get more vitamin D. Gardening can even boost your mood, helping you to feel more relaxed and peaceful."
-      introPhoto = "/bing/GardenWeek.jpg"
+      introTitle = "Colibri d'Anna femelle, Canada (© Devonyu/iStock/Getty Images)"
+      introSubtitle = "Rencontrez ce petit acrobate à plumes, le colibri d’Anna! Il a été nommé ainsi en l’honneur d’Anna de Belle Massena, duchesse de Rivoli. Ces oiseaux sont présents au Canada toute l’année, car ils sont capables de braver les climats plus frais et de ralentir leur métabolisme, un phénomène connu sous le nom de torpeur."
+      introPhoto = "/bing/Annahummingbird.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"

@@ -1,14 +1,14 @@
 ---
 author: "AlisonLai"
-title: Female Anna's hummingbird, Canada (© Devonyu/iStock/Getty Images)
-date: 2024-06-03T06:01:03+0800
+title: Colibri d'Anna femelle, Canada (© Devonyu/iStock/Getty Images)
+date: 2024-06-03T06:01:54+0800
 description: ""
-tags: ["Small bird, big buzz!"]
+tags: ["Petit mais costaud!"]
 copyright: © Devonyu/iStock/Getty Images
 thumbnail: /bing/Annahummingbird.jpg
 ---
 图文来源自：bing.  copyright: © Devonyu/iStock/Getty Images
 
-Meet the tiny, feathered acrobat that flitters in the skies. Anna's hummingbird was named after a French courtier, Anna de Belle Massena, Duchess of Rivoli. We can enjoy the year-round presence of these birds in Canada since they can withstand cooler climates and are able to slow down their metabolism, a state known as torpor. Anna's hummingbirds, weighing less than a loonie, have a wingspan of 12 centimetres. They can beat their wings over 40-50 times per second, enabling them to hover and even fly backwards with ease.
+Rencontrez ce petit acrobate à plumes, le colibri d’Anna! Il a été nommé ainsi en l’honneur d’Anna de Belle Massena, duchesse de Rivoli. Ces oiseaux sont présents au Canada toute l’année, car ils sont capables de braver les climats plus frais et de ralentir leur métabolisme, un phénomène connu sous le nom de torpeur.
 
 ![Annahummingbird](/bing/Annahummingbird.jpg)
