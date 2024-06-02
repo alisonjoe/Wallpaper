@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = " Stereo Helene "
-      introSubtitle = "  Get out yourred/blue glasses and float next to Helene,small, icy moon of Saturn.is a Trojan moon, so called because it orbits at a.A Lagrange point is a gravitationally stable positionnear two massive bodies, in this case.In fact, irregularly shaped ( about 36 by 32 by 30 kilometers)Helene orbits at Dione's leading Lagrange point whilebrotherly ice moon Polydeuces follows at Dione's trailing Lagrangepoint. was constructed from twoCassini images captured during in 2011.It shows part of the Saturn-facing hemisphere of Helenemottled with craters and gully-like features."
-      introPhoto = "/nasa/ISS.jpg"
+      introTitle = "哥本哈根的自行车，丹麦"
+      introSubtitle = "德国发明家卡尔·冯·德雷斯于1817年发明了第一辆两轮车“德莱辛”。这辆车当然需要进一步的改善，因为木制车架和轮子没有脚踏板，需要依靠骑行者推动！现代版本的自行车是在19世纪后期开发出来的，但其所用的材料仍在不断地改进，以使骑行更轻松、更安全。所以，在世界自行车日，骑上自行车去找你的伙伴吧！"
+      introPhoto = "/bing/CopenhagenBicycles.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
