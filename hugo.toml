@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Jaswant Thada and Mehrangarh Fort in Jodhpur city in Rajasthan, India (© Jackyenjoyphotography/Getty Images)"
-      introSubtitle = "Looking for a taste of royal Rajasthan? Come to Jodhpur and witness the majestic duo of Jaswant Thada and Mehrangarh Fort! Perched atop a rocky hill towering over 122 metres above the plains, Mehrangarh Fort is among Rajasthan's largest forts. Constructed over a period of 500 years, starting in the mid-15th century, the fort showcases a diverse range of architectural styles spanning different epochs, even including elements from the 20th century. The fort boasts exquisite palaces and houses a museum with rare relics from Indian courtly life."
-      introPhoto = "/bing/JaswantThadaIN.jpg"
+      introTitle = "Female Anna's hummingbird, Canada (© Devonyu/iStock/Getty Images)"
+      introSubtitle = "Meet the tiny, feathered acrobat that flitters in the skies. Anna's hummingbird was named after a French courtier, Anna de Belle Massena, Duchess of Rivoli. We can enjoy the year-round presence of these birds in Canada since they can withstand cooler climates and are able to slow down their metabolism, a state known as torpor. Anna's hummingbirds, weighing less than a loonie, have a wingspan of 12 centimetres. They can beat their wings over 40-50 times per second, enabling them to hover and even fly backwards with ease."
+      introPhoto = "/bing/Annahummingbird.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
