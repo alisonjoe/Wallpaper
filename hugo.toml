@@ -11,8 +11,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Monumento Les Braves sulla spiaggia di Omaha, Normandia, Francia (© Christopher Furlong/Getty Images)"
-      introSubtitle = "have no desc"
+      introTitle = "Monument Les Braves à Omaha Beach, Saint-Laurent-sur-Mer, Normandie (© Christopher Furlong/Getty Images)"
+      introSubtitle = "Il y a quatre-vingts ans, les plages de Normandie ont été le théâtre d’un événement qui a redéfini l’histoire. Le 6 juin 1944, désormais connu comme le jour du débarquement de Normandie, a marqué le coup d’envoi de l’Opération Overlord. Cette invasion alliée audacieuse a constitué un tournant crucial de la Seconde Guerre mondiale, avec un assaut combiné par mer, air et terre mobilisant près de 160 000 soldats."
       introPhoto = "/bing/LesBravesNormandy.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
