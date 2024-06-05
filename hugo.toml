@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Les Braves monument on Omaha Beach, Normandy, France (© Christopher Furlong/Getty Images)"
-      introSubtitle = "Eighty years ago, on the beaches of Normandy, northern France, an event unfolded that would alter the course of history. This day on June 6, 1944, marked the launch of Operation Overlord, the ambitious Allied invasion that became a turning point in World War II. The audacious assault by sea, air and land involved nearly 160,000 troops."
-      introPhoto = "/bing/LesBravesNormandy.jpg"
+      introTitle = "Parque Nacional del Teide, Tenerife, España (© Santiago Urquijo/Moment/Getty Images)"
+      introSubtitle = "La Tenerife Bluetrail es la ultramaratón más alta de España, llena de paisajes increíbles y con muchos desafíos técnicos. Se lleva a cabo del 6 al 8 de junio y, uno de los tramos, atraviesa el Parque Nacional del Teide, asciende a La Rambleta y termina pasando por las orillas del mar en Puerto de la Cruz. Esta carrera ofrece diez modalidades distintas. La Tenerife Bluetrail atrae atletas de todo el mundo, siendo una de las diez mejores carreras de senderos de España y reconocido internacionalmente."
+      introPhoto = "/bing/TenerifeBluetrail.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
