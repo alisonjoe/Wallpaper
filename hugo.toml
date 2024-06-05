@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "オリックスの群れ, ボツワナ (© Karine Aigner/Tandem Stills + Motion)"
-      introSubtitle = "今日の画像はボツワナの広大なサバンナに暮らしているオリックスの群れ。ウシ科のレイヨウ類の一種で、ボツワナ以外にもナミビア、南アフリカ、ジンバブエの砂漠、草原に生息しており、飲み水がなくとも食べ物からの僅かな水分を糧に長期間生き延びることができます…"
-      introPhoto = "/bing/GemsbokBotswana.jpg"
+      introTitle = "Luftaufnahme der Rossfeld-Panoramastraße, Berchtesgaden, Deutschland (© DieterMeyrl/Getty Images)"
+      introSubtitle = "Das idyllische Berchtesgaden im Süden Bayerns ist ein Evergreen. Sowohl im Winter als auch im Sommer erwarten Sie hier unzählige Erlebnisse und Genüsse. Tauchen Sie ein in die sanfte Brise, die unter strahlend blauem Himmel über die grünen Hügel streicht. Folgen Sie den malerischen Wegen und Straßen, die sich wie ein Faden durch die Landschaft weben und lassen Sie sich von den verborgenen Schönheiten verführen, getreu der konfuzianischen Lebensweisheit „Der Weg ist das Ziel“."
+      introPhoto = "/bing/RossfeldRoad.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
