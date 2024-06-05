@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Parque Nacional del Teide, Tenerife, España (© Santiago Urquijo/Moment/Getty Images)"
-      introSubtitle = "La Tenerife Bluetrail es la ultramaratón más alta de España, llena de paisajes increíbles y con muchos desafíos técnicos. Se lleva a cabo del 6 al 8 de junio y, uno de los tramos, atraviesa el Parque Nacional del Teide, asciende a La Rambleta y termina pasando por las orillas del mar en Puerto de la Cruz. Esta carrera ofrece diez modalidades distintas. La Tenerife Bluetrail atrae atletas de todo el mundo, siendo una de las diez mejores carreras de senderos de España y reconocido internacionalmente."
-      introPhoto = "/bing/TenerifeBluetrail.jpg"
+      introTitle = "オリックスの群れ, ボツワナ (© Karine Aigner/Tandem Stills + Motion)"
+      introSubtitle = "今日の画像はボツワナの広大なサバンナに暮らしているオリックスの群れ。ウシ科のレイヨウ類の一種で、ボツワナ以外にもナミビア、南アフリカ、ジンバブエの砂漠、草原に生息しており、飲み水がなくとも食べ物からの僅かな水分を糧に長期間生き延びることができます…"
+      introPhoto = "/bing/GemsbokBotswana.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
