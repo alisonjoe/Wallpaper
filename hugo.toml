@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Luftaufnahme der Rossfeld-Panoramastraße, Berchtesgaden, Deutschland (© DieterMeyrl/Getty Images)"
-      introSubtitle = "Das idyllische Berchtesgaden im Süden Bayerns ist ein Evergreen. Sowohl im Winter als auch im Sommer erwarten Sie hier unzählige Erlebnisse und Genüsse. Tauchen Sie ein in die sanfte Brise, die unter strahlend blauem Himmel über die grünen Hügel streicht. Folgen Sie den malerischen Wegen und Straßen, die sich wie ein Faden durch die Landschaft weben und lassen Sie sich von den verborgenen Schönheiten verführen, getreu der konfuzianischen Lebensweisheit „Der Weg ist das Ziel“."
-      introPhoto = "/bing/RossfeldRoad.jpg"
+      introTitle = " Shadow of a Martian Robot "
+      introSubtitle = "  What if you saw your shadow on Mars and it wasn't human? Then you might be the  exploring . Perseverance has been examining the Red Planet since 2021,  of its complex  and , and sending  across the inner .  in February of 2024,  opposite the Sun and across Neretva Vallis in , with a  at the top of the frame.  The distinctively non-human shadow of the  is visible below center, superposed on . Perseverance, now working  its flying companion , continues Mars for . "
+      introPhoto = "/nasa/JPL-Caltech.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
