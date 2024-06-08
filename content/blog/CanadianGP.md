@@ -1,14 +1,14 @@
 ---
 author: "AlisonLai"
-title: Skyline du centre-ville de Montréal, Québec, Canada (© benedek/E+/Getty Images)
-date: 2024-06-09T06:01:20+0800
+title: Skyline of Downtown Montreal, Quebec, Canada (© benedek/E+/Getty Images)
+date: 2024-06-09T06:01:38+0800
 description: ""
-tags: ["Un Grand Prix mythique"]
+tags: ["Lap after lap"]
 copyright: © benedek/E+/Getty Images
 thumbnail: /bing/CanadianGP.jpg
 ---
 图文来源自：bing.  copyright: © benedek/E+/Getty Images
 
-Préparez-vous à l’adrénaline du Grand Prix du Canada à Montréal, un événement phare de la F 1 sur le Circuit Gilles-Villeneuve. Baptisé en l’honneur du célèbre pilote canadien, ce circuit est imprégné d’histoire, avec des moments mémorables tels que la première victoire de Lewis Hamilton en 2007 et Jacques Villeneuve honorant la mémoire de son père.
+Rev up your spirits because the Canadian Grand Prix is shifting into high gear! This Formula One showdown is all set to bring a rush of adrenaline to the Circuit Gilles Villeneuve in Montreal. Named after Canada's homegrown racing hero Gilles Villeneuve, the track has witnessed legendary moments, like Lewis Hamilton's maiden win in 2007, and Jacques Villeneuve racing across his father's namesake circuit. Each lap around the 4.361-kilometre circuit is as unpredictable as it is thrilling, with drivers navigating 70 laps with 14 turns each, including the infamous 'Wall of Champions'—a spot where many racing legends, like Michael Schumacher, have faced hardships.
 
 ![CanadianGP](/bing/CanadianGP.jpg)
