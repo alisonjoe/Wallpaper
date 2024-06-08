@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Skyline of Downtown Montreal, Quebec, Canada (© benedek/E+/Getty Images)"
-      introSubtitle = "Rev up your spirits because the Canadian Grand Prix is shifting into high gear! This Formula One showdown is all set to bring a rush of adrenaline to the Circuit Gilles Villeneuve in Montreal. Named after Canada's homegrown racing hero Gilles Villeneuve, the track has witnessed legendary moments, like Lewis Hamilton's maiden win in 2007, and Jacques Villeneuve racing across his father's namesake circuit. Each lap around the 4.361-kilometre circuit is as unpredictable as it is thrilling, with drivers navigating 70 laps with 14 turns each, including the infamous 'Wall of Champions'—a spot where many racing legends, like Michael Schumacher, have faced hardships."
-      introPhoto = "/bing/CanadianGP.jpg"
+      introTitle = "Atardecer en Murcia, España (© Medvedkov/iStock/Getty Images Plus)"
+      introSubtitle = "El 9 de junio se celebra el Día de la Región de Murcia. Fue el día que Murcia obtuvo su autonomía plena convirtiéndose en comunidad autónoma de España en 1982. Esta región tiene riqueza cultural y artística del Renacimiento y el Barroco que se puede apreciar por toda la comunidad. Se celebra con una variedad de actividades como desfiles, actividades culturales, muestras gastronómicas y visitas a lugares emblemáticos. Todo esto refleja la cultura, la tradición y los logros de la comunidad."
+      introPhoto = "/bing/RegionMurciaDay.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
