@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "European hare, West Midlands, England (© Jake Stephen/Moment/Getty Images)"
-      introSubtitle = "Springtime brings a whirlwind of activity across the European meadows. The European or brown hare bursts into a frenzy of what is dubbed 'March madness.' Britain's fastest land mammals become a captivating sight, chasing and 'boxing' in the fields. Native to Europe and parts of Asia, these hares' tawny coat is perfect camouflage for the temperate, open landscapes they favour. Their diet of grasses and herbs, and in winter, twigs and bark, fuels their remarkable bursts of speed, essential for outrunning predators. Unlike their burrow-dwelling rabbit cousins, hares bear their young, known as leverets, above ground. From birth, these youngsters are on the move—furry, wide-eyed and precociously active."
-      introPhoto = "/bing/SummerJuneHare.jpg"
+      introTitle = "Kloster Kamp mit Terrassengarten und Klosterbarockgarten, Kamp-Lintfort, Niederrhein (© Hans Blossey/Alamy)"
+      introSubtitle = "Haben Sie einen grünen Daumen? Wussten Sie, dass an jedem 2. Sonntag im Juni, also heute, der „Tag des Gartens“ gefeiert wird? Wir feiern zum 40. Mal die Schönheit und Vielfalt der grünen Oasen, die unsere Städte und Landschaften schmücken. In diesem Jahr lädt uns der „Tag des Gartens“ ein, die verborgenen Paradiese hinter den alten Mauern des Klostergartens in Kamp-Lintfort zu entdecken. Wir befinden uns im Ruhrgebiet, an der Grenze zu den Niederlanden."
+      introPhoto = "/bing/KlosterKamp.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
