@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Bardenas Reales de Navarra, España (© Aliaume Chapelle/Tandem Stills + Motion)"
-      introSubtitle = "La reserva de la biosfera y parque natural de las Bardenas Reales es como un cuadro surrealista que cobra vida en el paisaje de Navarra, en el norte de España. Este parque es famoso por sus paisajes desérticos esculpidos por siglos de erosión. El parque es un patio de recreo de maravillas geológicas, con mesetas rocosas, cañones y estructuras de arcilla de formas curiosas llamadas “cabezos”."
-      introPhoto = "/bing/BardenasBiosphere.jpg"
+      introTitle = "European hare, West Midlands, England (© Jake Stephen/Moment/Getty Images)"
+      introSubtitle = "Springtime brings a whirlwind of activity across the European meadows. The European or brown hare bursts into a frenzy of what is dubbed 'March madness.' Britain's fastest land mammals become a captivating sight, chasing and 'boxing' in the fields. Native to Europe and parts of Asia, these hares' tawny coat is perfect camouflage for the temperate, open landscapes they favour. Their diet of grasses and herbs, and in winter, twigs and bark, fuels their remarkable bursts of speed, essential for outrunning predators. Unlike their burrow-dwelling rabbit cousins, hares bear their young, known as leverets, above ground. From birth, these youngsters are on the move—furry, wide-eyed and precociously active."
+      introPhoto = "/bing/SummerJuneHare.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
