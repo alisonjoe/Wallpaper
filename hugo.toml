@@ -11,8 +11,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Osaka di notte, Giappone (© wichianduangsri/Getty Images)"
-      introSubtitle = "have no desc"
+      introTitle = "Osaka la nuit, Japon (© wichianduangsri/Getty Images)"
+      introSubtitle = "Au cœur du Japon, Osaka allie harmonieusement le passé et le futur. Ancien centre économique, elle fut capitale impériale au 7e et 8e siècle. Durant l'ère Edo (1603–1867), elle s'épanouit culturellement, puis devint un important centre industriel après la Restauration de Meiji en 1868, rétablissant la règle impériale."
       introPhoto = "/bing/OsakaNight.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
