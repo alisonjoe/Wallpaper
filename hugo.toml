@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = " Pandora's Cluster of Galaxies "
-      introSubtitle = "  presents a stunning view of galaxy cluster Abell 2744 recorded bythe James Webb Space Telescope's NIRCam.Also dubbed Pandora's Cluster, Abell 2744 itselfappears to be a ponderous merger of three different massive galaxyclusters.It lies some 3.5 billion light-years away, toward the constellationSculptor.,the mega-cluster warps and distortsthe fabric of spacetime,even more distant objects.Redder than the Pandora cluster galaxiesmany of the lensed sources are very distant galaxies in the earlyUniverse, their lensed images stretched and distorted into arcs.Of course diffraction spikes mark foreground Milky Waystars.At the Pandora Cluster's estimateddistance this cosmic box spans about 6 million light-years.But don't panic.You can explore the tantalizing region in a."
-      introPhoto = "/nasa/ESA.jpg"
+      introTitle = "龙舟池日出，集美区，厦门，中国"
+      introSubtitle = "吃粽子、看龙舟赛的日子到了！这一天，人们祈福辟邪、欢庆娱乐、分享美食。别忘了，看龙舟赛也是端午节重要的节庆民俗活动之一，早在中国古代战国时期就有了。赛龙舟表达了人们对美好生活的憧憬。"
+      introPhoto = "/bing/DragonBoatFestival2024.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
