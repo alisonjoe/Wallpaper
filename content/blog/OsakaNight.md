@@ -1,14 +1,14 @@
 ---
 author: "AlisonLai"
-title: Osaka de noche, Japón (© wichianduangsri/Getty Images)
-date: 2024-06-10T06:00:15+0800
+title: 大阪湾方面から見た大阪湾岸, 大阪府 大阪市 (© wichianduangsri/Getty Images)
+date: 2024-06-10T06:00:57+0800
 description: ""
-tags: ["El corazón de Japón"]
+tags: ["天保山大橋と天保山大観覧車"]
 copyright: © wichianduangsri/Getty Images
 thumbnail: /bing/OsakaNight.jpg
 ---
 图文来源自：bing.  copyright: © wichianduangsri/Getty Images
 
-En el corazón de Japón, donde el pasado y el futuro se entrelazan, se encuentra una ciudad llena de vida y cultura: Osaka. Esta ciudad ha sido dos veces capital imperial, una en el siglo VII y otra en el VIII. Floreció culturalmente durante el periodo Edo (1603-1867) y se convirtió en un importante centro industrial tras la Restauración Meiji en 1868.
+今日の画像は大阪湾方面から見た大阪湾岸。大阪湾は、大阪平野と淡路島の間に位置し、面積は約 1450km²。日本有数の国際貿易港として機能しています。そして、画像で最も目立つのは大阪湾岸のランドマーク、天保山大橋と天保山大観覧車です…
 
 ![OsakaNight](/bing/OsakaNight.jpg)
