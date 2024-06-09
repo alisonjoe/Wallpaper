@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "龙舟池日出，集美区，厦门，中国"
-      introSubtitle = "吃粽子、看龙舟赛的日子到了！这一天，人们祈福辟邪、欢庆娱乐、分享美食。别忘了，看龙舟赛也是端午节重要的节庆民俗活动之一，早在中国古代战国时期就有了。赛龙舟表达了人们对美好生活的憧憬。"
-      introPhoto = "/bing/DragonBoatFestival2024.jpg"
+      introTitle = "Osaka de noche, Japón (© wichianduangsri/Getty Images)"
+      introSubtitle = "En el corazón de Japón, donde el pasado y el futuro se entrelazan, se encuentra una ciudad llena de vida y cultura: Osaka. Esta ciudad ha sido dos veces capital imperial, una en el siglo VII y otra en el VIII. Floreció culturalmente durante el periodo Edo (1603-1867) y se convirtió en un importante centro industrial tras la Restauración Meiji en 1868."
+      introPhoto = "/bing/OsakaNight.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
