@@ -1,7 +1,7 @@
 ---
 author: "AlisonLai"
-title: Temperatures on Exoplanet WASP-43b
-date: 2024-05-04T09:00:16+0800
+title:  Pandora's Cluster of Galaxies 
+date: 2024-06-09T09:00:21+0800
 description: ""
 tags: ["nasa"]
 copyright: NASA
@@ -9,6 +9,6 @@ thumbnail: /nasa/ESA.jpg
 ---
 图文来源自：nasa.  copyright: NASA
 
-  ,tidally locked, Jupiter-sized exoplanet WASP-43borbits its parent star once every 0.8 Earth days.That puts it about 2 million kilometers(less than 1/25th the orbital distance of Mercury)from a small, cool sun.Still, on a dayside always facing its parent star, temperaturesapproach a torrid 2,500 degrees F as measured atinstrument on board the James Webb Space Telescope.of the hot exoplanet's orbit, Webbmeasurements also show nightside temperatures remain above 1,000 degrees F. That suggests that strong equatorialwinds circulate the daysideatmospheric gases to the nightside before they can completely cool off.Exoplanet WASP-43b is nowAstrolábos, and its K-type parent star has been christened Gnomon.indicate water vapor is present on the nightside as well asthe dayside of the planet, providing information about.
+  presents a stunning view of galaxy cluster Abell 2744 recorded bythe James Webb Space Telescope's NIRCam.Also dubbed Pandora's Cluster, Abell 2744 itselfappears to be a ponderous merger of three different massive galaxyclusters.It lies some 3.5 billion light-years away, toward the constellationSculptor.,the mega-cluster warps and distortsthe fabric of spacetime,even more distant objects.Redder than the Pandora cluster galaxiesmany of the lensed sources are very distant galaxies in the earlyUniverse, their lensed images stretched and distorted into arcs.Of course diffraction spikes mark foreground Milky Waystars.At the Pandora Cluster's estimateddistance this cosmic box spans about 6 million light-years.But don't panic.You can explore the tantalizing region in a.
 
 ![ESA](/nasa/ESA.jpg)
