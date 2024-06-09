@@ -11,8 +11,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Osaka at night, Japan (© wichianduangsri/Getty Images)"
-      introSubtitle = "In the heart of Japan, where the past and future intertwine, lies a city pulsating with life and culture—Osaka. Traditionally an economic hub, Osaka has twice served briefly as the imperial capital, once in the 7th and once in the 8th century. It flourished culturally during the Edo period (1603–1867) and became a major industrial centre after the Meiji Restoration in 1868, which restored imperial rule to Japan."
+      introTitle = "Osaka di notte, Giappone (© wichianduangsri/Getty Images)"
+      introSubtitle = "have no desc"
       introPhoto = "/bing/OsakaNight.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
