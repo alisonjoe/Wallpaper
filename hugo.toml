@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Vieste sulla penisola del Gargano, Puglia, Italia (© Pilat666/Getty Images)"
-      introSubtitle = "have no desc"
-      introPhoto = "/bing/ViesteItaly.jpg"
+      introTitle = " Sh2-132: The Lion Nebula "
+      introSubtitle = "  Is the Lion Nebula the real ruler of the ? This powerful feline appearing  is powered by two , each with a mass over 20 times greater than . Formed from  that have expanded, the nebula's energetic matter not only , but is dense enough to contract . The angular size of the  Nebula, officially named 2-132,  is slightly greater than that of the . The gaseous  resides about 10,000 s away in a  named after the King of  in ."
+      introPhoto = "/nasa/Natalia_Lewandowska.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
