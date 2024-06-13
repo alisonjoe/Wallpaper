@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Kokino, antico osservatorio megalitico, Macedonia del Nord (© stoimilov/Shutterstock)"
-      introSubtitle = "have no desc"
-      introPhoto = "/bing/KokinoMacedonia.jpg"
+      introTitle = "首都ダッカの鳥瞰図, バングラデシュ (© Azim Khan Ronnie/Amazing Aerial Agency)"
+      introSubtitle = "ここはバングラデシュの首都ダッカ。ガンジスの河口に広がるこの都市は、1020 万人以上の人口を擁し、地球上で最も人口密度の高い都市のひとつです。ダッカは、17 世紀にムガル帝国の統治下でベンガル州の州都となり、都市として繁栄しました…"
+      introPhoto = "/bing/DhakaBangladesh.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
