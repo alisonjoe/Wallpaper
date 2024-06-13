@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "佩姬湾灯塔，新斯科舍省，加拿大"
-      introSubtitle = "佩姬湾灯塔坐落在崎岖不平的花岗岩上，是新斯科舍省海岸坚毅的守护者。这座灯塔建于1914年，高15米，于1915年首次亮起，是加拿大经久不衰的海洋精神的一个载体。在这座灯塔出现之前，这里曾有一座建于1868年的木质灯塔，于1954年被飓风埃德娜摧毁了。2009年之前，灯塔的底层一直在夏季时扮演着邮局的角色，后来加拿大邮政以霉菌生长存在安全隐患为由关闭了这个邮局。这座灯塔现在已经实现了自动化，吸引着众多游客前来一睹加拿大航海历史的风采，感受海洋的魅力。"
-      introPhoto = "/bing/PeggysCove.jpg"
+      introTitle = "Kokino, antico osservatorio megalitico, Macedonia del Nord (© stoimilov/Shutterstock)"
+      introSubtitle = "have no desc"
+      introPhoto = "/bing/KokinoMacedonia.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
