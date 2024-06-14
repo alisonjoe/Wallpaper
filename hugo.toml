@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = " Messier 66 Close Up"
-      introSubtitle = "  Big, beautifullies a mere 35 million light-years away.Theis about 100 thousand light-years across, similar in size to the Milky Way.Thisclose-up view spans a region about 30,000light-years wide around the galactic core.It shows the galaxy's disk dramatically inclined to our line-of-sight.Surrounding its bright core, the likely home of a supermassive blackhole, obscuring dust lanes and young, blue star clusters sweepdotted with the tell-tale glow of pinkish star forming regions.Messier 66, also known as NGC 3627, is the brightest of the threegalaxies in the gravitationally interacting."
-      introPhoto = "/nasa/ESA.jpg"
+      introTitle = "在纳扎雷冲浪的冲浪者，葡萄牙"
+      introSubtitle = "今天是国际冲浪日，大家都在冲浪！这项活动在庆祝冲浪的同时，也提醒人们保护海洋环境的重要性，以及要为野生动物和冲浪者保持水域的纯净。冲浪有着悠久的历史：大约在5000年前的秘鲁，人们在出海捕鱼时用芦苇船冲浪。然而，现代冲浪运动是在前殖民时期的夏威夷诞生的。在这里，人们开始站在冲浪板上冲浪取乐。历史学家认为，冲浪于1885年传入美国，当时有三位十几岁的夏威夷王子在加利福尼亚的寄宿学校放假期间，在红木冲浪板上冲浪。"
+      introPhoto = "/bing/NazareWave.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
