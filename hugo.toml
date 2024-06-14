@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "首都ダッカの鳥瞰図, バングラデシュ (© Azim Khan Ronnie/Amazing Aerial Agency)"
-      introSubtitle = "ここはバングラデシュの首都ダッカ。ガンジスの河口に広がるこの都市は、1020 万人以上の人口を擁し、地球上で最も人口密度の高い都市のひとつです。ダッカは、17 世紀にムガル帝国の統治下でベンガル州の州都となり、都市として繁栄しました…"
-      introPhoto = "/bing/DhakaBangladesh.jpg"
+      introTitle = " Messier 66 Close Up"
+      introSubtitle = "  Big, beautifullies a mere 35 million light-years away.Theis about 100 thousand light-years across, similar in size to the Milky Way.Thisclose-up view spans a region about 30,000light-years wide around the galactic core.It shows the galaxy's disk dramatically inclined to our line-of-sight.Surrounding its bright core, the likely home of a supermassive blackhole, obscuring dust lanes and young, blue star clusters sweepdotted with the tell-tale glow of pinkish star forming regions.Messier 66, also known as NGC 3627, is the brightest of the threegalaxies in the gravitationally interacting."
+      introPhoto = "/nasa/ESA.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
