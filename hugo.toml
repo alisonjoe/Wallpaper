@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Flag display at the Washington Monument, Washington, DC  (© tristanbnz/Adobe Stock)"
-      introSubtitle = "Wave our national symbol today; it's Flag Day! On June 14, 1777, by resolution of the Second Continental Congress, the nation's first official flag was approved. Throughout US history, the flag's design has changed. In its current arrangement, the 13 stripes represent the original colonies, and the stars stand for the states. The flag was last modified in 1960 when Hawaii became a state, and the number of white stars on a blue background increased from 49 to 50."
-      introPhoto = "/bing/FlagsDC.jpg"
+      introTitle = "赤狐父子，华盛顿，美国"
+      introSubtitle = "今天是父亲节，这是一个庆祝父亲们为我们所做的一切，感恩他们照顾我们、帮助我们成长，以及讲最棒的父亲节笑话的最佳时机。动物界也有伟大的父亲，比如今天的图片中的狐狸爸爸。雌性红狐在产后需要留在洞穴里照顾幼崽，因此雄性红狐会把时间花在外出给雌性红狐送食物上。当幼崽稍大一点时，它们的父亲就会抽时间陪它们玩耍，教它们日后所需的生存技能，比如狩猎和觅食。图中的狐狸患有黑变病，这是一种导致动物颜色变深的疾病。"
+      introPhoto = "/bing/RedFoxDad.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
