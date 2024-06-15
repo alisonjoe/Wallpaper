@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Todi, Umbria, Italia (© Fani Kurti/Getty Images)"
-      introSubtitle = "have no desc"
-      introPhoto = "/bing/TodiView.jpg"
+      introTitle = "Guards Bands at Horse Guards Parade, London during Trooping the Colour 2014 (© Malcolm Park editorial/Alamy Live News)"
+      introSubtitle = "As summer blooms in London, a centuries-old ceremony unfurls with pomp and pageantry—Trooping the Colour. The event marks the official birthday of the British sovereign in a tradition dating back to the 18th century. Trooping the Colour is deeply rooted in the practicalities of yore, where battlefield standards served as vital rallying symbols for soldiers."
+      introPhoto = "/bing/TroopingTheColourParade.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
