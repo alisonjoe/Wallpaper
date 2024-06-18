@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "サンタ・マリア・デル・フィオーレ大聖堂, イタリア (© Elena Pueyo/Getty Images)"
-      introSubtitle = "今日の画像はサンタ・マリア・デル・フィオーレ大聖堂。イタリアのフィレンツェにあるカトリック教会の司教座聖堂であり、ドゥオーモ、サン・ジョヴァンニ洗礼堂、ジョットの鐘楼の三つの建築物で構成されています。1296 年に建設が始まり、140 年以上もの長い年月をかけて完成しました…"
-      introPhoto = "/bing/FlorenceDuomo.jpg"
+      introTitle = "Vista aérea del puerto deportivo de lujo, Puerto Portals, Portals Nous, Mallorca, Islas Baleares, España (© Westend61/Getty Images)"
+      introSubtitle = "¡La Superyacht Cup Palma arranca a lo grande! Es la regata de superyates más antigua de Europa, fundada en 1996, y se vive como un auténtico festival de la vela. Esta regata reúne a algunos de los superyates más impresionantes del mundo en Palma de Mallorca, Islas Baleares."
+      introPhoto = "/bing/SuperyachtCupPalma.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
