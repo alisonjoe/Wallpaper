@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Vista di alberi nel bosco Reggio Calabria, Italia (© Roberto Martini/Getty Images)"
-      introSubtitle = "have no desc"
-      introPhoto = "/bing/SummerTree.jpg"
+      introTitle = "Jacob Lawrence's mosaic 'Community,' Joseph P. Addabbo Federal Building, Jamaica, Queens, New York (© Alpha Stock/Alamy)"
+      introSubtitle = "Juneteenth commemorates the end of slavery in the US. On June 19, 1865, Union troops arrived in Galveston, Texas, to enforce the Emancipation Proclamation issued by Abraham Lincoln. Juneteenth became a federal holiday in 2021, an acknowledgment of its indelible imprint on the country."
+      introPhoto = "/bing/LawrenceMosaic.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
