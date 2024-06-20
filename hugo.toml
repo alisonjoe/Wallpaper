@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Jacob Lawrence's mosaic 'Community,' Joseph P. Addabbo Federal Building, Jamaica, Queens, New York (© Alpha Stock/Alamy)"
-      introSubtitle = "Juneteenth commemorates the end of slavery in the US. On June 19, 1865, Union troops arrived in Galveston, Texas, to enforce the Emancipation Proclamation issued by Abraham Lincoln. Juneteenth became a federal holiday in 2021, an acknowledgment of its indelible imprint on the country."
-      introPhoto = "/bing/LawrenceMosaic.jpg"
+      introTitle = "Pont-Neuf à Toulouse (© benkrut/Getty Images)"
+      introSubtitle = "Au cœur de la Ville Rose, le Pont-Neuf se dresse fièrement au-dessus de la Garonne, témoin des festivités qui animent ses rives. Lors de la Fête de la Musique, toute la ville résonne au diapason des notes et des rythmes. Le Pont-Neuf, avec ses arches robustes et son histoire riche, symbolise une ville unie par la musique. Il n’est pas seulement un passage d’une rive à l’autre, mais un véritable pont culturel, reliant les Toulousains aux mélodies du monde."
+      introPhoto = "/bing/MusicDayToulouse.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
