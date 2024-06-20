@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Pont-Neuf à Toulouse (© benkrut/Getty Images)"
-      introSubtitle = "Au cœur de la Ville Rose, le Pont-Neuf se dresse fièrement au-dessus de la Garonne, témoin des festivités qui animent ses rives. Lors de la Fête de la Musique, toute la ville résonne au diapason des notes et des rythmes. Le Pont-Neuf, avec ses arches robustes et son histoire riche, symbolise une ville unie par la musique. Il n’est pas seulement un passage d’une rive à l’autre, mais un véritable pont culturel, reliant les Toulousains aux mélodies du monde."
-      introPhoto = "/bing/MusicDayToulouse.jpg"
+      introTitle = "Rishikesh at night (© Andrey Khrobostov/Alamy Stock Photo)"
+      introSubtitle = "Grab your mat and find your flow—it's International Day of Yoga! Celebrated around the world on June 21 each year, this day was proposed to the United Nations by Prime Minister Narendra Modi. The UN adopted the day in 2014 after the initiative received unanimous support from 177 countries in the General Assembly."
+      introPhoto = "/bing/RishikeshYoga.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
