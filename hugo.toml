@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Rishikesh at night (© Andrey Khrobostov/Alamy Stock Photo)"
-      introSubtitle = "Grab your mat and find your flow—it's International Day of Yoga! Celebrated around the world on June 21 each year, this day was proposed to the United Nations by Prime Minister Narendra Modi. The UN adopted the day in 2014 after the initiative received unanimous support from 177 countries in the General Assembly."
-      introPhoto = "/bing/RishikeshYoga.jpg"
+      introTitle = "蓝色水面上的渔船航拍图，郴州市，湖南省，中国 (© Haitong Yu/Getty images)"
+      introSubtitle = "have no desc"
+      introPhoto = "/bing/SummerSolstice2024.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
