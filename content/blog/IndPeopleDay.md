@@ -1,14 +1,14 @@
 ---
 author: "AlisonLai"
-title: Interior exhibits of the Canadian Museum of History (© Inspired By Maps/Shutterstock)
-date: 2024-06-22T06:00:19+0800
+title: Musée canadien de l’histoire (© Inspired By Maps/Shutterstock)
+date: 2024-06-22T06:02:24+0800
 description: ""
-tags: ["Happy Indigenous Day!"]
+tags: ["Célébrons la richesse des cultures autochtones!"]
 copyright: © Inspired By Maps/Shutterstock
 thumbnail: /bing/IndPeopleDay.jpg
 ---
 图文来源自：bing.  copyright: © Inspired By Maps/Shutterstock
 
-National Indigenous Peoples Day is observed on June 21 to honour the rich cultures, languages and traditions of First Nations, Inuit and Métis communities. It was established in 1996 to highlight Indigenous peoples' resilience, creativity and their imprints on the country's multicultural tapestry. On this day, communities come together to celebrate through music, dance, art and traditions.
+La Journée nationale des peuples autochtones, célébrée le 21 juin, met en lumière la richesse des cultures, des langues et des traditions des communautés des Premières Nations, des Inuits et des Métis au Canada. Instituée en 1996, elle honore la résilience et la créativité des peuples autochtones, ainsi que leur contribution à la mosaïque multiculturelle du pays. Lors de cette célébration, les communautés se rassemblent pour partager la musique, la danse, l’art et diverses traditions.
 
 ![IndPeopleDay](/bing/IndPeopleDay.jpg)

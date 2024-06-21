@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Pôr do sol na praia de Ipanema, Rio de Janeiro, Brasil. Vista para as praias de Ipanema e Leblon, Morro Dois Irmãos e Pedra da Gávea (© Anton Petrus/Getty Images)"
-      introSubtitle = "have no desc"
-      introPhoto = "/bing/IniciodoInverno.jpg"
+      introTitle = "Musée canadien de l’histoire (© Inspired By Maps/Shutterstock)"
+      introSubtitle = "La Journée nationale des peuples autochtones, célébrée le 21 juin, met en lumière la richesse des cultures, des langues et des traditions des communautés des Premières Nations, des Inuits et des Métis au Canada. Instituée en 1996, elle honore la résilience et la créativité des peuples autochtones, ainsi que leur contribution à la mosaïque multiculturelle du pays. Lors de cette célébration, les communautés se rassemblent pour partager la musique, la danse, l’art et diverses traditions."
+      introPhoto = "/bing/IndPeopleDay.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
