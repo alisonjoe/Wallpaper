@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Interior exhibits of the Canadian Museum of History (© Inspired By Maps/Shutterstock)"
-      introSubtitle = "National Indigenous Peoples Day is observed on June 21 to honour the rich cultures, languages and traditions of First Nations, Inuit and Métis communities. It was established in 1996 to highlight Indigenous peoples' resilience, creativity and their imprints on the country's multicultural tapestry. On this day, communities come together to celebrate through music, dance, art and traditions."
-      introPhoto = "/bing/IndPeopleDay.jpg"
+      introTitle = "Pôr do sol na praia de Ipanema, Rio de Janeiro, Brasil. Vista para as praias de Ipanema e Leblon, Morro Dois Irmãos e Pedra da Gávea (© Anton Petrus/Getty Images)"
+      introSubtitle = "have no desc"
+      introPhoto = "/bing/IniciodoInverno.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
