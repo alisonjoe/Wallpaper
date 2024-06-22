@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Musée canadien de l’histoire (© Inspired By Maps/Shutterstock)"
-      introSubtitle = "La Journée nationale des peuples autochtones, célébrée le 21 juin, met en lumière la richesse des cultures, des langues et des traditions des communautés des Premières Nations, des Inuits et des Métis au Canada. Instituée en 1996, elle honore la résilience et la créativité des peuples autochtones, ainsi que leur contribution à la mosaïque multiculturelle du pays. Lors de cette célébration, les communautés se rassemblent pour partager la musique, la danse, l’art et diverses traditions."
-      introPhoto = "/bing/IndPeopleDay.jpg"
+      introTitle = "Cala Macarelleta, Menorca, Islas Baleares, España (© Matteo Colombo/DigitalVision/Getty Images)"
+      introSubtitle = "La Fiesta de San Juan tiene un origen religioso y se celebra el 24 de junio coincidiendo con el solsticio de verano. Marca la tradición que, si se pide un deseo al saltar el fuego en la playa, éste se cumplirá. Se complementa con saltos a las olas en la orilla del mar justo cuando se alcanza la medianoche del 23 al 24 de junio. En Menorca, Islas Baleares, se preparan hogueras, bailes y conciertos por las calles del casco antiguo de Ciutadella. Además, se realizan juegos, torneos medievales y actuaciones musicales."
+      introPhoto = "/bing/SanJuanMenorca.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
