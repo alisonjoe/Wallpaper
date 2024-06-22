@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Cala Macarelleta, Menorca, Islas Baleares, España (© Matteo Colombo/DigitalVision/Getty Images)"
-      introSubtitle = "La Fiesta de San Juan tiene un origen religioso y se celebra el 24 de junio coincidiendo con el solsticio de verano. Marca la tradición que, si se pide un deseo al saltar el fuego en la playa, éste se cumplirá. Se complementa con saltos a las olas en la orilla del mar justo cuando se alcanza la medianoche del 23 al 24 de junio. En Menorca, Islas Baleares, se preparan hogueras, bailes y conciertos por las calles del casco antiguo de Ciutadella. Además, se realizan juegos, torneos medievales y actuaciones musicales."
-      introPhoto = "/bing/SanJuanMenorca.jpg"
+      introTitle = "湖畔に咲き誇るラベンダーと富士山, 河口湖 (© DoctorEgg/Getty Images)"
+      introSubtitle = "河口湖の夏と言えばラベンダー。 毎年、6 月中旬から 7 月中旬にかけて、約 20 種類、約 10 万株ものラベンダーが咲き誇ります。紫の絨毯と雄大な富士山が織りなす絶景は、訪れる人々を魅了しています…"
+      introPhoto = "/bing/Lavender2024.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
