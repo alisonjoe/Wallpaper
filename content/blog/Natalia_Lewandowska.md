@@ -1,6 +1,6 @@
 ---
 author: "AlisonLai"
-title:  Sh2-132: The Lion Nebula 
+title:  Sh2-132 The Lion Nebula 
 date: 2024-06-11T09:00:50+0800
 description: ""
 tags: ["nasa"]

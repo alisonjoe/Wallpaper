@@ -1,6 +1,6 @@
 ---
 author: "AlisonLai"
-title:  IC 1795: The Fishhead Nebula 
+title:  IC 1795 The Fishhead Nebula 
 date: 2024-05-02T09:00:27+0800
 description: ""
 tags: ["nasa"]

@@ -1,6 +1,6 @@
 ---
 author: "AlisonLai"
-title:  CG4: The Globule and the Galaxy 
+title:  CG4 The Globule and the Galaxy 
 date: 2024-05-22T09:00:27+0800
 description: ""
 tags: ["nasa"]

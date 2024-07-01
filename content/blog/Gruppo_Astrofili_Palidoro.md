@@ -1,6 +1,6 @@
 ---
 author: "AlisonLai"
-title:  AR 3664: Giant Sunspot Group 
+title:  AR 3664 Giant Sunspot Group 
 date: 2024-05-12T09:00:26+0800
 description: ""
 tags: ["nasa"]
