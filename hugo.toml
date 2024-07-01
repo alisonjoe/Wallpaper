@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "湖畔に咲き誇るラベンダーと富士山, 河口湖 (© DoctorEgg/Getty Images)"
-      introSubtitle = "河口湖の夏と言えばラベンダー。 毎年、6 月中旬から 7 月中旬にかけて、約 20 種類、約 10 万株ものラベンダーが咲き誇ります。紫の絨毯と雄大な富士山が織りなす絶景は、訪れる人々を魅了しています…"
-      introPhoto = "/bing/Lavender2024.jpg"
+      introTitle = "Fisgard Lighthouse, Esquimalt Harbor, Colwood, British Columbia, Canada"
+      introSubtitle = "Today, Canada celebrates its national day. It commemorates the passing of the British North America Act, 1867, which joined together three British colonies, the Union of Canada, New Brunswick, and Nova Scotia, under the self-governing country of Canada. The anniversary of the Confederation was called Dominion Day until 1982, when Canada became fully independent of the Parliament of the United Kingdom and the celebration was officially renamed Canada Day."
+      introPhoto = "/bing/FisgardLighthouse.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
