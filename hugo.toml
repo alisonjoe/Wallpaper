@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = " Time Spiral "
-      introSubtitle = "  What's happened since the universe started?The time spiral  features a few .At the spiral's center is the , the place where , as we know it, began about 13.8 billion years ago.Within a few billion years , then  formed from atoms,  from stars and gas,  formed, soon followed by , about 4.6 billion years ago.  begins about 3.8 billion years ago, followed by , then  within a billion years.  About 1.7 billion years ago,  on Earth began to flourish.  about 500 million years ago, and  began walking on land about 200 million years ago. first appeared only about 6 million years ago, and made the  only about 10,000 years ago. The time spiral illustrated stops there, but human  might be added, which started only 75 years ago, and useful  began to take hold within only the past few years."
-      introPhoto = "/nasa/Wikipedia.jpg"
+      introTitle = "猫鼬家族"
+      introSubtitle = "大家一起说，“哈库纳·马塔塔”！今天是“世界猫鼬日”，一个庆祝这些以直立姿势而闻名的可爱动物的节日。但不要被它们的名字所迷惑，猫鼬并不是猫。它们是獴科的小型食肉动物，原产于非洲西南部的沙漠和草原。猫鼬是高度社会化的动物，生活在被称为“暴徒”的紧密群体中，最多可由30只个体组成。这些群体通力合作，一起觅食、相互梳理毛发、照看孩子，并轮流担任哨兵，监视捕食者。猫鼬在洞穴中过夜，并躲避中午的炎热——它们喜欢午休。"
+      introPhoto = "/bing/MeerkatManor.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
