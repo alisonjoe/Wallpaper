@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "意大利卡，桑蒂蓬塞的一座古罗马城市，塞维利亚，安达卢西亚，西班牙"
-      introSubtitle = "公元前206年，在伊利帕战役之后，罗马将军兼政治家普布利乌斯·科尼利乌斯·西庇阿为帮助打败迦太基人的罗马老兵建造了一个定居点。该城位于瓜达尔基维尔河右岸，因居民来自意大利而被命名为“意大利卡”。这座城市是罗马人在伊比利亚半岛建立的第一个定居点，在该地区的罗马化进程中发挥了重要作用，该地区当时被称为伊斯帕尼亚，即今天的西班牙。意大利卡在建城后的几个世纪里蓬勃发展，尤其是在图拉真皇帝和哈德良皇帝统治时期。"
-      introPhoto = "/bing/ItalicaRuins.jpg"
+      introTitle = " Time Spiral "
+      introSubtitle = "  What's happened since the universe started?The time spiral  features a few .At the spiral's center is the , the place where , as we know it, began about 13.8 billion years ago.Within a few billion years , then  formed from atoms,  from stars and gas,  formed, soon followed by , about 4.6 billion years ago.  begins about 3.8 billion years ago, followed by , then  within a billion years.  About 1.7 billion years ago,  on Earth began to flourish.  about 500 million years ago, and  began walking on land about 200 million years ago. first appeared only about 6 million years ago, and made the  only about 10,000 years ago. The time spiral illustrated stops there, but human  might be added, which started only 75 years ago, and useful  began to take hold within only the past few years."
+      introPhoto = "/nasa/Wikipedia.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
