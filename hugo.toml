@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "女王花园群岛的镰形真鲨，古巴"
-      introSubtitle = "准备好冒险了吗？今天，让我们一起潜入海洋，庆祝鲨鱼保护日。这些被误解的捕食者已经在七大洋中遨游了数千年。第一批鲨鱼大约在4.39亿年前进化而来，比恐龙的出现还要早2亿年。如今，鲨鱼的种类已超过500种，其中三分之一已濒临灭绝。多年来，鲨鱼一直被认为对人类有害，它们还因鱼皮、鱼鳍和鱼肉而被猎杀。但这种情况正在开始改变。世界各地的许多组织都在努力改变人们的态度，帮助人们认识到鲨鱼在海洋生活中扮演的重要角色，以及如何保护它们。"
-      introPhoto = "/bing/SilkyShark.jpg"
+      introTitle = " Solar System Family Portrait "
+      introSubtitle = "  In 1990, cruising four billion miles from the Sun, theVoyager 1 spacecraft looked back to make this first ever.The complete portrait is amade from a vantage point 32 degrees above the.In it, Voyager's wide-angle camera frames sweep through theinner Solar System at the left, linking up with,the Solar System's outermost planet, at the far right.Positions for Venus, Earth, Jupiter, Saturn, Uranus, and Neptuneare indicated by letters, while the Sun is thebright spot near the center of the circle of frames.for each of the planets arefrom Voyager's narrow-field camera.Unseen in the portrait are Mercury, too closeto the Sun to be detected, and Mars, unfortunately hidden by sunlightscattered in the camera's optical system.Closer to the Sun than Neptune at the time,position was not covered.In 2024 Voyager 1,NASA’s longest-running and most-distant spacecraft,is some 15 billion miles away,."
+      introPhoto = "/nasa/NASA.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
