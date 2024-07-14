@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = " Solar System Family Portrait "
-      introSubtitle = "  In 1990, cruising four billion miles from the Sun, theVoyager 1 spacecraft looked back to make this first ever.The complete portrait is amade from a vantage point 32 degrees above the.In it, Voyager's wide-angle camera frames sweep through theinner Solar System at the left, linking up with,the Solar System's outermost planet, at the far right.Positions for Venus, Earth, Jupiter, Saturn, Uranus, and Neptuneare indicated by letters, while the Sun is thebright spot near the center of the circle of frames.for each of the planets arefrom Voyager's narrow-field camera.Unseen in the portrait are Mercury, too closeto the Sun to be detected, and Mars, unfortunately hidden by sunlightscattered in the camera's optical system.Closer to the Sun than Neptune at the time,position was not covered.In 2024 Voyager 1,NASA’s longest-running and most-distant spacecraft,is some 15 billion miles away,."
-      introPhoto = "/nasa/NASA.jpg"
+      introTitle = "立石公园，神奈川县，日本"
+      introSubtitle = "今天的图片带我们来到横须贺市的立石公园，在这里可以欣赏相模湾和富士山的壮丽景色，是庆祝海洋日的理想场所。立石公园是一个风景优美的海滨公园，历史上曾激发过艺术家和摄影师的创作灵感。"
+      introPhoto = "/bing/TateishiPark.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
