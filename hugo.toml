@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = " The Tadpole Galaxy from Hubble "
-      introSubtitle = "  Why does this galaxy have such a long tail? In this stunning vista, based on image data from the ,distant galaxies form a dramatic backdrop for disrupted spiral 188, the Tadpole Galaxy.The  is a mere 420 million light-years distant toward thenorthern constellation of the Dragon ().Its  tail is about 280 thousand s long and features massive, bright blue star clusters.One  goesthat a more compact intruder galaxy crossed in front of  - from right to left in this view - and was behind the  by their gravitational attraction.During the, tidal forces drew out the stars, gas, and dustforming the spectacular tail.The  galaxy itself, estimated tolie about 300 thousand light-years behind the Tadpole,can be seen through foreground spiral arms at the upper right.its terrestrial , the  will likely lose as it grows older, the tail's star clustersforming smaller satellites of the large spiral galaxy."
-      introPhoto = "/nasa/ESA.jpg"
+      introTitle = "德国中世纪城市罗滕堡"
+      introSubtitle = "看到这张图，你的脑海中是否浮现出了“童话”这个词？欢迎来到陶伯河畔的罗滕堡，或称“陶伯河上的红色要塞”，这里每个鹅卵石铺就的角落都散发着中世纪的魅力。在中世纪，这座巴伐利亚州的城墙小镇曾是一座自治城市，拥有6000名居民，是当时神圣罗马帝国的第二大城市。17世纪，罗滕堡的发展速度有所放缓，但仍保留了其原有的特色。图为城堡大门，它是在1356年罗滕堡城堡被地震摧毁后修建的。城堡大门内有一扇“针眼”门，其设计目的是在夜间主门关闭时作为进出城堡的唯一通道。但罗滕堡的魔力并不仅限于城墙，从维尔茨堡到富森的浪漫之路全长290英里，覆盖了巴伐利亚城堡林立的山谷。回程时，可以去凯特·沃尔法特圣诞村，这里是节日爱好者的梦想之地。所以，城堡迷们，来一场中世纪的探险吧。"
+      introPhoto = "/bing/MedievalRothenburg.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
