@@ -1,14 +1,14 @@
 ---
 author: "AlisonLai"
-title:  Messier 66 Close Up
-date: 2024-06-14T09:00:15+0800
+title:  The Tadpole Galaxy from Hubble 
+date: 2024-07-16T09:00:18+0800
 description: ""
 tags: ["nasa"]
-copyright: NASA
+copyright: Hubble Legacy Archive
 thumbnail: /nasa/ESA.jpg
 ---
-图文来源自：nasa.  copyright: NASA
+图文来源自：nasa.  copyright: Hubble Legacy Archive
 
-  Big, beautifullies a mere 35 million light-years away.Theis about 100 thousand light-years across, similar in size to the Milky Way.Thisclose-up view spans a region about 30,000light-years wide around the galactic core.It shows the galaxy's disk dramatically inclined to our line-of-sight.Surrounding its bright core, the likely home of a supermassive blackhole, obscuring dust lanes and young, blue star clusters sweepdotted with the tell-tale glow of pinkish star forming regions.Messier 66, also known as NGC 3627, is the brightest of the threegalaxies in the gravitationally interacting.
+  Why does this galaxy have such a long tail? In this stunning vista, based on image data from the ,distant galaxies form a dramatic backdrop for disrupted spiral 188, the Tadpole Galaxy.The  is a mere 420 million light-years distant toward thenorthern constellation of the Dragon ().Its  tail is about 280 thousand s long and features massive, bright blue star clusters.One  goesthat a more compact intruder galaxy crossed in front of  - from right to left in this view - and was behind the  by their gravitational attraction.During the, tidal forces drew out the stars, gas, and dustforming the spectacular tail.The  galaxy itself, estimated tolie about 300 thousand light-years behind the Tadpole,can be seen through foreground spiral arms at the upper right.its terrestrial , the  will likely lose as it grows older, the tail's star clustersforming smaller satellites of the large spiral galaxy.
 
 ![ESA](/nasa/ESA.jpg)
