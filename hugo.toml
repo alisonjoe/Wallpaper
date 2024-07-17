@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "德国中世纪城市罗滕堡"
-      introSubtitle = "看到这张图，你的脑海中是否浮现出了“童话”这个词？欢迎来到陶伯河畔的罗滕堡，或称“陶伯河上的红色要塞”，这里每个鹅卵石铺就的角落都散发着中世纪的魅力。在中世纪，这座巴伐利亚州的城墙小镇曾是一座自治城市，拥有6000名居民，是当时神圣罗马帝国的第二大城市。17世纪，罗滕堡的发展速度有所放缓，但仍保留了其原有的特色。图为城堡大门，它是在1356年罗滕堡城堡被地震摧毁后修建的。城堡大门内有一扇“针眼”门，其设计目的是在夜间主门关闭时作为进出城堡的唯一通道。但罗滕堡的魔力并不仅限于城墙，从维尔茨堡到富森的浪漫之路全长290英里，覆盖了巴伐利亚城堡林立的山谷。回程时，可以去凯特·沃尔法特圣诞村，这里是节日爱好者的梦想之地。所以，城堡迷们，来一场中世纪的探险吧。"
-      introPhoto = "/bing/MedievalRothenburg.jpg"
+      introTitle = " Cometary Globules "
+      introSubtitle = "  What are these unusual interstellar structures?Bright-rimmed, flowing shapes gather near the center of toward the borders of the nautical southern.Composed of interstellar gas and dust, the grouping oflight-year sized cometary globules is about 1300 s distant.Energetic ultraviolet light from nearby hot starsand ionized their bright rims.stream away from the whichmay have influenced their swept-back shapes.Within them, cores of cold gas and dust are likely  to formlow mass stars, whose formation will ultimately cause the.In fact, cometary globule CG 30 (on the upper left) sports asmall reddish glow near its head, of energeticjets from a star in the early stages."
+      introPhoto = "/nasa/Martin_Pugh.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
