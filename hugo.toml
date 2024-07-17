@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = " Cometary Globules "
-      introSubtitle = "  What are these unusual interstellar structures?Bright-rimmed, flowing shapes gather near the center of toward the borders of the nautical southern.Composed of interstellar gas and dust, the grouping oflight-year sized cometary globules is about 1300 s distant.Energetic ultraviolet light from nearby hot starsand ionized their bright rims.stream away from the whichmay have influenced their swept-back shapes.Within them, cores of cold gas and dust are likely  to formlow mass stars, whose formation will ultimately cause the.In fact, cometary globule CG 30 (on the upper left) sports asmall reddish glow near its head, of energeticjets from a star in the early stages."
-      introPhoto = "/nasa/Martin_Pugh.jpg"
+      introTitle = "Coral reef in the Indian Ocean, Mayotte, France"
+      introSubtitle = "盛开的柱状珊瑚、绿色的海龟和五颜六色的珊瑚鱼，欢迎来到珊瑚礁这个欣欣向荣的水下世界。从7月15日到21日，珊瑚礁保护意识周是向他们致敬的最佳时机。珊瑚礁是由被称为珊瑚虫的微小海洋生物形成的，珊瑚虫创造了巨大的群落，为各种海洋物种提供了家园。当我们把注意力转向它们的美丽和益处的同时，认识到潜在的威胁（气候变化、污染和有害的人类活动）也至关重要。"
+      introPhoto = "/bing/MayotteCoral.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
