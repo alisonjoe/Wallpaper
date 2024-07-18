@@ -1,14 +1,14 @@
 ---
 author: "AlisonLai"
-title:  Sh2-132 The Lion Nebula 
-date: 2024-06-11T09:00:50+0800
+title:  Villarrica Volcano Against the Sky 
+date: 2024-07-18T09:00:25+0800
 description: ""
 tags: ["nasa"]
-copyright: Imran Badr
+copyright: Gabriel Muñoz
 thumbnail: /nasa/Natalia_Lewandowska.jpg
 ---
-图文来源自：nasa.  copyright: Imran Badr
+图文来源自：nasa.  copyright: Gabriel Muñoz
 
-  Is the Lion Nebula the real ruler of the ? This powerful feline appearing  is powered by two , each with a mass over 20 times greater than . Formed from  that have expanded, the nebula's energetic matter not only , but is dense enough to contract . The angular size of the  Nebula, officially named 2-132,  is slightly greater than that of the . The gaseous  resides about 10,000 s away in a  named after the King of  in .
+  When , the  of fire, swings his blacksmith's hammer, the sky is lit on .A recent eruption of 's  shows the delicate interplay between this fire -- actually glowing steam and  from  -- and the light from distant stars in our  and the  galaxies.In the featured timelapse video, the  under the stars as . With about , our  rivals  as the most  place in the .While both have magnificent beauty, the reasons for the existence of volcanoes on both worlds are different.Earth's volcanoes typically occur between slowly shifting , while 's volcanoes are caused by  resulting from 's tidal gravitational .
 
 ![Natalia_Lewandowska](/nasa/Natalia_Lewandowska.jpg)
