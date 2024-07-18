@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = " Villarrica Volcano Against the Sky "
-      introSubtitle = "  When , the  of fire, swings his blacksmith's hammer, the sky is lit on .A recent eruption of 's  shows the delicate interplay between this fire -- actually glowing steam and  from  -- and the light from distant stars in our  and the  galaxies.In the featured timelapse video, the  under the stars as . With about , our  rivals  as the most  place in the .While both have magnificent beauty, the reasons for the existence of volcanoes on both worlds are different.Earth's volcanoes typically occur between slowly shifting , while 's volcanoes are caused by  resulting from 's tidal gravitational ."
-      introPhoto = "/nasa/Natalia_Lewandowska.jpg"
+      introTitle = "河岸上的一只年轻美洲虎，潘塔纳尔，巴西"
+      introSubtitle = "请看今天的图片中的野生动物：美洲虎！它是美洲最大的猫科动物，在这里可以看到它在巴西潘塔纳尔的美丽身影。美洲虎大约在200万年前从欧亚大陆经白令海峡迁徙到美洲。如今，美洲虎栖息在从美国西南部林地到阿根廷北部雨林的各种栖息地。"
+      introPhoto = "/bing/YoungJaguar.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
