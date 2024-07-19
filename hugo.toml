@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "河岸上的一只年轻美洲虎，潘塔纳尔，巴西"
-      introSubtitle = "请看今天的图片中的野生动物：美洲虎！它是美洲最大的猫科动物，在这里可以看到它在巴西潘塔纳尔的美丽身影。美洲虎大约在200万年前从欧亚大陆经白令海峡迁徙到美洲。如今，美洲虎栖息在从美国西南部林地到阿根廷北部雨林的各种栖息地。"
-      introPhoto = "/bing/YoungJaguar.jpg"
+      introTitle = "月球"
+      introSubtitle = "“个人的一小步，人类的一大步！”今天是国际月球日，旨在纪念阿波罗11号首次实现了人类登月的梦想。这一天最初被定为“国家月球日”，并于2021年被联合国确立为一个获得全球认可的节日。几千年来，人类一直凝视着天空，思索着月亮的起源和神秘之处，太空探索的出现使得月球成为许多任务的目标。"
+      introPhoto = "/bing/MineralMoon.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
