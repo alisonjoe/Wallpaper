@@ -1,14 +1,14 @@
 ---
 author: "AlisonLai"
-title:  The Tadpole Galaxy from Hubble 
-date: 2024-07-16T09:00:18+0800
+title:  The Crab Nebula from Visible to X-Ray 
+date: 2024-07-24T09:00:23+0800
 description: ""
 tags: ["nasa"]
-copyright: Hubble Legacy Archive
+copyright: NASA
 thumbnail: /nasa/ESA.jpg
 ---
-图文来源自：nasa.  copyright: Hubble Legacy Archive
+图文来源自：nasa.  copyright: NASA
 
-  Why does this galaxy have such a long tail? In this stunning vista, based on image data from the ,distant galaxies form a dramatic backdrop for disrupted spiral 188, the Tadpole Galaxy.The  is a mere 420 million light-years distant toward thenorthern constellation of the Dragon ().Its  tail is about 280 thousand s long and features massive, bright blue star clusters.One  goesthat a more compact intruder galaxy crossed in front of  - from right to left in this view - and was behind the  by their gravitational attraction.During the, tidal forces drew out the stars, gas, and dustforming the spectacular tail.The  galaxy itself, estimated tolie about 300 thousand light-years behind the Tadpole,can be seen through foreground spiral arms at the upper right.its terrestrial , the  will likely lose as it grows older, the tail's star clustersforming smaller satellites of the large spiral galaxy.
+ What powers the Crab Nebula?A city-sized magnetized  spinning around 30 times a second.Known as the , it is the bright spot in the center of the gaseous swirl at the nebula's core. About 10 light-years across, the  of the  (M1) frames a swirling central disk and complex filaments of surrounding and expanding glowing gas.The picture combines  from the  in red and blue with  from the  shown in white, and diffuse X-ray emission detected by  (IXPE) in diffuse purple. The central  powers the 's emission and  by slightly slowing its spin rate, which drives out a  of energetic . The  released today, the  of the  of NASA's  X-ray Observatory: . 
 
 ![ESA](/nasa/ESA.jpg)
