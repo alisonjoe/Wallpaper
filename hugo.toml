@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = " The Crab Nebula from Visible to X-Ray "
-      introSubtitle = " What powers the Crab Nebula?A city-sized magnetized  spinning around 30 times a second.Known as the , it is the bright spot in the center of the gaseous swirl at the nebula's core. About 10 light-years across, the  of the  (M1) frames a swirling central disk and complex filaments of surrounding and expanding glowing gas.The picture combines  from the  in red and blue with  from the  shown in white, and diffuse X-ray emission detected by  (IXPE) in diffuse purple. The central  powers the 's emission and  by slightly slowing its spin rate, which drives out a  of energetic . The  released today, the  of the  of NASA's  X-ray Observatory: . "
-      introPhoto = "/nasa/ESA.jpg"
+      introTitle = "Pont Neuf over the Seine, Paris, France"
+      introSubtitle = "Today marks the start of the Summer Olympics in Paris. The City of Light becomes the second city, after London, to host the Summer Olympics for a third time. What makes these Games truly unique is the opening ceremony: Rather than in a stadium, participants will parade along the Seine on a flotilla of boats, passing under the Pont Neuf, pictured here, and cheered by spectators lining both banks. Paris is no stranger to historic firsts; the 1900 Games in the city was where women competed for the first time, although only 22 out of 997 athletes were women."
+      introPhoto = "/bing/PontNeuf.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
