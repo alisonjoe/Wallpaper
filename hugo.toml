@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Pont Neuf over the Seine, Paris, France"
-      introSubtitle = "Today marks the start of the Summer Olympics in Paris. The City of Light becomes the second city, after London, to host the Summer Olympics for a third time. What makes these Games truly unique is the opening ceremony: Rather than in a stadium, participants will parade along the Seine on a flotilla of boats, passing under the Pont Neuf, pictured here, and cheered by spectators lining both banks. Paris is no stranger to historic firsts; the 1900 Games in the city was where women competed for the first time, although only 22 out of 997 athletes were women."
-      introPhoto = "/bing/PontNeuf.jpg"
+      introTitle = "Vineyards in the Moselle Valley, Rhineland-Palatinate, Germany"
+      introSubtitle = "Welcome to Palatinate, a wine lover's dream come true. Known for its picturesque vineyards, the Palatinate in western Germany is characterized by rolling hills, fertile soils, and a warm climate. This favorable terroir allows for the cultivation of a diverse variety of grapes. While Riesling reigns supreme, other notable varieties include Chardonnay, Sauvignon Blanc, Pinot Blanc, Müller-Thurgau, and Dornfelder. Palatinate is the largest red wine-producing region in the country, with over 40% of the vineyards devoted to it."
+      introPhoto = "/bing/RhinelandVineyards.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
