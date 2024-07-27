@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Vineyards in the Moselle Valley, Rhineland-Palatinate, Germany"
-      introSubtitle = "Welcome to Palatinate, a wine lover's dream come true. Known for its picturesque vineyards, the Palatinate in western Germany is characterized by rolling hills, fertile soils, and a warm climate. This favorable terroir allows for the cultivation of a diverse variety of grapes. While Riesling reigns supreme, other notable varieties include Chardonnay, Sauvignon Blanc, Pinot Blanc, Müller-Thurgau, and Dornfelder. Palatinate is the largest red wine-producing region in the country, with over 40% of the vineyards devoted to it."
-      introPhoto = "/bing/RhinelandVineyards.jpg"
+      introTitle = "斯科讷省海滩上的浴场小屋，瑞典"
+      introSubtitle = "说到生机勃勃的海滩景色，瑞典的斯科讷省绝对不会让人失望。今天的图片展示的是斯科讷镇沙滩上的彩色小屋。这片海滩位于法尔斯特布半岛西侧，绵延6英里多，是最受欢迎的海滩之一。这部分海滩靠近斯卡诺尔码头，是夏季游客最喜欢的沐浴地点。"
+      introPhoto = "/bing/BeachHutsSweden.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
