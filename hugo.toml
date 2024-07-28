@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "斯科讷省海滩上的浴场小屋，瑞典"
-      introSubtitle = "说到生机勃勃的海滩景色，瑞典的斯科讷省绝对不会让人失望。今天的图片展示的是斯科讷镇沙滩上的彩色小屋。这片海滩位于法尔斯特布半岛西侧，绵延6英里多，是最受欢迎的海滩之一。这部分海滩靠近斯卡诺尔码头，是夏季游客最喜欢的沐浴地点。"
-      introPhoto = "/bing/BeachHutsSweden.jpg"
+      introTitle = "科贝国家公园的老虎兄弟，北阿坎德邦，印度"
+      introSubtitle = "今天是世界爱虎日，这一节日设立于2010年，在每年的7月29日举办庆祝活动，旨在保护老虎免受偷猎和因森林砍伐导致栖息地丧失等威胁。19世纪末，野生老虎的数量估计约为10万只。而如今，老虎的数量已不足6000只。"
+      introPhoto = "/bing/CorbettTigers.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
