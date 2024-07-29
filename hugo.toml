@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "科贝国家公园的老虎兄弟，北阿坎德邦，印度"
-      introSubtitle = "今天是世界爱虎日，这一节日设立于2010年，在每年的7月29日举办庆祝活动，旨在保护老虎免受偷猎和因森林砍伐导致栖息地丧失等威胁。19世纪末，野生老虎的数量估计约为10万只。而如今，老虎的数量已不足6000只。"
-      introPhoto = "/bing/CorbettTigers.jpg"
+      introTitle = "圣吉米尼亚诺，锡耶纳，托斯卡纳大区，意大利亚"
+      introSubtitle = "这些中世纪塔楼高高耸立在意大利中北部锡耶纳附近的小镇圣吉米尼亚诺。中世纪时，围绕着一座供奉圣吉米亚努斯的教堂（意大利语为“圣吉米尼亚诺”），一个小镇逐渐发展起来。除了是朝圣者前往罗马的必经之地外，该镇还因当地的维奈西卡葡萄酒和附近山上种植的藏红花而繁荣起来。然而，1348年席卷欧洲的黑死病减缓了小镇的发展，小镇人口损失过半，至今仍保留着中世纪的特色。"
+      introPhoto = "/bing/GimignanoTuscany.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
