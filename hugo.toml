@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = " Arp 142: Interacting Galaxies from Webb "
-      introSubtitle = " To some, it looks like a penguin.But to people who study the universe, it is an interesting example of two big galaxies interacting.Just a few hundred million years ago, the upper NGC 2936 was likely a : spinning, creating stars, and minding its own business. Then it got too close to the massive  NGC 2937, below, and took a dive. Together known as , they are  in this new   image, while a   image appears in comparison. NGC 2936 is not only being deflected, but , by this close gravitational interaction. When massive galaxies  each other, gas is typically condensed from which . A  of stars appears as the nose of the  toward the right of the upper galaxy, while in the center of the , bright stars together appear as an eye. Before a billion years, the  into one larger galaxy."
-      introPhoto = "/nasa/ESA.jpg"
+      introTitle = " Leopard Spots on Martian Rocks "
+      introSubtitle = " What is creating these unusual spots?Light-colored spots on , each surrounded by a dark border, were discovered earlier this month by 's  currently exploring . Dubbed  spots because of their seemingly similarity to markings on famous , these curious patterns are being studied with the possibility they were created by . The  spots measure only s across and were discovered on a  named . The exciting but  is that long ago, s generated energy with chemical reactions that turned rock from red to white while leaving a dark ring, like some  on .Although other  may ultimately prevail, speculation focusing on this potential biological origin is causing . "
+      introPhoto = "/nasa/JPL-Caltech.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"

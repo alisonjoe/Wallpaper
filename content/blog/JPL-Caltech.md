@@ -1,7 +1,7 @@
 ---
 author: "AlisonLai"
-title:  Shadow of a Martian Robot 
-date: 2024-06-06T09:00:13+0800
+title:  Leopard Spots on Martian Rocks 
+date: 2024-08-01T09:00:31+0800
 description: ""
 tags: ["nasa"]
 copyright: NASA
@@ -9,6 +9,6 @@ thumbnail: /nasa/JPL-Caltech.jpg
 ---
 图文来源自：nasa.  copyright: NASA
 
-  What if you saw your shadow on Mars and it wasn't human? Then you might be the  exploring . Perseverance has been examining the Red Planet since 2021,  of its complex  and , and sending  across the inner .  in February of 2024,  opposite the Sun and across Neretva Vallis in , with a  at the top of the frame.  The distinctively non-human shadow of the  is visible below center, superposed on . Perseverance, now working  its flying companion , continues Mars for . 
+ What is creating these unusual spots?Light-colored spots on , each surrounded by a dark border, were discovered earlier this month by 's  currently exploring . Dubbed  spots because of their seemingly similarity to markings on famous , these curious patterns are being studied with the possibility they were created by . The  spots measure only s across and were discovered on a  named . The exciting but  is that long ago, s generated energy with chemical reactions that turned rock from red to white while leaving a dark ring, like some  on .Although other  may ultimately prevail, speculation focusing on this potential biological origin is causing . 
 
 ![JPL-Caltech](/nasa/JPL-Caltech.jpg)
