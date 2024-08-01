@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = " Leopard Spots on Martian Rocks "
-      introSubtitle = " What is creating these unusual spots?Light-colored spots on , each surrounded by a dark border, were discovered earlier this month by 's  currently exploring . Dubbed  spots because of their seemingly similarity to markings on famous , these curious patterns are being studied with the possibility they were created by . The  spots measure only s across and were discovered on a  named . The exciting but  is that long ago, s generated energy with chemical reactions that turned rock from red to white while leaving a dark ring, like some  on .Although other  may ultimately prevail, speculation focusing on this potential biological origin is causing . "
-      introPhoto = "/nasa/JPL-Caltech.jpg"
+      introTitle = "Floating market, Kaptai Lake, Rangamati, Bangladesh"
+      introSubtitle = "Every Saturday, the largest human-made lake in Bangladesh comes to life with colors and flavors. Kaptai Lake in Rangamati District is home to the floating market of seasonal fruits seen in today's image. However, Kaptai's charm lies deeper. The lake was created in 1961 to generate hydropower, submerging not just land and the palace of the king of the Chakmas but a way of life, displacing 100,000 people. Yet resilience bore out; communities adapted, and now, their buoyant bazaar has become a livelihood. Here, farmers navigate their wooden vessels along the bank to engage with eager buyers. You leave with a bag full of fresh fruits or just a bunch of unforgettable memories, whatever floats your boat."
+      introPhoto = "/bing/KaptaiLake.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
