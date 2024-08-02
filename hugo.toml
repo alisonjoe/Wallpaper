@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = " Comet Olbers over Kunetice Castle "
-      introSubtitle = "  A visitor to the inner solar system every 70 years or soreached its most recent perihelion,or closest approach to the Sun, on June 30 2024.Now on avoyage to thethe Halley-type comet is recorded here sweeping throughover historic,Czech Republic.Along with a broad dust tail, and brighter coma, thisby storms and winds from the Sun, is revealed in thecomposite of tracked exposures for comet and sky, and fixedexposures for foreground landscape recorded on July 28.about 16 light-minutes beyond the castleand seen against faint background starsbelow the northern constellation Ursa Major.The hilltop castle dates to the 15th century, whileHeinrich Olbers discovered the comet in 1815.Captured here low in northwestern skies just after sunsetComet Olbers, for now, offers skywatchers on planet Earth rewarding telescopic and binocular views.next perihelion passage will be in 2094."
-      introPhoto = "/nasa/Institute_of_Physics_in_Opava.jpg"
+      introTitle = "天生三桥，重庆武隆岩溶国家地质公园，中国"
+      introSubtitle = "中国武隆喀斯特“天生三桥”是大自然历经数百年雕琢而成的地质奇观。这些石灰岩桥耸立在幽深的峡谷中，以三条龙的名字命名：天龙、青龙和黑龙。天龙桥高771英尺，桥墩上有一个迷宫般的洞穴。青龙桥高922英尺，在太阳出来的时候可以欣赏到壮丽的景色。黑龙桥是三座桥中最宽的一座，长633英尺，高732英尺。游客可以游览武隆喀斯特国家地质公园，参观芙蓉洞等景点。芙蓉洞高9337英尺，洞内有巨大的石灰岩钟乳石，这些钟乳石是悬挂在洞顶的矿物。站在这些壮观的天生桥下，你不禁会对时间和自然的巨大力量而肃然起敬。"
+      introPhoto = "/bing/WulongKarst.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
