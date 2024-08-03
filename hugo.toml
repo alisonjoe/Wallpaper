@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "天生三桥，重庆武隆岩溶国家地质公园，中国"
-      introSubtitle = "中国武隆喀斯特“天生三桥”是大自然历经数百年雕琢而成的地质奇观。这些石灰岩桥耸立在幽深的峡谷中，以三条龙的名字命名：天龙、青龙和黑龙。天龙桥高771英尺，桥墩上有一个迷宫般的洞穴。青龙桥高922英尺，在太阳出来的时候可以欣赏到壮丽的景色。黑龙桥是三座桥中最宽的一座，长633英尺，高732英尺。游客可以游览武隆喀斯特国家地质公园，参观芙蓉洞等景点。芙蓉洞高9337英尺，洞内有巨大的石灰岩钟乳石，这些钟乳石是悬挂在洞顶的矿物。站在这些壮观的天生桥下，你不禁会对时间和自然的巨大力量而肃然起敬。"
-      introPhoto = "/bing/WulongKarst.jpg"
+      introTitle = " Mars Passing By "
+      introSubtitle = "  wanders through Earth's night,it passes about 5 degrees south of the Pleiadesstar cluster in this composite astrophoto.The skyview was constructed from a series of imagescaptured over a run of 16 consecutive clear nightsbeginning on July 12.across the field of view beginsat the far right, the planet's ruddy hueshowing a nice contrast with the blue Pleiades stars.Moving much faster across the sky against the distant stars,the fourth planeteasily passes seventh planet Uranus.Red planet Mars and the ice giant world were in close conjunction,about 1/2 degree apart, on July 16.Continuing its rapid eastward trek, Mars has now left the sister starsand outer planet behind though, of red giant star Aldebaran.Mars will come within about 1/3 degree of Jupiter inon August 14."
+      introPhoto = "/nasa/TWAN.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"

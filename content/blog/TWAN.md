@@ -1,7 +1,7 @@
 ---
 author: "AlisonLai"
-title: All Sky Moon Shadow 
-date: 2024-04-28T09:00:21+0800
+title:  Mars Passing By 
+date: 2024-08-03T09:00:37+0800
 description: ""
 tags: ["nasa"]
 copyright: Tunc Tezel
@@ -9,6 +9,6 @@ thumbnail: /nasa/TWAN.jpg
 ---
 图文来源自：nasa.  copyright: Tunc Tezel
 
-  but the sky is dark and the horizon is bright all around,you might be standing in the Moon's shadow during a total eclipse ofthe Sun.In fact, the all-sky Moon shadow shown in thiscomposited panoramic view was capturedfrom a farm near Shirley, Arkansas, planet Earth.The exposures were made under clear skies during the.For that location near the center line of the Moon's shadow track,totality lasted over 4 minutes.Along with the solar corona surrounding theplanets and stars were visible during the total eclipse phase.are bright planets Venus and Jupiter, to the lower rightand upper left of the eclipsed Sun.
+  wanders through Earth's night,it passes about 5 degrees south of the Pleiadesstar cluster in this composite astrophoto.The skyview was constructed from a series of imagescaptured over a run of 16 consecutive clear nightsbeginning on July 12.across the field of view beginsat the far right, the planet's ruddy hueshowing a nice contrast with the blue Pleiades stars.Moving much faster across the sky against the distant stars,the fourth planeteasily passes seventh planet Uranus.Red planet Mars and the ice giant world were in close conjunction,about 1/2 degree apart, on July 16.Continuing its rapid eastward trek, Mars has now left the sister starsand outer planet behind though, of red giant star Aldebaran.Mars will come within about 1/3 degree of Jupiter inon August 14.
 
 ![TWAN](/nasa/TWAN.jpg)
