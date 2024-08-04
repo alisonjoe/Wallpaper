@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "黑斑羚和红嘴牛椋鸟，南非"
-      introSubtitle = "每年八月的第一个星期日，美国都会庆祝友谊日。这一活动始于1930年，当时霍尔马克贺卡公司创始人乔伊斯·霍尔提议将这一天作为人们通过寄送贺卡来答谢朋友的日子。1935年，美国国会宣布这一天为全国性节日。"
-      introPhoto = "/bing/ImpalaOxpecker.jpg"
+      introTitle = "薰衣草田，赫特福德郡 ，英格兰，英国"
+      introSubtitle = "当你漫步在英格兰赫特福德郡的自然风景中时，会看到美丽的薰衣草田，正如今天的图片所展示的那样。作为薄荷科的一员，薰衣草起源于地中海、印度和中东地区。这种紫色的植物在不同的文明中生长蔓延，埃及人曾用它制作木乃伊，在图坦卡蒙的墓穴中便有薰衣草的遗迹，罗马人也将其视若珍宝，因其具有治疗和清洁的特性。"
+      introPhoto = "/bing/HertfordshireLavender.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
