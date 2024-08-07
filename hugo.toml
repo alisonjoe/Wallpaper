@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "St. Joseph North Pier Inner and Outer Lights, Michigan"
-      introSubtitle = "Amid dusky hues, lighthouses mark where Lake Michigan meets the St. Joseph River. In the 19th century, two piers were built on Lake Michigan, one either side of the mouth of the St. Joseph River to help protect ships sailing upstream. In the early 20th century, a lighthouse was built at the end of each pier. These were the St. Joseph North Pier Inner and Outer Lights, pictured here. Lighthouses at the end of the piers were added to the National Register of Historic Places in 2005."
-      introPhoto = "/bing/MichiganLighthouse.jpg"
+      introTitle = "横斑腹小鸮，曼谷，泰国"
+      introSubtitle = "如果比赛对视，你觉得你能赢过这种鸟儿吗？横斑腹小鸮有着灰褐色的脸和锐利的黄色眼睛，主要在夜间活动。白天，横斑腹小鸮会休息，当其它小鸟发现它们时，会围攻它们。一旦受到骚扰，横斑腹小鸮往往会瞪着入侵者，晃动脑袋，并发出响亮的尖叫声，这种声音有时也被描述为笑声或咯咯声。"
+      introPhoto = "/bing/SpottedOwlet.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
