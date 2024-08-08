@@ -1,14 +1,14 @@
 ---
 author: "AlisonLai"
-title:  Villarrica Volcano Against the Sky 
-date: 2024-07-18T09:00:25+0800
+title:  Milky Way Behind Three Merlons 
+date: 2024-08-08T09:00:19+0800
 description: ""
 tags: ["nasa"]
-copyright: Gabriel Muñoz
+copyright: Donato Lioce
 thumbnail: /nasa/Natalia_Lewandowska.jpg
 ---
-图文来源自：nasa.  copyright: Gabriel Muñoz
+图文来源自：nasa.  copyright: Donato Lioce
 
-  When , the  of fire, swings his blacksmith's hammer, the sky is lit on .A recent eruption of 's  shows the delicate interplay between this fire -- actually glowing steam and  from  -- and the light from distant stars in our  and the  galaxies.In the featured timelapse video, the  under the stars as . With about , our  rivals  as the most  place in the .While both have magnificent beauty, the reasons for the existence of volcanoes on both worlds are different.Earth's volcanoes typically occur between slowly shifting , while 's volcanoes are caused by  resulting from 's tidal gravitational .
+ To some, they look like battlements, here protecting us against the center of the .The Three s, also called the , stand tall today because they are made of dense dolomite rock which has better resisted  than surrounding softer rock.They formed about  and so are comparable in age with one of the  of life on .A leading hypothesis is that this great  was triggered by an  about 10-km across, larger in size than , impacting the Earth. have gazed up at the stars in the  and beyond for centuries, making these battlefield-like formations, based in the , a popular place for  and .
 
 ![Natalia_Lewandowska](/nasa/Natalia_Lewandowska.jpg)

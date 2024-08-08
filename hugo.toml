@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "横斑腹小鸮，曼谷，泰国"
-      introSubtitle = "如果比赛对视，你觉得你能赢过这种鸟儿吗？横斑腹小鸮有着灰褐色的脸和锐利的黄色眼睛，主要在夜间活动。白天，横斑腹小鸮会休息，当其它小鸟发现它们时，会围攻它们。一旦受到骚扰，横斑腹小鸮往往会瞪着入侵者，晃动脑袋，并发出响亮的尖叫声，这种声音有时也被描述为笑声或咯咯声。"
-      introPhoto = "/bing/SpottedOwlet.jpg"
+      introTitle = " Milky Way Behind Three Merlons "
+      introSubtitle = " To some, they look like battlements, here protecting us against the center of the .The Three s, also called the , stand tall today because they are made of dense dolomite rock which has better resisted  than surrounding softer rock.They formed about  and so are comparable in age with one of the  of life on .A leading hypothesis is that this great  was triggered by an  about 10-km across, larger in size than , impacting the Earth. have gazed up at the stars in the  and beyond for centuries, making these battlefield-like formations, based in the , a popular place for  and ."
+      introPhoto = "/nasa/Natalia_Lewandowska.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
