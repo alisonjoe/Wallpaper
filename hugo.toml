@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "澳洲魔蜥，瓦塔卡国家公园，澳大利亚"
-      introSubtitle = "从神话到现代媒体，蜥蜴经常被描绘成可怕的爬行动物。事实证明，它们并不像传说中那么危险。今天是世界蜥蜴日，是了解这些冷血动物的最佳时机。蜥蜴有7000多个品种，它们能够适应从沙漠到热带雨林的各种环境。比如壁虎，这些小小的爬行动物有专门的趾垫，可以攀爬墙壁，甚至在天花板上行走。还有变色龙，因其会变色的皮肤而闻名。虽然很多人认为变色龙的目的是为了融入环境，但其实变色龙还通过改变颜色来交流和调节体温。"
-      introPhoto = "/bing/WatarrkaLizard.jpg"
+      introTitle = " Giant Jet from the International Space Station "
+      introSubtitle = "  What's that on the horizon?When circling the Earth on the  early , astronaut  saw an unusual type of lightning just beyond the Earth's edge: a gigantic jet.The powerful jet appears on the left of the  in red and blue. has only been known about for the past 23 years.The atmospheric jets are associated with thunderstorms and extend upwards towards . The lower part of  shows the , with Earth's thin atmosphere tinted green from airglow. are visible,sometimes resolved, but usually creating diffuse white glows in intervening clouds. The top of  reveals distant stars in the dark night sky.The nature of  and their possible association with other types of  (TLEs) such as  and  remains an ."
+      introPhoto = "/nasa/Expedition_71_Crew.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
