@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "长岛温泉乐园的过山车，三重县，日本"
-      introSubtitle = "从单轨到虚拟现实体验，几个世纪以来，过山车一直在为人们带来各种感官刺激。今天是国际过山车日，这是一个完美的借口，可以潜入这些标志性景点的曲折蜿蜒之中。这些游乐设施的起源可以追溯到17世纪的俄罗斯，当时有一种名为“俄罗斯山脉”的木制滑梯，是季节性的娱乐活动设施。然而，我们所熟知的第一个过山车是19世纪初在法国巴黎建造的，它被称为“贝尔维尔俄罗斯山”，其特点是轮式手推车牢牢地固定在轨道上。快进到20世纪，游乐设施飞速发展，并且首次出现了环形过山车。"
-      introPhoto = "/bing/JapanRollerCoaster.jpg"
+      introTitle = " Late Night Vallentuna"
+      introSubtitle = "  and even brighter Jupiterare in close conjunction just above the pine treesin this post-midnight skyscape from ,Sweden.Taken on August 12 during a geomagnetic storm,the snapshot records the glow of aurora borealisor northern lights, beaming from the left side of the frame.Of course onrained through planet Earth's skies, grains of dust from theshower's parent, periodic comet.The meteor streak at the upper right is a Perseid plowing throughthe atmosphere at about 60 kilometers per .Also well-known in Earth's night sky, the bright Pleiades star clustershines below the Perseid meteor streak.In Greek myth, the Pleiades wereof the astronomical titan Atlas and sea-nymph Pleione.The Pleiades and their parents' names are given to the cluster'snine brightest stars."
+      introPhoto = "/nasa/TWAN.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"

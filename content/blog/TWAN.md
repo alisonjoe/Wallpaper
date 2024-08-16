@@ -1,14 +1,14 @@
 ---
 author: "AlisonLai"
-title:  Mars Passing By 
-date: 2024-08-03T09:00:37+0800
+title:  Late Night Vallentuna
+date: 2024-08-16T09:00:16+0800
 description: ""
 tags: ["nasa"]
-copyright: Tunc Tezel
+copyright: Clear Skies
 thumbnail: /nasa/TWAN.jpg
 ---
-图文来源自：nasa.  copyright: Tunc Tezel
+图文来源自：nasa.  copyright: Clear Skies
 
-  wanders through Earth's night,it passes about 5 degrees south of the Pleiadesstar cluster in this composite astrophoto.The skyview was constructed from a series of imagescaptured over a run of 16 consecutive clear nightsbeginning on July 12.across the field of view beginsat the far right, the planet's ruddy hueshowing a nice contrast with the blue Pleiades stars.Moving much faster across the sky against the distant stars,the fourth planeteasily passes seventh planet Uranus.Red planet Mars and the ice giant world were in close conjunction,about 1/2 degree apart, on July 16.Continuing its rapid eastward trek, Mars has now left the sister starsand outer planet behind though, of red giant star Aldebaran.Mars will come within about 1/3 degree of Jupiter inon August 14.
+  and even brighter Jupiterare in close conjunction just above the pine treesin this post-midnight skyscape from ,Sweden.Taken on August 12 during a geomagnetic storm,the snapshot records the glow of aurora borealisor northern lights, beaming from the left side of the frame.Of course onrained through planet Earth's skies, grains of dust from theshower's parent, periodic comet.The meteor streak at the upper right is a Perseid plowing throughthe atmosphere at about 60 kilometers per .Also well-known in Earth's night sky, the bright Pleiades star clustershines below the Perseid meteor streak.In Greek myth, the Pleiades wereof the astronomical titan Atlas and sea-nymph Pleione.The Pleiades and their parents' names are given to the cluster'snine brightest stars.
 
 ![TWAN](/nasa/TWAN.jpg)
