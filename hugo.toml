@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "日落时的亨廷顿海滩码头，加利福尼亚州，美国"
-      introSubtitle = "在今天的照片中，我们看到太阳开始消失在加利福尼亚亨廷顿海滩的码头下方。亨廷顿海滩码头始建于1902年，曾因暴风雨而受损，九年后才得以重建。第二次世界大战期间，码头上安装了一个潜艇瞭望哨，为战争出力。如今，这里已成为一个热门的旅游景点，游客们可以在这里钓鱼，观看冲浪者在太平洋上乘风破浪。"
-      introPhoto = "/bing/HuntingtonBeach.jpg"
+      introTitle = "Bufadero de la Garita，大加那利岛，西班牙"
+      introSubtitle = "西班牙有一个令人惊叹的景点，名为Bufadero de la Garita，您听说过吗？它位于西班牙的大加那利岛，离非洲西北部的大西洋海岸不远。这是一个不容错过的自然奇观，位于该岛风景如画的东海岸，是个迷人的“海上喷水孔”，海水以强劲的力量涌入岩石中又喷涌出来，创造出令人印象深刻的奇观，就像我们今天在图片中看到的那样。"
+      introPhoto = "/bing/RegataSanGines.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
