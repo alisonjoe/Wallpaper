@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "大提顿国家公园日出,怀俄明州,美国"
-      introSubtitle = "正如今天图片所展示的那样，怀俄明州和大提顿国家公园拥有令人惊叹的美景，这就是为什么它可以吸引人们不断地回到这里。早些年间，法国猎人将这里取名为“三个乳头”，1929年，小约翰·戴维森·洛克菲勒等生态环保人士创建了大提顿国家公园。公园里有灰熊、狼、野牛、驼鹿和白头海雕等动物，是一个几乎未受破坏的动植物生态系统。"
-      introPhoto = "/bing/TetonSunrise.jpg"
+      introTitle = "纳斯卡鲣鸟，沃尔夫岛，加拉帕戈斯群岛，厄瓜多尔"
+      introSubtitle = "东太平洋的加拉帕戈斯群岛是野生动物的天堂，它们的栖息地范围从干旱地区到热带雨林不等。由于这些岛屿的地理位置相对孤立，岛上许多生物都是独一无二的，纳斯卡鲣鸟便是其中之一。今天的照片展示的就是在沃尔夫岛上生活的纳斯卡鲣鸟。这些引人注目的鸟儿走路时举止笨拙搞笑，它们的英文名“Nazca booby”也十分有趣，不过“booby”一词其实源自西班牙语“bobo”，意思是小丑。"
+      introPhoto = "/bing/NazcaBooby.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
