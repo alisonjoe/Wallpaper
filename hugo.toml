@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "海洋城日出时的鸟瞰图，马里兰州，美国"
-      introSubtitle = "欢迎来到海洋城！这是一个美丽的海滨度假胜地，为游客提供无尽的乐趣和冒险。在1875年之前，这里只是一个安静的渔村。同年，大西洋酒店开业，标志着该镇转型为一个新兴的度假胜地。时光荏苒，如今，海洋城是美国最受欢迎的度假胜地之一，为各年龄段的游客提供丰富多样的娱乐活动。该镇有一段标志性的3英里长的木板路，两旁遍布餐厅、商店和游乐园。绵延10英里的纯净沙滩非常适合晒日光浴、打沙滩排球或堆沙堡，而海水则适合畅游。海洋城拥有丰富的娱乐探险活动和深厚的历史底蕴，是一个迷人的休闲胜地，吸引着游客一次又一次前来游玩。"
-      introPhoto = "/bing/OceanCityMD.jpg"
+      introTitle = " Fermi's 12-year All-Sky Gamma-ray Map "
+      introSubtitle = "  Forget  — imagine what you could see with  vision! The  shows what the universe looks like to NASA's . Fermi sees light with energies about a billion times what the  can see, and  combines 12 years of Fermi observations. The colors represent the brightness of the , with brighter sources appearing lighter in color. The prominent stripe across the middle is the central plane of our . Most of the red and yellow dots scattered above and below the Milky Way’s plane are very , while most of those within  are nearby . The  background that fills the image is the  from distant sources that are too dim to be detected individually. Some gamma-ray sources  and topics of research — currently  what they are. "
+      introPhoto = "/nasa/U._Maryland.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
