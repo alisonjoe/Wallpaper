@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "巴尔米拉环礁国家野生动物保护区，中太平洋"
-      introSubtitle = "欢迎来到太平洋中部的生态旅行者天堂。巴尔米拉环礁国家野生动物保护区位于夏威夷和美属萨摩亚之间，成立于2001年，旨在保护和管理巴尔米拉环礁的鱼类、野生动物、植物及其栖息地。"
-      introPhoto = "/bing/PalmyraAtoll.jpg"
+      introTitle = "Sunrise over Swiftcurrent Lake, Glacier National Park, Montana"
+      introSubtitle = "Join us as we celebrate the American wilderness on National Park Service Founders Day. Today we honor the foresight of visionaries who spearheaded the creation of the NPS. This organization was established by President Woodrow Wilson to conserve wildlife, maintain natural landscapes, preserve historical artifacts, and offer educational programs. You can enjoy this day by visiting one of 429 national parks in the country and diving into ranger-led programs, volunteer efforts, and celebratory events to learn more about the history."
+      introPhoto = "/bing/SwiftcurrentLake.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
