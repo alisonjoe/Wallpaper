@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = " Fresh Tiger Stripes on Saturn's Enceladus "
-      introSubtitle = "  Do underground oceans vent through canyons on Saturn's moon Enceladus?  Long features dubbed tiger stripes are known to be from the moon's icy interior into space,creating a cloud of fine ice particles over the moon's South Poleand creating 's mysterious .  Evidence for this has come from the that orbited  from 2004 to 2017.  ,a high resolution image of  is shown from a close flyby.  The unusual surface features dubbed stripes are visible in false-color blue.  Why is active remains a mystery, as the neighboring moon, approximately the same size, appears.An  of  has yielded evidence that complex organic molecules exist inside Enceladus.These large carbon-rich  -- but do not prove -- that oceans under Enceladus' surface could ."
-      introPhoto = "/nasa/ESA.jpg"
+      introTitle = "黑色凯门鳄幼崽，坦博帕塔国家保护区，秘鲁"
+      introSubtitle = "今天的图片展示了秘鲁坦博帕塔国家保护区里的黑凯门鳄，这是一种南美洲的隐秘的河中巨兽。这些凯门鳄是短吻鳄家族中最大的物种，体长可达20英尺，体重可达1000磅。它们与众不同的地方在于其深绿色的皮肤，这有助于它们融入浑浊的水底。这些食肉动物在淡水环境中繁衍生息，比如流动缓慢的河流、湖泊和被季节性洪水淹没的稀树草原。它们在这些水域中捕食鸟类、鱼类、龟类，偶尔还会捕食大型哺乳动物。黑凯门鳄在维持生态系统平衡方面发挥着重要作用。凯门鳄数量减少意味着会有更多的食人鱼攻击牛群，水豚也会泛滥成灾，对农作物造成损害。"
+      introPhoto = "/bing/YoungCaiman.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
