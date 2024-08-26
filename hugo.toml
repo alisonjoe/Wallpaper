@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Sunrise over Swiftcurrent Lake, Glacier National Park, Montana"
-      introSubtitle = "Join us as we celebrate the American wilderness on National Park Service Founders Day. Today we honor the foresight of visionaries who spearheaded the creation of the NPS. This organization was established by President Woodrow Wilson to conserve wildlife, maintain natural landscapes, preserve historical artifacts, and offer educational programs. You can enjoy this day by visiting one of 429 national parks in the country and diving into ranger-led programs, volunteer efforts, and celebratory events to learn more about the history."
-      introPhoto = "/bing/SwiftcurrentLake.jpg"
+      introTitle = " Fresh Tiger Stripes on Saturn's Enceladus "
+      introSubtitle = "  Do underground oceans vent through canyons on Saturn's moon Enceladus?  Long features dubbed tiger stripes are known to be from the moon's icy interior into space,creating a cloud of fine ice particles over the moon's South Poleand creating 's mysterious .  Evidence for this has come from the that orbited  from 2004 to 2017.  ,a high resolution image of  is shown from a close flyby.  The unusual surface features dubbed stripes are visible in false-color blue.  Why is active remains a mystery, as the neighboring moon, approximately the same size, appears.An  of  has yielded evidence that complex organic molecules exist inside Enceladus.These large carbon-rich  -- but do not prove -- that oceans under Enceladus' surface could ."
+      introPhoto = "/nasa/ESA.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
