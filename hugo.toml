@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "撒哈拉沙漠的岩层和沙丘，贾奈特，阿尔及利亚"
-      introSubtitle = "从地中海沿岸到广袤的撒哈拉沙漠，北非阿尔及利亚的地貌千姿百态。今天，我们将探索阿杰尔塔西里高原周围的地区。这一联合国教科文组织世界遗产以其岩层和洞穴艺术而闻名。这里有1.5万多处古代雕刻，有些可以追溯到1.2万年前，描绘了日常生活、狩猎和神秘生物的场景。领略完这片沙漠风光后，就该进城了。"
-      introPhoto = "/bing/DjanetAlgeria.jpg"
+      introTitle = "泰晤士河，伦敦，英国"
+      introSubtitle = "欢迎来到英国伦敦的泰晤士河节。每年，它都会将社区、艺术家和自然爱好者聚集在一起，向河流致敬，为期一个月。2024年的重点活动包括一年一度的帆船赛舟会、大河赛和清洁泰晤士河挑战赛。"
+      introPhoto = "/bing/ThamesLondon.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
