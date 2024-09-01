@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "泰晤士河，伦敦，英国"
-      introSubtitle = "欢迎来到英国伦敦的泰晤士河节。每年，它都会将社区、艺术家和自然爱好者聚集在一起，向河流致敬，为期一个月。2024年的重点活动包括一年一度的帆船赛舟会、大河赛和清洁泰晤士河挑战赛。"
-      introPhoto = "/bing/ThamesLondon.jpg"
+      introTitle = " IFN and the NGC 7771 Group "
+      introSubtitle = "  Galaxies of the NGC 7771 Group are featured in.Some 200 million light-years distant toward the constellationPegasus, the large, edge-onspiral near center,about 75,000 light-years across, with two smaller galaxies below it.Large spiral NGC 7769 is seen face-on to the right.Galaxies of the NGC 7771 group are interacting, makingrepeated close passages that will ultimately resultin galaxy-galaxy mergers on a cosmic timescale.The interactions can be traced byin the shape of the galaxies themselvesand faint created by their mutual gravitational tides.But a clear view of this galaxy group is difficult to come by asthe deep image also reveals extensive clouds of sweeping across the fieldof view.The dim, dusty galactic cirrus clouds are known as Integrated Flux Nebulae.The faint IFN reflect starlight from our own Milky Way Galaxyand lie only a few hundred light-years above the."
+      introPhoto = "/nasa/Bob_Fera.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
