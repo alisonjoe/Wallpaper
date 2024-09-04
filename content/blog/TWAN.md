@@ -1,14 +1,14 @@
 ---
 author: "AlisonLai"
-title:  Perseid Meteors Over Inner Mongolia 
-date: 2024-08-27T09:00:17+0800
+title:  Quarter Moon and Sister Stars 
+date: 2024-09-04T09:00:24+0800
 description: ""
 tags: ["nasa"]
-copyright: Jeff Dai
+copyright: Alan Dyer
 thumbnail: /nasa/TWAN.jpg
 ---
-图文来源自：nasa.  copyright: Jeff Dai
+图文来源自：nasa.  copyright: Alan Dyer
 
-  Did you see it? One of the more common questions during a  occurs because the time it takes for a meteor to flash is similar to the time it takes for a head to turn. Possibly, though, the glory of seeing  shoot across the sky -- while knowing that they were once small  on  -- might make it all worthwhile, even if your observing partner(s) can't always share in your experience.The  is composed of short clips taken in ,  during the 2023 .Several bright meteors were captured while  was being recorded -- just as the . This year's  also produced .Another  to watch for is the  which peak yearly in mid-December, this year with relatively little competing glow from a nearly new Moon.
+  Nine days ago, two quite different sky icons were imaged rising together.Specifically, Earth's Moon shared the eastern sky with the of the Pleiades cluster, as viewed from , . Astronomical images of theoften show the star cluster's alluring blue s, but here they are washed-out by the orange  sky.The half-lit Moon, known as a , is overexposed, although the outline of the dim lunar night side can be seen by illuminating , light first reflected from the Earth.The  is a composite of  exposures with brightnesses adjusted to match what the  would see. The Moon passes  -- or  -- in front of  once a month.
 
 ![TWAN](/nasa/TWAN.jpg)
