@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = " Quarter Moon and Sister Stars "
-      introSubtitle = "  Nine days ago, two quite different sky icons were imaged rising together.Specifically, Earth's Moon shared the eastern sky with the of the Pleiades cluster, as viewed from , . Astronomical images of theoften show the star cluster's alluring blue s, but here they are washed-out by the orange  sky.The half-lit Moon, known as a , is overexposed, although the outline of the dim lunar night side can be seen by illuminating , light first reflected from the Earth.The  is a composite of  exposures with brightnesses adjusted to match what the  would see. The Moon passes  -- or  -- in front of  once a month."
-      introPhoto = "/nasa/TWAN.jpg"
+      introTitle = "多伦多城市天际线,加拿大"
+      introSubtitle = "电影爱好者们，集合！第49届多伦多国际电影节（TIFF）将在加拿大多伦多盛大开幕，今天的图片就展示了这座城市的面貌。自1976年创办以来，多伦多国际电影节已成为世界上公众参与度最高的电影节之一。从经验丰富的导演到冉冉升起的新星，再到热衷于电影的观众，电影节吸引了各式各样的参与者。多年来，该电影节已经首映了多部广受好评的电影，包括《造梦之家》、《黑天鹅》等。"
+      introPhoto = "/bing/TIFF2024.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
