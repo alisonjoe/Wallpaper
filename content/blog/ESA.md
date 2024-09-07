@@ -1,7 +1,7 @@
 ---
 author: "AlisonLai"
-title:  Fresh Tiger Stripes on Saturn's Enceladus 
-date: 2024-08-26T09:00:59+0800
+title:  Ringed Ice Giant Neptune 
+date: 2024-09-07T09:00:20+0800
 description: ""
 tags: ["nasa"]
 copyright: NASA
@@ -9,6 +9,6 @@ thumbnail: /nasa/ESA.jpg
 ---
 图文来源自：nasa.  copyright: NASA
 
-  Do underground oceans vent through canyons on Saturn's moon Enceladus?  Long features dubbed tiger stripes are known to be from the moon's icy interior into space,creating a cloud of fine ice particles over the moon's South Poleand creating 's mysterious .  Evidence for this has come from the that orbited  from 2004 to 2017.  ,a high resolution image of  is shown from a close flyby.  The unusual surface features dubbed stripes are visible in false-color blue.  Why is active remains a mystery, as the neighboring moon, approximately the same size, appears.An  of  has yielded evidence that complex organic molecules exist inside Enceladus.These large carbon-rich  -- but do not prove -- that oceans under Enceladus' surface could .
+  lies near the center of this sharpnear-infrared image from the.The dim and distant world is the,about 30 times farther away than planet Earth.But in the stunning Webb view, the planet's dark and ghostly appearanceis due to atmospheric methane that absorbs infrared light.High altitude clouds that reach above most of Neptune's absorbing methaneeasily stand out in the image though.Coated with frozen nitrogen, Neptune's largest moon Triton isbrighter than Neptune in reflected sunlight,seen at the upper left sporting the Webb telescope's characteristic.Including Triton, seven of Neptune's 14 known moons can bein the field of view.are striking in this space-based.Details of the complex ring system are seen here for the firsttime since Neptune was visited by the.
 
 ![ESA](/nasa/ESA.jpg)
