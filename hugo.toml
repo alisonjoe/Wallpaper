@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = " Small Moon Deimos "
-      introSubtitle = "  Mars has two tiny moons, Phobos and ,named for the figures in Greek mythology Fear and Panic.Detailed surface views of smaller moon Deimos are shownin both these panels.The,by the HiRISE camera on board the spacecraft, NASA's long-livedsatellite.The outermost of the two Martian moons,Deimos is one of the smallest known moons in the Solar System, measuring only about 15 kilometers across. Both Martian moons were discovered in 1877 by , an American astronomer working at the US Naval Observatory in Washington D.C.But their existence was postulated around 1610 by , the astronomer who derived the laws of planetary motion.In this case, Kepler's predictionwas not based on scientific principles, buthis writings and ideas were so influential that the two Martian moonsare discussed in works of fiction such as 's Gulliver's Travels, written in 1726, over 150 years before their discovery."
-      introPhoto = "/nasa/MRO.jpg"
+      introTitle = "阿根廷和巴西边境的伊瓜苏瀑布"
+      introSubtitle = "想亲眼目睹让尼亚加拉瀑布都望尘莫及的壮观瀑布吗？让我们走进世界上最大的瀑布群——伊瓜苏瀑布。“伊瓜苏”这个名字来源于瓜拉尼语或图皮语，意思是“大水”。这些瀑布群由伊瓜苏河形成，位于阿根廷米西奥内斯省和巴西巴拉那州的交界处。它们拥有独特的阶梯状结构，是由三层玄武岩形成的两级阶梯式瀑布，非常引人注目。"
+      introPhoto = "/bing/IguazuRainbow.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
