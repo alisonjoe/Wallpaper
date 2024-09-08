@@ -1,7 +1,7 @@
 ---
 author: "AlisonLai"
-title:  Ares 3 Landing Site The Martian Revisited 
-date: 2024-03-24T09:00:21+0800
+title:  Small Moon Deimos 
+date: 2024-09-08T09:00:33+0800
 description: ""
 tags: ["nasa"]
 copyright: HiRISE
@@ -9,6 +9,6 @@ thumbnail: /nasa/MRO.jpg
 ---
 图文来源自：nasa.  copyright: HiRISE
 
-  the Mars Reconnaissance Orbiter'sHiRISE camera shows weathered craters and windblown deposits in southern.A striking shade of blue in standard HiRISE image colors,to the human eye the area would probably look grey or a little reddish.But human eyes have not gazedacross this terrain, unless you count the eyes of NASA astronautsin the scifi novel by Andy Weir.The novel chronicles the adventures of Mark Watney,an astronaut stranded at the fictional Mars mission Ares 3 landing sitecorresponding to the coordinates of this cropped HiRISE frame.For scale Watney's 6-meter-diameter habitat at the site would beabout 1/10th the diameter of the large crater.,the Ares 3 landing coordinates are only about 800 kilometers north of the(real life) Carl,the 1997.
+  Mars has two tiny moons, Phobos and ,named for the figures in Greek mythology Fear and Panic.Detailed surface views of smaller moon Deimos are shownin both these panels.The,by the HiRISE camera on board the spacecraft, NASA's long-livedsatellite.The outermost of the two Martian moons,Deimos is one of the smallest known moons in the Solar System, measuring only about 15 kilometers across. Both Martian moons were discovered in 1877 by , an American astronomer working at the US Naval Observatory in Washington D.C.But their existence was postulated around 1610 by , the astronomer who derived the laws of planetary motion.In this case, Kepler's predictionwas not based on scientific principles, buthis writings and ideas were so influential that the two Martian moonsare discussed in works of fiction such as 's Gulliver's Travels, written in 1726, over 150 years before their discovery.
 
 ![MRO](/nasa/MRO.jpg)

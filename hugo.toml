@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = " Ringed Ice Giant Neptune "
-      introSubtitle = "  lies near the center of this sharpnear-infrared image from the.The dim and distant world is the,about 30 times farther away than planet Earth.But in the stunning Webb view, the planet's dark and ghostly appearanceis due to atmospheric methane that absorbs infrared light.High altitude clouds that reach above most of Neptune's absorbing methaneeasily stand out in the image though.Coated with frozen nitrogen, Neptune's largest moon Triton isbrighter than Neptune in reflected sunlight,seen at the upper left sporting the Webb telescope's characteristic.Including Triton, seven of Neptune's 14 known moons can bein the field of view.are striking in this space-based.Details of the complex ring system are seen here for the firsttime since Neptune was visited by the."
-      introPhoto = "/nasa/ESA.jpg"
+      introTitle = " Small Moon Deimos "
+      introSubtitle = "  Mars has two tiny moons, Phobos and ,named for the figures in Greek mythology Fear and Panic.Detailed surface views of smaller moon Deimos are shownin both these panels.The,by the HiRISE camera on board the spacecraft, NASA's long-livedsatellite.The outermost of the two Martian moons,Deimos is one of the smallest known moons in the Solar System, measuring only about 15 kilometers across. Both Martian moons were discovered in 1877 by , an American astronomer working at the US Naval Observatory in Washington D.C.But their existence was postulated around 1610 by , the astronomer who derived the laws of planetary motion.In this case, Kepler's predictionwas not based on scientific principles, buthis writings and ideas were so influential that the two Martian moonsare discussed in works of fiction such as 's Gulliver's Travels, written in 1726, over 150 years before their discovery."
+      introPhoto = "/nasa/MRO.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
