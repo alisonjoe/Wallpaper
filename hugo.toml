@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "阿根廷和巴西边境的伊瓜苏瀑布"
-      introSubtitle = "想亲眼目睹让尼亚加拉瀑布都望尘莫及的壮观瀑布吗？让我们走进世界上最大的瀑布群——伊瓜苏瀑布。“伊瓜苏”这个名字来源于瓜拉尼语或图皮语，意思是“大水”。这些瀑布群由伊瓜苏河形成，位于阿根廷米西奥内斯省和巴西巴拉那州的交界处。它们拥有独特的阶梯状结构，是由三层玄武岩形成的两级阶梯式瀑布，非常引人注目。"
-      introPhoto = "/bing/IguazuRainbow.jpg"
+      introTitle = "Interior of the Stockholm Public Library, Sweden"
+      introSubtitle = "'Literacy is a bridge from misery to hope.' These words by former secretary-general of the United Nations Kofi Annan capture the essence of International Literacy Day, celebrated every September 8. Established by UNESCO in 1966, this observance not only celebrates those who can read but also highlights the ongoing battle against illiteracy. With approximately 775 million people worldwide still lacking basic literacy, this day resonates powerfully within the hallowed walls of the Stockholm Public Library in Sweden, or 'Stadsbiblioteket' as it is known to locals, featured in today's image."
+      introPhoto = "/bing/StockholmLibrary.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
