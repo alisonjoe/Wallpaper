@@ -11,9 +11,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Interior of the Stockholm Public Library, Sweden"
-      introSubtitle = "'Literacy is a bridge from misery to hope.' These words by former secretary-general of the United Nations Kofi Annan capture the essence of International Literacy Day, celebrated every September 8. Established by UNESCO in 1966, this observance not only celebrates those who can read but also highlights the ongoing battle against illiteracy. With approximately 775 million people worldwide still lacking basic literacy, this day resonates powerfully within the hallowed walls of the Stockholm Public Library in Sweden, or 'Stadsbiblioteket' as it is known to locals, featured in today's image."
-      introPhoto = "/bing/StockholmLibrary.jpg"
+      introTitle = " M31: The Andromeda Galaxy "
+      introSubtitle = "  The most distant object easily visible to the unaided eye is,the great .Even at some two and a half million s distant, this immense spiral galaxy -- spanning 200,000 light years -- is visible, although as a faint, nebulous cloud in the.A bright yellow nucleus, dark winding , andexpansive spiral arms dotted with s and , are recorded in  which combines data from  with ground-based images from  and .In only about 5 billion years, the Andromeda galaxy may be even  -- as it will likely span the entire night sky -- just before it  with, or  by, our ."
+      introPhoto = "/nasa/NAOJ.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
