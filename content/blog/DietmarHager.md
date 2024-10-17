@@ -5,8 +5,7 @@ date: 2024-09-06T09:00:32+0800
 description: ""
 tags: ["nasa"]
 copyright: Eric Benson
-thumbnail: /nasa/Dietmar
-Hager.jpg
+thumbnail: /nasa/DietmarHager.jpg
 ---
 图文来源自：nasa.  copyright: Eric Benson
 

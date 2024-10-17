@@ -1,6 +1,6 @@
 ---
 author: "AlisonLai"
-title:  Animation: Perseid Meteor Shower 
+title:  Animation Perseid Meteor Shower 
 date: 2024-08-12T09:00:16+0800
 description: ""
 tags: ["nasa"]

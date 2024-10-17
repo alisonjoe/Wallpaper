@@ -1,6 +1,6 @@
 ---
 author: "AlisonLai"
-title:  M31: The Andromeda Galaxy 
+title:  M31 The Andromeda Galaxy 
 date: 2024-09-09T09:00:34+0800
 description: ""
 tags: ["nasa"]

@@ -1,6 +1,6 @@
 ---
 author: "AlisonLai"
-title:  Mars: Moon, Craters, and Volcanos 
+title:  Mars Moon, Craters, and Volcanos 
 date: 2024-09-10T09:00:20+0800
 description: ""
 tags: ["nasa"]
